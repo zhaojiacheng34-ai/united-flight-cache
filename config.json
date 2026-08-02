@@ -16,5 +16,8 @@
     "TUL", "TUS", "TVC", "TYS", "VPS", "XNA"
   ],
   "horizon_days": 60,
-  "scheduled_routes_per_run": 36
+  "scheduled_routes_per_run": 149,
+  "scheduled_retry_routes_per_run": 12,
+  "retry_after_hours": 12,
+  "refresh_after_hours": 72
 }

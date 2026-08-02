@@ -2,7 +2,7 @@ name: Refresh United fare cache
 
 on:
   schedule:
-    - cron: "17 */3 * * *"
+    - cron: "17 */2 * * *"
   push:
     paths:
       - ".github/refresh-request.json"
@@ -19,7 +19,7 @@ on:
       max_routes:
         description: "Route searches this run (1–175)"
         required: false
-        default: "36"
+        default: "149"
         type: string
 
 permissions:
@@ -46,12 +46,12 @@ jobs:
         env:
           INPUT_DATE: ${{ inputs.date || '' }}
           INPUT_HUB: ${{ inputs.hub || '' }}
-          INPUT_MAX_ROUTES: ${{ inputs.max_routes || '36' }}
+          INPUT_MAX_ROUTES: ${{ inputs.max_routes || '149' }}
         run: |
           if [ "$GITHUB_EVENT_NAME" = "push" ]; then
             DATE_VALUE=$(jq -r '.date // ""' .github/refresh-request.json)
             HUB_VALUE=$(jq -r '.hub // ""' .github/refresh-request.json)
-            MAX_VALUE=$(jq -r '.max_routes // 36' .github/refresh-request.json)
+            MAX_VALUE=$(jq -r '.max_routes // 149' .github/refresh-request.json)
           else
             DATE_VALUE="$INPUT_DATE"
             HUB_VALUE="$INPUT_HUB"
@@ -74,6 +74,6 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/flights.json data/state.json
+          git add data/index.json data/dates data/state.json
           git commit -m "Refresh United fare cache"
           git push

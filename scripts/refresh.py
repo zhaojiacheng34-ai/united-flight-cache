@@ -15,10 +15,14 @@ from fast_flights.exceptions import FlightsNotFound
 from fast_flights.parser import parse as parse_flights_html
 from selectolax.lexbor import LexborHTMLParser
 
+from cache_plan import route_key, select_scheduled
+
 
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG_PATH = ROOT / "config.json"
 DATA_PATH = ROOT / "data" / "flights.json"
+INDEX_PATH = ROOT / "data" / "index.json"
+DATE_DIR = ROOT / "data" / "dates"
 STATE_PATH = ROOT / "data" / "state.json"
 
 
@@ -36,10 +40,6 @@ def write_json(path: Path, value: dict) -> None:
 
 def iso_day(value: date) -> str:
     return value.isoformat()
-
-
-def route_key(departure_date: str, origin: str, destination: str) -> str:
-    return f"{departure_date}|{origin}|{destination}"
 
 
 def build_matrix(config: dict, target_date: str, target_hub: str) -> list[tuple[str, str, str]]:
@@ -68,6 +68,110 @@ def build_matrix(config: dict, target_date: str, target_hub: str) -> list[tuple[
         for destination in destinations
         if destination != hub
     ]
+
+
+def empty_day(departure_date: str) -> dict:
+    return {
+        "schemaVersion": 2,
+        "date": departure_date,
+        "generatedAt": None,
+        "flights": [],
+        "routes": {},
+    }
+
+
+def load_days(legacy: dict, start: str, end: str) -> dict[str, dict]:
+    """Load date shards and migrate useful records from the legacy snapshot."""
+    days: dict[str, dict] = {}
+    for path in sorted(DATE_DIR.glob("*.json")):
+        departure_date = path.stem
+        if start <= departure_date <= end:
+            days[departure_date] = read_json(path, empty_day(departure_date))
+
+    for item in legacy.get("flights", []):
+        departure_date = str(item.get("date", ""))
+        if not (start <= departure_date <= end):
+            continue
+        day = days.setdefault(departure_date, empty_day(departure_date))
+        existing = {flight.get("id") for flight in day.get("flights", [])}
+        if item.get("id") not in existing:
+            day.setdefault("flights", []).append(item)
+
+    for key, value in legacy.get("routes", {}).items():
+        departure_date = str(value.get("date", ""))
+        if start <= departure_date <= end:
+            days.setdefault(departure_date, empty_day(departure_date)).setdefault("routes", {}).setdefault(
+                key, value
+            )
+    return days
+
+
+def clear_route_flights(day: dict, departure_date: str, origin: str, destination: str) -> None:
+    day["flights"] = [
+        item
+        for item in day.get("flights", [])
+        if not (
+            item.get("date") == departure_date
+            and item.get("origin") == origin
+            and item.get("destination") == destination
+        )
+    ]
+
+
+def day_summary(day: dict) -> dict:
+    routes = list(day.get("routes", {}).values())
+    usable = sum(1 for value in routes if value.get("status") in {"ok", "no_results"})
+    parser_errors = sum(1 for value in routes if value.get("status") == "parser_error")
+    other_errors = sum(1 for value in routes if value.get("status") == "error")
+    return {
+        "flightCount": len(day.get("flights", [])),
+        "attemptedRouteDates": len(routes),
+        "coveredRouteDates": usable,
+        "parserErrorRouteDates": parser_errors,
+        "otherErrorRouteDates": other_errors,
+        "generatedAt": day.get("generatedAt"),
+    }
+
+
+def write_expanded_cache(config: dict, days: dict[str, dict], generated_at: str, start: str, end: str) -> dict:
+    DATE_DIR.mkdir(parents=True, exist_ok=True)
+    date_summaries: dict[str, dict] = {}
+    for departure_date, day in sorted(days.items()):
+        if not (start <= departure_date <= end):
+            continue
+        day["schemaVersion"] = 2
+        day["date"] = departure_date
+        day["flights"].sort(
+            key=lambda item: (item.get("price", 10**9), item.get("origin", ""), item.get("departure", ""))
+        )
+        write_json(DATE_DIR / f"{departure_date}.json", day)
+        date_summaries[departure_date] = day_summary(day)
+
+    routes_per_date = sum(1 for hub in config["hubs"] for destination in config["destinations"] if destination != hub)
+    total_route_dates = routes_per_date * int(config.get("horizon_days", 60))
+    attempted = sum(item["attemptedRouteDates"] for item in date_summaries.values())
+    usable = sum(item["coveredRouteDates"] for item in date_summaries.values())
+    parser_errors = sum(item["parserErrorRouteDates"] for item in date_summaries.values())
+    other_errors = sum(item["otherErrorRouteDates"] for item in date_summaries.values())
+    index = {
+        "schemaVersion": 2,
+        "source": "fast-flights",
+        "provider": "Google Flights results via fast-flights",
+        "generatedAt": generated_at,
+        "horizonStart": start,
+        "horizonEnd": end,
+        "totalRouteDates": total_route_dates,
+        "attemptedRouteDates": attempted,
+        "coveredRouteDates": usable,
+        "parserErrorRouteDates": parser_errors,
+        "otherErrorRouteDates": other_errors,
+        "flightCount": sum(item["flightCount"] for item in date_summaries.values()),
+        "coveragePercent": round(attempted / total_route_dates * 100, 2) if total_route_dates else 0,
+        "usableCoveragePercent": round(usable / total_route_dates * 100, 2) if total_route_dates else 0,
+        "dates": date_summaries,
+    }
+    write_json(INDEX_PATH, index)
+    return index
 
 
 def clock(value: tuple[int, int]) -> str:
@@ -151,33 +255,54 @@ def search_route(departure_date: str, origin: str, destination: str) -> tuple[li
 
 def main() -> None:
     config = read_json(CONFIG_PATH, {})
-    data = read_json(DATA_PATH, {"flights": [], "routes": {}})
+    legacy = read_json(DATA_PATH, {"flights": [], "routes": {}})
     state = read_json(STATE_PATH, {"scheduledCursor": 0, "manualCursors": {}})
 
     target_date = os.getenv("TARGET_DATE", "").strip()
     target_hub = os.getenv("TARGET_HUB", "").strip().upper()
-    default_limit = int(config.get("scheduled_routes_per_run", 36))
+    default_limit = int(config.get("scheduled_routes_per_run", 149))
     limit = max(1, min(int(os.getenv("MAX_ROUTES", str(default_limit))), 175))
     matrix = build_matrix(config, target_date, target_hub)
     if not matrix:
         raise RuntimeError("No route/date combinations were generated")
 
-    cursor_key = f"{target_date or 'scheduled'}|{target_hub or 'all'}"
-    if target_date or target_hub:
-        cursor = int(state.setdefault("manualCursors", {}).get(cursor_key, 0)) % len(matrix)
-    else:
-        cursor = int(state.get("scheduledCursor", 0)) % len(matrix)
+    tomorrow = date.today() + timedelta(days=1)
+    horizon_end = tomorrow + timedelta(days=int(config.get("horizon_days", 60)) - 1)
+    horizon_start_text = iso_day(tomorrow)
+    horizon_end_text = iso_day(horizon_end)
+    days = load_days(legacy, horizon_start_text, horizon_end_text)
+    now = datetime.now(timezone.utc)
 
-    selected = [matrix[(cursor + offset) % len(matrix)] for offset in range(min(limit, len(matrix)))]
-    flights_by_id = {item["id"]: item for item in data.get("flights", []) if item.get("id")}
-    routes = data.setdefault("routes", {})
+    if target_date or target_hub:
+        cursor_key = f"{target_date or 'scheduled'}|{target_hub or 'all'}"
+        cursor = int(state.setdefault("manualCursors", {}).get(cursor_key, 0)) % len(matrix)
+        selected = [matrix[(cursor + offset) % len(matrix)] for offset in range(min(limit, len(matrix)))]
+        state.setdefault("manualCursors", {})[cursor_key] = (cursor + len(selected)) % len(matrix)
+    else:
+        selected = select_scheduled(
+            matrix=matrix,
+            days=days,
+            limit=limit,
+            retry_limit=int(config.get("scheduled_retry_routes_per_run", 12)),
+            retry_after_hours=float(config.get("retry_after_hours", 12)),
+            refresh_after_hours=float(config.get("refresh_after_hours", 72)),
+            now=now,
+        )
+        state["lastScheduledAt"] = now.isoformat()
+    if not selected:
+        print("Expanded cache is current; no routes are due for refresh", flush=True)
+
     successful = 0
     no_results = 0
     parser_errors = 0
     failed = 0
+    touched_dates: set[str] = set()
 
     for index, (departure_date, origin, destination) in enumerate(selected, start=1):
         key = route_key(departure_date, origin, destination)
+        day = days.setdefault(departure_date, empty_day(departure_date))
+        routes = day.setdefault("routes", {})
+        touched_dates.add(departure_date)
         print(f"[{index}/{len(selected)}] {origin}-{destination} on {departure_date}", flush=True)
         try:
             try:
@@ -186,17 +311,11 @@ def main() -> None:
                 print("  parser response was incomplete; retrying once", flush=True)
                 time.sleep(1)
                 found, search_url = search_route(departure_date, origin, destination)
-            flights_by_id = {
-                item_id: item
-                for item_id, item in flights_by_id.items()
-                if not (
-                    item.get("date") == departure_date
-                    and item.get("origin") == origin
-                    and item.get("destination") == destination
-                )
-            }
+            clear_route_flights(day, departure_date, origin, destination)
+            flights_by_id = {item["id"]: item for item in day.get("flights", []) if item.get("id")}
             for item in found:
                 flights_by_id[item["id"]] = item
+            day["flights"] = list(flights_by_id.values())
             routes[key] = {
                 "date": departure_date,
                 "origin": origin,
@@ -208,6 +327,7 @@ def main() -> None:
             }
             successful += 1
         except FlightsNotFound:
+            clear_route_flights(day, departure_date, origin, destination)
             routes[key] = {
                 "date": departure_date,
                 "origin": origin,
@@ -243,55 +363,20 @@ def main() -> None:
             failed += 1
         time.sleep(0.25)
 
-    next_cursor = (cursor + len(selected)) % len(matrix)
-    if target_date or target_hub:
-        state.setdefault("manualCursors", {})[cursor_key] = next_cursor
-    else:
-        state["scheduledCursor"] = next_cursor
-
-    tomorrow = date.today() + timedelta(days=1)
-    horizon_end = tomorrow + timedelta(days=int(config.get("horizon_days", 60)) - 1)
-    flights = [
-        item
-        for item in flights_by_id.values()
-        if iso_day(tomorrow) <= str(item.get("date", "")) <= iso_day(horizon_end)
-    ]
-    routes = {
-        key: value
-        for key, value in routes.items()
-        if iso_day(tomorrow) <= str(value.get("date", "")) <= iso_day(horizon_end)
-    }
-    flights.sort(key=lambda item: (item.get("price", 10**9), item.get("date", ""), item.get("origin", "")))
-
-    routes_per_date = sum(1 for hub in config["hubs"] for destination in config["destinations"] if destination != hub)
-    total_route_dates = routes_per_date * int(config.get("horizon_days", 60))
-    attempted = len(routes)
-    usable = sum(1 for value in routes.values() if value.get("status") in {"ok", "no_results"})
-    total_parser_errors = sum(1 for value in routes.values() if value.get("status") == "parser_error")
-    data = {
-        "schemaVersion": 1,
-        "source": "fast-flights",
-        "provider": "Google Flights results via fast-flights",
-        "generatedAt": datetime.now(timezone.utc).isoformat(),
-        "horizonStart": iso_day(tomorrow),
-        "horizonEnd": iso_day(horizon_end),
-        "totalRouteDates": total_route_dates,
-        "attemptedRouteDates": attempted,
-        "coveredRouteDates": usable,
-        "parserErrorRouteDates": total_parser_errors,
-        "coveragePercent": round(attempted / total_route_dates * 100, 2) if total_route_dates else 0,
-        "usableCoveragePercent": round(usable / total_route_dates * 100, 2) if total_route_dates else 0,
-        "successfulChecks": successful + no_results,
-        "noResultChecks": no_results,
-        "parserErrorChecks": parser_errors,
-        "failedChecks": failed + parser_errors,
-        "flights": flights,
-        "routes": routes,
-    }
-    write_json(DATA_PATH, data)
+    generated_at = datetime.now(timezone.utc).isoformat()
+    for departure_date in touched_dates:
+        days[departure_date]["generatedAt"] = generated_at
+    index = write_expanded_cache(
+        config,
+        days,
+        generated_at,
+        horizon_start_text,
+        horizon_end_text,
+    )
     write_json(STATE_PATH, state)
     print(
-        f"Saved {len(flights)} flights; attempted {attempted}/{total_route_dates} route-dates; "
+        f"Saved {index['flightCount']} flights across {len(index['dates'])} date shards; "
+        f"attempted {index['attemptedRouteDates']}/{index['totalRouteDates']} route-dates; "
         f"this run: {successful} parsed, {no_results} no-results, {parser_errors} parser errors, {failed} other errors",
         flush=True,
     )
