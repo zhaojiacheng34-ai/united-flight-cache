@@ -3,6 +3,9 @@ name: Refresh United fare cache
 on:
   schedule:
     - cron: "17 */3 * * *"
+  push:
+    paths:
+      - ".github/refresh-request.json"
   workflow_dispatch:
     inputs:
       date:
@@ -38,11 +41,30 @@ jobs:
           cache: pip
       - name: Install scraper
         run: pip install -r requirements.txt
+      - name: Resolve refresh request
+        id: request
+        env:
+          INPUT_DATE: ${{ inputs.date || '' }}
+          INPUT_HUB: ${{ inputs.hub || '' }}
+          INPUT_MAX_ROUTES: ${{ inputs.max_routes || '36' }}
+        run: |
+          if [ "$GITHUB_EVENT_NAME" = "push" ]; then
+            DATE_VALUE=$(jq -r '.date // ""' .github/refresh-request.json)
+            HUB_VALUE=$(jq -r '.hub // ""' .github/refresh-request.json)
+            MAX_VALUE=$(jq -r '.max_routes // 36' .github/refresh-request.json)
+          else
+            DATE_VALUE="$INPUT_DATE"
+            HUB_VALUE="$INPUT_HUB"
+            MAX_VALUE="$INPUT_MAX_ROUTES"
+          fi
+          echo "date=$DATE_VALUE" >> "$GITHUB_OUTPUT"
+          echo "hub=$HUB_VALUE" >> "$GITHUB_OUTPUT"
+          echo "max_routes=$MAX_VALUE" >> "$GITHUB_OUTPUT"
       - name: Refresh bounded route batch
         env:
-          TARGET_DATE: ${{ inputs.date || '' }}
-          TARGET_HUB: ${{ inputs.hub || '' }}
-          MAX_ROUTES: ${{ inputs.max_routes || '36' }}
+          TARGET_DATE: ${{ steps.request.outputs.date }}
+          TARGET_HUB: ${{ steps.request.outputs.hub }}
+          MAX_ROUTES: ${{ steps.request.outputs.max_routes }}
         run: python scripts/refresh.py
       - name: Publish cache snapshot
         run: |
