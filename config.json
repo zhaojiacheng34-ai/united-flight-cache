@@ -1,0 +1,20 @@
+{
+  "hubs": ["EWR", "ORD", "IAD", "DEN", "IAH", "LAX", "SFO"],
+  "destinations": [
+    "ABE", "ABQ", "ACK", "ALB", "AMA", "ANC", "ASE", "ATL", "ATW", "AUS", "AVL", "BDL",
+    "BFL", "BGR", "BHM", "BIL", "BIS", "BNA", "BOI", "BOS", "BRO", "BTR", "BTV", "BUF",
+    "BWI", "BZN", "CAE", "CHA", "CHS", "CID", "CLE", "CLT", "CMH", "COS", "CPR", "CRP",
+    "CVG", "CWA", "DCA", "DFW", "DLH", "DRO", "DSM", "DTW", "EGE", "ELP", "EUG", "EVV",
+    "EWR", "FAR", "FAT", "FLL", "FSD", "FWA", "GEG", "GJT", "GRB", "GRR", "GSO", "GSP",
+    "HDN", "HHH", "HLN", "HNL", "HSV", "IAD", "IAH", "ICT", "IDA", "ILM", "IND", "JAC",
+    "JAN", "JAX", "KOA", "LAS", "LAX", "LBB", "LGA", "LIH", "LIT", "LNK", "MAF", "MCI",
+    "MCO", "MDT", "MEM", "MFE", "MHT", "MIA", "MKE", "MLI", "MRY", "MSN", "MSO", "MSP",
+    "MSY", "MYR", "OAK", "OGG", "OKC", "OMA", "ONT", "ORD", "ORF", "PBI", "PDX", "PHL",
+    "PHX", "PIA", "PIT", "PNS", "PSC", "PSP", "PWM", "RAP", "RDM", "RDU", "RIC", "RNO",
+    "ROA", "ROC", "RSW", "SAN", "SAT", "SAV", "SBA", "SBN", "SDF", "SEA", "SFO", "SGF",
+    "SHV", "SJC", "SLC", "SMF", "SNA", "SRQ", "STL", "STS", "SUN", "SYR", "TLH", "TPA",
+    "TUL", "TUS", "TVC", "TYS", "VPS", "XNA"
+  ],
+  "horizon_days": 60,
+  "scheduled_routes_per_run": 36
+}
