@@ -10,8 +10,10 @@ from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import quote
 
-from fast_flights import FlightQuery, Passengers, create_query, get_flights
+from fast_flights import FlightQuery, Passengers, create_query, fetch_flights_html
 from fast_flights.exceptions import FlightsNotFound
+from fast_flights.parser import parse as parse_flights_html
+from selectolax.lexbor import LexborHTMLParser
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -69,7 +71,28 @@ def build_matrix(config: dict, target_date: str, target_hub: str) -> list[tuple[
 
 
 def clock(value: tuple[int, int]) -> str:
-    return f"{int(value[0]):02d}:{int(value[1]):02d}"
+    if not value:
+        raise ValueError("flight time was missing")
+    minute = value[1] if len(value) > 1 else 0
+    return f"{int(value[0]):02d}:{int(minute):02d}"
+
+
+def parse_results(html: str):
+    """Treat Google's verified null-results payload as an empty search result."""
+    script = LexborHTMLParser(html).css_first(r"script.ds\:1")
+    if script is None:
+        raise ValueError("Google Flights response did not contain the expected data script")
+    js = script.text()
+    if "data:" not in js:
+        raise ValueError("Google Flights data script did not contain a payload")
+    data = js.split("data:", 1)[1].rsplit(",", 1)[0]
+    if data.endswith("errorHasStatus: true"):
+        raise FlightsNotFound("no flights found; received error status")
+    payload = json.loads(data)
+    flight_section = payload[3] if isinstance(payload, list) and len(payload) > 3 else None
+    if not flight_section or not isinstance(flight_section, list) or not flight_section[0]:
+        raise FlightsNotFound("no nonstop United results in response")
+    return parse_flights_html(html)
 
 
 def search_route(departure_date: str, origin: str, destination: str) -> tuple[list[dict], str]:
@@ -91,7 +114,7 @@ def search_route(departure_date: str, origin: str, destination: str) -> tuple[li
         exclude_basic_economy=True,
     )
     search_url = "https://www.google.com/travel/flights/search?tfs=" + quote(query.to_str()) + "&curr=USD&hl=en"
-    results = get_flights(query)
+    results = parse_results(fetch_flights_html(query))
     flights: list[dict] = []
 
     for option_index, option in enumerate(results):
