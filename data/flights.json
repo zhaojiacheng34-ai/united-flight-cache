@@ -2,14 +2,339 @@
   "schemaVersion": 1,
   "source": "fast-flights",
   "provider": "Google Flights results via fast-flights",
-  "generatedAt": null,
-  "horizonStart": null,
-  "horizonEnd": null,
-  "totalRouteDates": 0,
+  "generatedAt": "2026-08-02T14:03:48.800017+00:00",
+  "horizonStart": "2026-08-03",
+  "horizonEnd": "2026-10-01",
+  "totalRouteDates": 62640,
   "coveredRouteDates": 0,
-  "coveragePercent": 0,
+  "coveragePercent": 0.0,
   "successfulChecks": 0,
-  "failedChecks": 0,
+  "failedChecks": 36,
   "flights": [],
-  "routes": {}
+  "routes": {
+    "2026-08-03|EWR|ABE": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "ABE",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:39.792211+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|ABQ": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "ABQ",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:40.042416+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|ACK": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "ACK",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:40.292663+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|ALB": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "ALB",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:40.542890+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|AMA": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "AMA",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:40.793114+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|ANC": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "ANC",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:41.043355+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|ASE": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "ASE",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:41.293594+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|ATL": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "ATL",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:41.543824+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|ATW": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "ATW",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:41.794033+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|AUS": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "AUS",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:42.044242+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|AVL": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "AVL",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:42.294453+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|BDL": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "BDL",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:42.544667+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|BFL": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "BFL",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:42.794888+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|BGR": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "BGR",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:43.045102+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|BHM": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "BHM",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:43.295322+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|BIL": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "BIL",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:43.545543+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|BIS": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "BIS",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:43.795755+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|BNA": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "BNA",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:44.045976+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|BOI": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "BOI",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:44.296193+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|BOS": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "BOS",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:44.546440+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|BRO": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "BRO",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:44.796662+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|BTR": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "BTR",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:45.046854+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|BTV": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "BTV",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:45.297040+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|BUF": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "BUF",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:45.547233+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|BWI": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "BWI",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:45.797455+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|BZN": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "BZN",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:46.047637+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|CAE": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "CAE",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:46.297869+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|CHA": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "CHA",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:46.548068+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|CHS": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "CHS",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:46.798275+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|CID": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "CID",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:47.048484+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|CLE": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "CLE",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:47.298717+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|CLT": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "CLT",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:47.548928+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|CMH": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "CMH",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:47.799099+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|COS": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "COS",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:48.049295+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|CPR": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "CPR",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:48.299523+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    },
+    "2026-08-03|EWR|CRP": {
+      "date": "2026-08-03",
+      "origin": "EWR",
+      "destination": "CRP",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-02T14:03:48.549723+00:00",
+      "error": "TypeError: create_query() got an unexpected keyword argument 'exclude_basic_economy'"
+    }
+  }
 }
