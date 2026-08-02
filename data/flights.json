@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "source": "fast-flights",
   "provider": "Google Flights results via fast-flights",
-  "generatedAt": "2026-08-02T14:24:16.804710+00:00",
+  "generatedAt": "2026-08-02T14:33:46.318559+00:00",
   "horizonStart": "2026-08-03",
   "horizonEnd": "2026-10-01",
   "totalRouteDates": 62640,
   "attemptedRouteDates": 149,
-  "coveredRouteDates": 42,
-  "parserErrorRouteDates": 107,
+  "coveredRouteDates": 58,
+  "parserErrorRouteDates": 91,
   "coveragePercent": 0.24,
-  "usableCoveragePercent": 0.07,
-  "successfulChecks": 42,
-  "noResultChecks": 0,
-  "parserErrorChecks": 107,
-  "failedChecks": 107,
+  "usableCoveragePercent": 0.09,
+  "successfulChecks": 20,
+  "noResultChecks": 13,
+  "parserErrorChecks": 0,
+  "failedChecks": 0,
   "flights": [
     {
       "id": "EWR-ACK-2026-08-03-13:38-15:04-86-234-0",
@@ -377,6 +377,51 @@
       "updatedAt": "2026-08-02T14:21:31.390833+00:00"
     },
     {
+      "id": "EWR-JAX-2026-08-03-06:00-08:31-151-314-0",
+      "origin": "EWR",
+      "destination": "JAX",
+      "destinationCity": "Jacksonville International Airport",
+      "date": "2026-08-03",
+      "departure": "06:00",
+      "arrival": "08:31",
+      "duration": 151,
+      "price": 314,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA0pBWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-02T14:33:35.520091+00:00"
+    },
+    {
+      "id": "EWR-JAX-2026-08-03-13:01-15:42-161-314-1",
+      "origin": "EWR",
+      "destination": "JAX",
+      "destinationCity": "Jacksonville International Airport",
+      "date": "2026-08-03",
+      "departure": "13:01",
+      "arrival": "15:42",
+      "duration": 161,
+      "price": 314,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA0pBWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-02T14:33:35.520138+00:00"
+    },
+    {
+      "id": "EWR-JAX-2026-08-03-21:22-23:59-157-314-2",
+      "origin": "EWR",
+      "destination": "JAX",
+      "destinationCity": "Jacksonville International Airport",
+      "date": "2026-08-03",
+      "departure": "21:22",
+      "arrival": "23:59",
+      "duration": 157,
+      "price": 314,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA0pBWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-02T14:33:35.520144+00:00"
+    },
+    {
       "id": "EWR-PBI-2026-08-03-06:35-09:35-180-329-0",
       "origin": "EWR",
       "destination": "PBI",
@@ -437,6 +482,36 @@
       "updatedAt": "2026-08-02T14:23:56.574999+00:00"
     },
     {
+      "id": "EWR-MIA-2026-08-03-16:00-19:26-206-331-0",
+      "origin": "EWR",
+      "destination": "MIA",
+      "destinationCity": "Miami International Airport",
+      "date": "2026-08-03",
+      "departure": "16:00",
+      "arrival": "19:26",
+      "duration": 206,
+      "price": 331,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA01JQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-02T14:33:44.416644+00:00"
+    },
+    {
+      "id": "EWR-MIA-2026-08-03-20:04-23:22-198-331-1",
+      "origin": "EWR",
+      "destination": "MIA",
+      "destinationCity": "Miami International Airport",
+      "date": "2026-08-03",
+      "departure": "20:04",
+      "arrival": "23:22",
+      "duration": 198,
+      "price": 331,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA01JQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-02T14:33:44.416672+00:00"
+    },
+    {
       "id": "EWR-CLE-2026-08-03-18:35-20:24-109-341-0",
       "origin": "EWR",
       "destination": "CLE",
@@ -479,7 +554,7 @@
       "airline": "United",
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA01DT0IBAUgBmAECyAEB&curr=USD&hl=en",
-      "updatedAt": "2026-08-02T14:21:04.010468+00:00"
+      "updatedAt": "2026-08-02T14:33:41.723459+00:00"
     },
     {
       "id": "EWR-BGR-2026-08-03-09:30-11:04-94-361-0",
@@ -752,6 +827,21 @@
       "updatedAt": "2026-08-02T14:22:12.905332+00:00"
     },
     {
+      "id": "EWR-JAX-2026-08-03-15:24-18:03-159-374-3",
+      "origin": "EWR",
+      "destination": "JAX",
+      "destinationCity": "Jacksonville International Airport",
+      "date": "2026-08-03",
+      "departure": "15:24",
+      "arrival": "18:03",
+      "duration": 159,
+      "price": 374,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA0pBWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-02T14:33:35.520148+00:00"
+    },
+    {
       "id": "EWR-PWM-2026-08-03-16:59-18:29-90-379-3",
       "origin": "EWR",
       "destination": "PWM",
@@ -899,7 +989,7 @@
       "airline": "United",
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA01DT0IBAUgBmAECyAEB&curr=USD&hl=en",
-      "updatedAt": "2026-08-02T14:21:04.010491+00:00"
+      "updatedAt": "2026-08-02T14:33:41.723486+00:00"
     },
     {
       "id": "EWR-BTV-2026-08-03-08:07-09:31-84-409-0",
@@ -1157,6 +1247,21 @@
       "updatedAt": "2026-08-02T14:22:01.182518+00:00"
     },
     {
+      "id": "EWR-BUF-2026-08-03-08:25-09:53-88-459-1",
+      "origin": "EWR",
+      "destination": "BUF",
+      "destinationCity": "Buffalo Niagara International Airport",
+      "date": "2026-08-03",
+      "departure": "08:25",
+      "arrival": "09:53",
+      "duration": 88,
+      "price": 459,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA0JVRkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-02T14:23:06.548899+00:00"
+    },
+    {
       "id": "EWR-MKE-2026-08-03-08:47-10:11-144-459-0",
       "origin": "EWR",
       "destination": "MKE",
@@ -1169,7 +1274,7 @@
       "airline": "United",
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA01LRUIBAUgBmAECyAEB&curr=USD&hl=en",
-      "updatedAt": "2026-08-02T14:21:12.316336+00:00"
+      "updatedAt": "2026-08-02T14:33:45.015016+00:00"
     },
     {
       "id": "EWR-MKE-2026-08-03-21:59-23:34-155-459-1",
@@ -1184,22 +1289,7 @@
       "airline": "United",
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA01LRUIBAUgBmAECyAEB&curr=USD&hl=en",
-      "updatedAt": "2026-08-02T14:21:12.316358+00:00"
-    },
-    {
-      "id": "EWR-BUF-2026-08-03-08:25-09:53-88-459-1",
-      "origin": "EWR",
-      "destination": "BUF",
-      "destinationCity": "Buffalo Niagara International Airport",
-      "date": "2026-08-03",
-      "departure": "08:25",
-      "arrival": "09:53",
-      "duration": 88,
-      "price": 459,
-      "airline": "United",
-      "priceSignal": "standard economy",
-      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA0JVRkIBAUgBmAECyAEB&curr=USD&hl=en",
-      "updatedAt": "2026-08-02T14:23:06.548899+00:00"
+      "updatedAt": "2026-08-02T14:33:45.015040+00:00"
     },
     {
       "id": "EWR-AUS-2026-08-03-19:27-22:33-246-462-0",
@@ -1274,7 +1364,7 @@
       "airline": "United",
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA01FTUIBAUgBmAECyAEB&curr=USD&hl=en",
-      "updatedAt": "2026-08-02T14:21:06.347119+00:00"
+      "updatedAt": "2026-08-02T14:33:42.742911+00:00"
     },
     {
       "id": "EWR-MEM-2026-08-03-21:27-23:34-187-470-1",
@@ -1289,7 +1379,7 @@
       "airline": "United",
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA01FTUIBAUgBmAECyAEB&curr=USD&hl=en",
-      "updatedAt": "2026-08-02T14:21:06.347145+00:00"
+      "updatedAt": "2026-08-02T14:33:42.742937+00:00"
     },
     {
       "id": "EWR-GSO-2026-08-03-17:30-19:26-116-480-2",
@@ -1367,19 +1457,64 @@
       "updatedAt": "2026-08-02T14:22:12.905355+00:00"
     },
     {
-      "id": "EWR-MKE-2026-08-03-16:47-18:26-159-519-2",
+      "id": "EWR-LAX-2026-08-03-14:15-17:13-358-516-0",
       "origin": "EWR",
-      "destination": "MKE",
-      "destinationCity": "Milwaukee Mitchell International Airport",
+      "destination": "LAX",
+      "destinationCity": "Los Angeles International Airport",
       "date": "2026-08-03",
-      "departure": "16:47",
-      "arrival": "18:26",
-      "duration": 159,
-      "price": 519,
+      "departure": "14:15",
+      "arrival": "17:13",
+      "duration": 358,
+      "price": 516,
       "airline": "United",
       "priceSignal": "standard economy",
-      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA01LRUIBAUgBmAECyAEB&curr=USD&hl=en",
-      "updatedAt": "2026-08-02T14:21:12.316366+00:00"
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA0xBWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-02T14:33:37.211214+00:00"
+    },
+    {
+      "id": "EWR-LAX-2026-08-03-17:30-20:40-370-516-1",
+      "origin": "EWR",
+      "destination": "LAX",
+      "destinationCity": "Los Angeles International Airport",
+      "date": "2026-08-03",
+      "departure": "17:30",
+      "arrival": "20:40",
+      "duration": 370,
+      "price": 516,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA0xBWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-02T14:33:37.211241+00:00"
+    },
+    {
+      "id": "EWR-LAX-2026-08-03-18:45-21:36-351-516-2",
+      "origin": "EWR",
+      "destination": "LAX",
+      "destinationCity": "Los Angeles International Airport",
+      "date": "2026-08-03",
+      "departure": "18:45",
+      "arrival": "21:36",
+      "duration": 351,
+      "price": 516,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA0xBWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-02T14:33:37.211246+00:00"
+    },
+    {
+      "id": "EWR-LAX-2026-08-03-20:10-23:15-365-516-3",
+      "origin": "EWR",
+      "destination": "LAX",
+      "destinationCity": "Los Angeles International Airport",
+      "date": "2026-08-03",
+      "departure": "20:10",
+      "arrival": "23:15",
+      "duration": 365,
+      "price": 516,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA0xBWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-02T14:33:37.211250+00:00"
     },
     {
       "id": "EWR-SDF-2026-08-03-10:05-12:21-136-519-0",
@@ -1425,6 +1560,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA1NERkIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-08-02T14:22:00.676814+00:00"
+    },
+    {
+      "id": "EWR-MKE-2026-08-03-16:47-18:26-159-519-2",
+      "origin": "EWR",
+      "destination": "MKE",
+      "destinationCity": "Milwaukee Mitchell International Airport",
+      "date": "2026-08-03",
+      "departure": "16:47",
+      "arrival": "18:26",
+      "duration": 159,
+      "price": 519,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA01LRUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-02T14:33:45.015045+00:00"
     },
     {
       "id": "EWR-SAV-2026-08-03-11:59-14:14-135-529-1",
@@ -1574,7 +1724,7 @@
       "airline": "United",
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA01DSUIBAUgBmAECyAEB&curr=USD&hl=en",
-      "updatedAt": "2026-08-02T14:21:03.499349+00:00"
+      "updatedAt": "2026-08-02T14:33:41.189138+00:00"
     },
     {
       "id": "EWR-MCI-2026-08-03-21:43-23:59-196-584-1",
@@ -1589,7 +1739,7 @@
       "airline": "United",
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA01DSUIBAUgBmAECyAEB&curr=USD&hl=en",
-      "updatedAt": "2026-08-02T14:21:03.499373+00:00"
+      "updatedAt": "2026-08-02T14:33:41.189164+00:00"
     },
     {
       "id": "EWR-DTW-2026-08-03-14:07-16:07-120-589-1",
@@ -1724,7 +1874,7 @@
       "airline": "United",
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA01DT0IBAUgBmAECyAEB&curr=USD&hl=en",
-      "updatedAt": "2026-08-02T14:21:04.010498+00:00"
+      "updatedAt": "2026-08-02T14:33:41.723490+00:00"
     },
     {
       "id": "EWR-DTW-2026-08-03-16:20-18:19-119-629-2",
@@ -1740,6 +1890,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA0RUV0IBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-08-02T14:23:33.184558+00:00"
+    },
+    {
+      "id": "EWR-LAX-2026-08-03-09:15-11:53-338-629-4",
+      "origin": "EWR",
+      "destination": "LAX",
+      "destinationCity": "Los Angeles International Airport",
+      "date": "2026-08-03",
+      "departure": "09:15",
+      "arrival": "11:53",
+      "duration": 338,
+      "price": 629,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA0xBWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-02T14:33:37.211253+00:00"
     },
     {
       "id": "EWR-ANC-2026-08-03-15:28-19:12-464-643-0",
@@ -1802,21 +1967,6 @@
       "updatedAt": "2026-08-02T14:21:35.299546+00:00"
     },
     {
-      "id": "EWR-MCO-2026-08-03-06:30-09:16-166-779-3",
-      "origin": "EWR",
-      "destination": "MCO",
-      "destinationCity": "Orlando International Airport",
-      "date": "2026-08-03",
-      "departure": "06:30",
-      "arrival": "09:16",
-      "duration": 166,
-      "price": 779,
-      "airline": "United",
-      "priceSignal": "standard economy",
-      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA01DT0IBAUgBmAECyAEB&curr=USD&hl=en",
-      "updatedAt": "2026-08-02T14:21:04.010504+00:00"
-    },
-    {
       "id": "EWR-SAN-2026-08-03-06:35-09:21-346-779-3",
       "origin": "EWR",
       "destination": "SAN",
@@ -1830,6 +1980,51 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA1NBTkIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-08-02T14:21:55.626366+00:00"
+    },
+    {
+      "id": "EWR-LAX-2026-08-03-06:00-08:53-353-779-5",
+      "origin": "EWR",
+      "destination": "LAX",
+      "destinationCity": "Los Angeles International Airport",
+      "date": "2026-08-03",
+      "departure": "06:00",
+      "arrival": "08:53",
+      "duration": 353,
+      "price": 779,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA0xBWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-02T14:33:37.211256+00:00"
+    },
+    {
+      "id": "EWR-LAX-2026-08-03-07:00-09:37-337-779-6",
+      "origin": "EWR",
+      "destination": "LAX",
+      "destinationCity": "Los Angeles International Airport",
+      "date": "2026-08-03",
+      "departure": "07:00",
+      "arrival": "09:37",
+      "duration": 337,
+      "price": 779,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA0xBWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-02T14:33:37.211261+00:00"
+    },
+    {
+      "id": "EWR-MCO-2026-08-03-06:30-09:16-166-779-3",
+      "origin": "EWR",
+      "destination": "MCO",
+      "destinationCity": "Orlando International Airport",
+      "date": "2026-08-03",
+      "departure": "06:30",
+      "arrival": "09:16",
+      "duration": 166,
+      "price": 779,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA01DT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-02T14:33:41.723494+00:00"
     },
     {
       "id": "EWR-MSP-2026-08-03-21:55-23:59-184-819-2",
@@ -2545,91 +2740,83 @@
       "date": "2026-08-03",
       "origin": "EWR",
       "destination": "JAX",
-      "status": "parser_error",
-      "flightCount": 0,
-      "updatedAt": "2026-08-02T14:20:47.264567+00:00",
-      "error": "IndexError: list index out of range"
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-08-02T14:33:35.520210+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA0pBWEIBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-08-03|EWR|KOA": {
       "date": "2026-08-03",
       "origin": "EWR",
       "destination": "KOA",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-08-02T14:20:49.043112+00:00",
-      "error": "TypeError: 'NoneType' object is not subscriptable"
+      "updatedAt": "2026-08-02T14:33:36.097235+00:00"
     },
     "2026-08-03|EWR|LAS": {
       "date": "2026-08-03",
       "origin": "EWR",
       "destination": "LAS",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-08-02T14:20:50.773936+00:00",
-      "error": "TypeError: 'NoneType' object is not subscriptable"
+      "updatedAt": "2026-08-02T14:33:36.609309+00:00"
     },
     "2026-08-03|EWR|LAX": {
       "date": "2026-08-03",
       "origin": "EWR",
       "destination": "LAX",
-      "status": "parser_error",
-      "flightCount": 0,
-      "updatedAt": "2026-08-02T14:20:52.617538+00:00",
-      "error": "IndexError: list index out of range"
+      "status": "ok",
+      "flightCount": 7,
+      "updatedAt": "2026-08-02T14:33:37.211329+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA0xBWEIBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-08-03|EWR|LBB": {
       "date": "2026-08-03",
       "origin": "EWR",
       "destination": "LBB",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-08-02T14:20:54.323696+00:00",
-      "error": "TypeError: 'NoneType' object is not subscriptable"
+      "updatedAt": "2026-08-02T14:33:37.815992+00:00"
     },
     "2026-08-03|EWR|LGA": {
       "date": "2026-08-03",
       "origin": "EWR",
       "destination": "LGA",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-08-02T14:20:56.070645+00:00",
-      "error": "TypeError: 'NoneType' object is not subscriptable"
+      "updatedAt": "2026-08-02T14:33:38.314640+00:00"
     },
     "2026-08-03|EWR|LIH": {
       "date": "2026-08-03",
       "origin": "EWR",
       "destination": "LIH",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-08-02T14:20:57.819403+00:00",
-      "error": "TypeError: 'NoneType' object is not subscriptable"
+      "updatedAt": "2026-08-02T14:33:38.810906+00:00"
     },
     "2026-08-03|EWR|LIT": {
       "date": "2026-08-03",
       "origin": "EWR",
       "destination": "LIT",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-08-02T14:20:59.517156+00:00",
-      "error": "TypeError: 'NoneType' object is not subscriptable"
+      "updatedAt": "2026-08-02T14:33:39.412434+00:00"
     },
     "2026-08-03|EWR|LNK": {
       "date": "2026-08-03",
       "origin": "EWR",
       "destination": "LNK",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-08-02T14:21:01.259262+00:00",
-      "error": "TypeError: 'NoneType' object is not subscriptable"
+      "updatedAt": "2026-08-02T14:33:40.037421+00:00"
     },
     "2026-08-03|EWR|MAF": {
       "date": "2026-08-03",
       "origin": "EWR",
       "destination": "MAF",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-08-02T14:21:02.987576+00:00",
-      "error": "TypeError: 'NoneType' object is not subscriptable"
+      "updatedAt": "2026-08-02T14:33:40.558021+00:00"
     },
     "2026-08-03|EWR|MCI": {
       "date": "2026-08-03",
@@ -2637,7 +2824,7 @@
       "destination": "MCI",
       "status": "ok",
       "flightCount": 2,
-      "updatedAt": "2026-08-02T14:21:03.499405+00:00",
+      "updatedAt": "2026-08-02T14:33:41.189208+00:00",
       "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA01DSUIBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-08-03|EWR|MCO": {
@@ -2646,17 +2833,16 @@
       "destination": "MCO",
       "status": "ok",
       "flightCount": 4,
-      "updatedAt": "2026-08-02T14:21:04.010534+00:00",
+      "updatedAt": "2026-08-02T14:33:41.723555+00:00",
       "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA01DT0IBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-08-03|EWR|MDT": {
       "date": "2026-08-03",
       "origin": "EWR",
       "destination": "MDT",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-08-02T14:21:05.827787+00:00",
-      "error": "TypeError: 'NoneType' object is not subscriptable"
+      "updatedAt": "2026-08-02T14:33:42.234929+00:00"
     },
     "2026-08-03|EWR|MEM": {
       "date": "2026-08-03",
@@ -2664,35 +2850,33 @@
       "destination": "MEM",
       "status": "ok",
       "flightCount": 2,
-      "updatedAt": "2026-08-02T14:21:06.347181+00:00",
+      "updatedAt": "2026-08-02T14:33:42.742996+00:00",
       "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA01FTUIBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-08-03|EWR|MFE": {
       "date": "2026-08-03",
       "origin": "EWR",
       "destination": "MFE",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-08-02T14:21:08.132994+00:00",
-      "error": "TypeError: 'NoneType' object is not subscriptable"
+      "updatedAt": "2026-08-02T14:33:43.269864+00:00"
     },
     "2026-08-03|EWR|MHT": {
       "date": "2026-08-03",
       "origin": "EWR",
       "destination": "MHT",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-08-02T14:21:09.959995+00:00",
-      "error": "TypeError: 'NoneType' object is not subscriptable"
+      "updatedAt": "2026-08-02T14:33:43.853120+00:00"
     },
     "2026-08-03|EWR|MIA": {
       "date": "2026-08-03",
       "origin": "EWR",
       "destination": "MIA",
-      "status": "parser_error",
-      "flightCount": 0,
-      "updatedAt": "2026-08-02T14:21:11.752397+00:00",
-      "error": "IndexError: list index out of range"
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-08-02T14:33:44.416736+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA01JQUIBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-08-03|EWR|MKE": {
       "date": "2026-08-03",
@@ -2700,26 +2884,24 @@
       "destination": "MKE",
       "status": "ok",
       "flightCount": 3,
-      "updatedAt": "2026-08-02T14:21:12.316402+00:00",
+      "updatedAt": "2026-08-02T14:33:45.015121+00:00",
       "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMDMoADICVUFqBRIDRVdScgUSA01LRUIBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-08-03|EWR|MLI": {
       "date": "2026-08-03",
       "origin": "EWR",
       "destination": "MLI",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-08-02T14:21:14.045339+00:00",
-      "error": "TypeError: 'NoneType' object is not subscriptable"
+      "updatedAt": "2026-08-02T14:33:45.553202+00:00"
     },
     "2026-08-03|EWR|MRY": {
       "date": "2026-08-03",
       "origin": "EWR",
       "destination": "MRY",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-08-02T14:21:15.807319+00:00",
-      "error": "TypeError: 'NoneType' object is not subscriptable"
+      "updatedAt": "2026-08-02T14:33:46.067655+00:00"
     },
     "2026-08-03|EWR|MSN": {
       "date": "2026-08-03",
