@@ -1,0 +1,57 @@
+name: Refresh United fare cache
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Optional departure date (YYYY-MM-DD, within 60 days)"
+        required: false
+        type: string
+      hub:
+        description: "Optional UA hub (EWR, ORD, IAD, DEN, IAH, LAX, SFO)"
+        required: false
+        type: string
+      max_routes:
+        description: "Route searches this run (1–175)"
+        required: false
+        default: "36"
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: united-fare-cache-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install scraper
+        run: pip install -r requirements.txt
+      - name: Refresh bounded route batch
+        env:
+          TARGET_DATE: ${{ inputs.date || '' }}
+          TARGET_HUB: ${{ inputs.hub || '' }}
+          MAX_ROUTES: ${{ inputs.max_routes || '36' }}
+        run: python scripts/refresh.py
+      - name: Publish cache snapshot
+        run: |
+          if git diff --quiet -- data; then
+            echo "Cache did not change"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/flights.json data/state.json
+          git commit -m "Refresh United fare cache"
+          git push
