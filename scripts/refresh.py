@@ -11,6 +11,7 @@ from pathlib import Path
 from urllib.parse import quote
 
 from fast_flights import FlightQuery, Passengers, create_query, get_flights
+from fast_flights.exceptions import FlightsNotFound
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -89,8 +90,8 @@ def search_route(departure_date: str, origin: str, destination: str) -> tuple[li
         currency="USD",
         exclude_basic_economy=True,
     )
-    results = get_flights(query)
     search_url = "https://www.google.com/travel/flights/search?tfs=" + quote(query.to_str()) + "&curr=USD&hl=en"
+    results = get_flights(query)
     flights: list[dict] = []
 
     for option_index, option in enumerate(results):
@@ -148,13 +149,20 @@ def main() -> None:
     flights_by_id = {item["id"]: item for item in data.get("flights", []) if item.get("id")}
     routes = data.setdefault("routes", {})
     successful = 0
+    no_results = 0
+    parser_errors = 0
     failed = 0
 
     for index, (departure_date, origin, destination) in enumerate(selected, start=1):
         key = route_key(departure_date, origin, destination)
         print(f"[{index}/{len(selected)}] {origin}-{destination} on {departure_date}", flush=True)
         try:
-            found, search_url = search_route(departure_date, origin, destination)
+            try:
+                found, search_url = search_route(departure_date, origin, destination)
+            except (IndexError, TypeError):
+                print("  parser response was incomplete; retrying once", flush=True)
+                time.sleep(1)
+                found, search_url = search_route(departure_date, origin, destination)
             flights_by_id = {
                 item_id: item
                 for item_id, item in flights_by_id.items()
@@ -176,6 +184,28 @@ def main() -> None:
                 "searchUrl": search_url,
             }
             successful += 1
+        except FlightsNotFound:
+            routes[key] = {
+                "date": departure_date,
+                "origin": origin,
+                "destination": destination,
+                "status": "no_results",
+                "flightCount": 0,
+                "updatedAt": datetime.now(timezone.utc).isoformat(),
+            }
+            no_results += 1
+        except (IndexError, TypeError) as exc:
+            routes[key] = {
+                "date": departure_date,
+                "origin": origin,
+                "destination": destination,
+                "status": "parser_error",
+                "flightCount": 0,
+                "updatedAt": datetime.now(timezone.utc).isoformat(),
+                "error": f"{type(exc).__name__}: {str(exc)[:240]}",
+            }
+            print(f"  parser failed after retry: {type(exc).__name__}: {exc}", flush=True)
+            parser_errors += 1
         except Exception as exc:  # keep useful results when one scraper request fails
             routes[key] = {
                 "date": departure_date,
@@ -212,7 +242,9 @@ def main() -> None:
 
     routes_per_date = sum(1 for hub in config["hubs"] for destination in config["destinations"] if destination != hub)
     total_route_dates = routes_per_date * int(config.get("horizon_days", 60))
-    covered = sum(1 for value in routes.values() if value.get("status") == "ok")
+    attempted = len(routes)
+    usable = sum(1 for value in routes.values() if value.get("status") in {"ok", "no_results"})
+    total_parser_errors = sum(1 for value in routes.values() if value.get("status") == "parser_error")
     data = {
         "schemaVersion": 1,
         "source": "fast-flights",
@@ -221,16 +253,25 @@ def main() -> None:
         "horizonStart": iso_day(tomorrow),
         "horizonEnd": iso_day(horizon_end),
         "totalRouteDates": total_route_dates,
-        "coveredRouteDates": covered,
-        "coveragePercent": round(covered / total_route_dates * 100, 2) if total_route_dates else 0,
-        "successfulChecks": successful,
-        "failedChecks": failed,
+        "attemptedRouteDates": attempted,
+        "coveredRouteDates": usable,
+        "parserErrorRouteDates": total_parser_errors,
+        "coveragePercent": round(attempted / total_route_dates * 100, 2) if total_route_dates else 0,
+        "usableCoveragePercent": round(usable / total_route_dates * 100, 2) if total_route_dates else 0,
+        "successfulChecks": successful + no_results,
+        "noResultChecks": no_results,
+        "parserErrorChecks": parser_errors,
+        "failedChecks": failed + parser_errors,
         "flights": flights,
         "routes": routes,
     }
     write_json(DATA_PATH, data)
     write_json(STATE_PATH, state)
-    print(f"Saved {len(flights)} flights; {covered}/{total_route_dates} route-dates covered", flush=True)
+    print(
+        f"Saved {len(flights)} flights; attempted {attempted}/{total_route_dates} route-dates; "
+        f"this run: {successful} parsed, {no_results} no-results, {parser_errors} parser errors, {failed} other errors",
+        flush=True,
+    )
 
 
 if __name__ == "__main__":
