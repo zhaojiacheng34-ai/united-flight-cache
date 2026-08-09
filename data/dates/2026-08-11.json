@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-08-11",
-  "generatedAt": "2026-08-09T21:58:21.798179+00:00",
+  "generatedAt": "2026-08-09T23:57:33.859624+00:00",
   "flights": [
     {
       "id": "EWR-IAD-2026-08-11-06:00-07:19-79-194-0",
@@ -842,6 +842,51 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMTEoADICVUFqBRIDRVdScgUSA0FDS0IBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-08-09T19:52:30.846449+00:00"
+    },
+    {
+      "id": "IAD-ATL-2026-08-11-08:19-10:17-118-240-0",
+      "origin": "IAD",
+      "destination": "ATL",
+      "destinationCity": "Hartsfield-Jackson Atlanta International Airport",
+      "date": "2026-08-11",
+      "departure": "08:19",
+      "arrival": "10:17",
+      "duration": 118,
+      "price": 240,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMTEoADICVUFqBRIDSUFEcgUSA0FUTEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-09T23:56:36.731657+00:00"
+    },
+    {
+      "id": "IAD-ATL-2026-08-11-12:40-14:38-118-240-1",
+      "origin": "IAD",
+      "destination": "ATL",
+      "destinationCity": "Hartsfield-Jackson Atlanta International Airport",
+      "date": "2026-08-11",
+      "departure": "12:40",
+      "arrival": "14:38",
+      "duration": 118,
+      "price": 240,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMTEoADICVUFqBRIDSUFEcgUSA0FUTEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-09T23:56:36.731683+00:00"
+    },
+    {
+      "id": "IAD-ATL-2026-08-11-17:31-19:29-118-240-2",
+      "origin": "IAD",
+      "destination": "ATL",
+      "destinationCity": "Hartsfield-Jackson Atlanta International Airport",
+      "date": "2026-08-11",
+      "departure": "17:31",
+      "arrival": "19:29",
+      "duration": 118,
+      "price": 240,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMTEoADICVUFqBRIDSUFEcgUSA0FUTEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-09T23:56:36.731692+00:00"
     },
     {
       "id": "ORD-BNA-2026-08-11-06:59-08:49-110-242-0",
@@ -6259,6 +6304,66 @@
       "updatedAt": "2026-08-09T19:52:47.568004+00:00"
     },
     {
+      "id": "IAD-IND-2026-08-11-08:30-10:15-105-440-0",
+      "origin": "IAD",
+      "destination": "IND",
+      "destinationCity": "Indianapolis International Airport",
+      "date": "2026-08-11",
+      "departure": "08:30",
+      "arrival": "10:15",
+      "duration": 105,
+      "price": 440,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMTEoADICVUFqBRIDSUFEcgUSA0lOREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-09T23:57:08.551255+00:00"
+    },
+    {
+      "id": "IAD-IND-2026-08-11-12:47-14:34-107-440-1",
+      "origin": "IAD",
+      "destination": "IND",
+      "destinationCity": "Indianapolis International Airport",
+      "date": "2026-08-11",
+      "departure": "12:47",
+      "arrival": "14:34",
+      "duration": 107,
+      "price": 440,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMTEoADICVUFqBRIDSUFEcgUSA0lOREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-09T23:57:08.551281+00:00"
+    },
+    {
+      "id": "IAD-IND-2026-08-11-17:15-19:02-107-440-2",
+      "origin": "IAD",
+      "destination": "IND",
+      "destinationCity": "Indianapolis International Airport",
+      "date": "2026-08-11",
+      "departure": "17:15",
+      "arrival": "19:02",
+      "duration": 107,
+      "price": 440,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMTEoADICVUFqBRIDSUFEcgUSA0lOREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-09T23:57:08.551289+00:00"
+    },
+    {
+      "id": "IAD-IND-2026-08-11-22:15-23:56-101-440-3",
+      "origin": "IAD",
+      "destination": "IND",
+      "destinationCity": "Indianapolis International Airport",
+      "date": "2026-08-11",
+      "departure": "22:15",
+      "arrival": "23:56",
+      "duration": 101,
+      "price": 440,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMTEoADICVUFqBRIDSUFEcgUSA0lOREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-09T23:57:08.551296+00:00"
+    },
+    {
       "id": "ORD-ROA-2026-08-11-06:57-10:09-132-440-0",
       "origin": "ORD",
       "destination": "ROA",
@@ -9813,6 +9918,1112 @@
       "flightCount": 0,
       "updatedAt": "2026-08-09T21:58:21.547955+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+    },
+    "2026-08-11|ORD|SGF": {
+      "date": "2026-08-11",
+      "origin": "ORD",
+      "destination": "SGF",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:23.678297+00:00"
+    },
+    "2026-08-11|ORD|SHV": {
+      "date": "2026-08-11",
+      "origin": "ORD",
+      "destination": "SHV",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:24.125381+00:00"
+    },
+    "2026-08-11|ORD|SJC": {
+      "date": "2026-08-11",
+      "origin": "ORD",
+      "destination": "SJC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:24.576569+00:00"
+    },
+    "2026-08-11|ORD|SLC": {
+      "date": "2026-08-11",
+      "origin": "ORD",
+      "destination": "SLC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:25.086767+00:00"
+    },
+    "2026-08-11|ORD|SMF": {
+      "date": "2026-08-11",
+      "origin": "ORD",
+      "destination": "SMF",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:25.618810+00:00"
+    },
+    "2026-08-11|ORD|SNA": {
+      "date": "2026-08-11",
+      "origin": "ORD",
+      "destination": "SNA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:26.098388+00:00"
+    },
+    "2026-08-11|ORD|SRQ": {
+      "date": "2026-08-11",
+      "origin": "ORD",
+      "destination": "SRQ",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:26.619214+00:00"
+    },
+    "2026-08-11|ORD|STL": {
+      "date": "2026-08-11",
+      "origin": "ORD",
+      "destination": "STL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:27.225610+00:00"
+    },
+    "2026-08-11|ORD|STS": {
+      "date": "2026-08-11",
+      "origin": "ORD",
+      "destination": "STS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:27.710561+00:00"
+    },
+    "2026-08-11|ORD|SUN": {
+      "date": "2026-08-11",
+      "origin": "ORD",
+      "destination": "SUN",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:28.193145+00:00"
+    },
+    "2026-08-11|ORD|SYR": {
+      "date": "2026-08-11",
+      "origin": "ORD",
+      "destination": "SYR",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:28.660487+00:00"
+    },
+    "2026-08-11|ORD|TLH": {
+      "date": "2026-08-11",
+      "origin": "ORD",
+      "destination": "TLH",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:29.179667+00:00"
+    },
+    "2026-08-11|ORD|TPA": {
+      "date": "2026-08-11",
+      "origin": "ORD",
+      "destination": "TPA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:29.656611+00:00"
+    },
+    "2026-08-11|ORD|TUL": {
+      "date": "2026-08-11",
+      "origin": "ORD",
+      "destination": "TUL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:30.167542+00:00"
+    },
+    "2026-08-11|ORD|TUS": {
+      "date": "2026-08-11",
+      "origin": "ORD",
+      "destination": "TUS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:30.628941+00:00"
+    },
+    "2026-08-11|ORD|TVC": {
+      "date": "2026-08-11",
+      "origin": "ORD",
+      "destination": "TVC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:31.106339+00:00"
+    },
+    "2026-08-11|ORD|TYS": {
+      "date": "2026-08-11",
+      "origin": "ORD",
+      "destination": "TYS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:31.581298+00:00"
+    },
+    "2026-08-11|ORD|VPS": {
+      "date": "2026-08-11",
+      "origin": "ORD",
+      "destination": "VPS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:32.065185+00:00"
+    },
+    "2026-08-11|ORD|XNA": {
+      "date": "2026-08-11",
+      "origin": "ORD",
+      "destination": "XNA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:32.565215+00:00"
+    },
+    "2026-08-11|IAD|ABE": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "ABE",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:33.049162+00:00"
+    },
+    "2026-08-11|IAD|ABQ": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "ABQ",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:33.587143+00:00"
+    },
+    "2026-08-11|IAD|ACK": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "ACK",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:34.187867+00:00"
+    },
+    "2026-08-11|IAD|ALB": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "ALB",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:34.652733+00:00"
+    },
+    "2026-08-11|IAD|AMA": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "AMA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:35.191849+00:00"
+    },
+    "2026-08-11|IAD|ANC": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "ANC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:35.749116+00:00"
+    },
+    "2026-08-11|IAD|ASE": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "ASE",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:36.211223+00:00"
+    },
+    "2026-08-11|IAD|ATL": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "ATL",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-08-09T23:56:36.731844+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMTEoADICVUFqBRIDSUFEcgUSA0FUTEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-11|IAD|ATW": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "ATW",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:37.253792+00:00"
+    },
+    "2026-08-11|IAD|AUS": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "AUS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:37.718743+00:00"
+    },
+    "2026-08-11|IAD|AVL": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "AVL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:38.230247+00:00"
+    },
+    "2026-08-11|IAD|BDL": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "BDL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:38.840733+00:00"
+    },
+    "2026-08-11|IAD|BFL": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "BFL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:39.347041+00:00"
+    },
+    "2026-08-11|IAD|BGR": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "BGR",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:39.866352+00:00"
+    },
+    "2026-08-11|IAD|BHM": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "BHM",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:40.370066+00:00"
+    },
+    "2026-08-11|IAD|BIL": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "BIL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:40.883235+00:00"
+    },
+    "2026-08-11|IAD|BIS": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "BIS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:41.358443+00:00"
+    },
+    "2026-08-11|IAD|BNA": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "BNA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:41.871867+00:00"
+    },
+    "2026-08-11|IAD|BOI": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "BOI",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:42.388316+00:00"
+    },
+    "2026-08-11|IAD|BOS": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "BOS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:42.875796+00:00"
+    },
+    "2026-08-11|IAD|BRO": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "BRO",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:43.402987+00:00"
+    },
+    "2026-08-11|IAD|BTR": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "BTR",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:43.911409+00:00"
+    },
+    "2026-08-11|IAD|BTV": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "BTV",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:44.434494+00:00"
+    },
+    "2026-08-11|IAD|BUF": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "BUF",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:44.901160+00:00"
+    },
+    "2026-08-11|IAD|BWI": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "BWI",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:45.386021+00:00"
+    },
+    "2026-08-11|IAD|BZN": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "BZN",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:45.868073+00:00"
+    },
+    "2026-08-11|IAD|CAE": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "CAE",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:46.330125+00:00"
+    },
+    "2026-08-11|IAD|CHA": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "CHA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:46.787760+00:00"
+    },
+    "2026-08-11|IAD|CHS": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "CHS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:47.267960+00:00"
+    },
+    "2026-08-11|IAD|CID": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "CID",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:47.753989+00:00"
+    },
+    "2026-08-11|IAD|CLE": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "CLE",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:48.278805+00:00"
+    },
+    "2026-08-11|IAD|CLT": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "CLT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:48.747479+00:00"
+    },
+    "2026-08-11|IAD|CMH": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "CMH",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:49.315142+00:00"
+    },
+    "2026-08-11|IAD|COS": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "COS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:49.921850+00:00"
+    },
+    "2026-08-11|IAD|CPR": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "CPR",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:50.452025+00:00"
+    },
+    "2026-08-11|IAD|CRP": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "CRP",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:51.004018+00:00"
+    },
+    "2026-08-11|IAD|CVG": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "CVG",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:51.516853+00:00"
+    },
+    "2026-08-11|IAD|CWA": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "CWA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:52.033418+00:00"
+    },
+    "2026-08-11|IAD|DCA": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "DCA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:52.556245+00:00"
+    },
+    "2026-08-11|IAD|DFW": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "DFW",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:53.031433+00:00"
+    },
+    "2026-08-11|IAD|DLH": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "DLH",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:53.547239+00:00"
+    },
+    "2026-08-11|IAD|DRO": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "DRO",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:54.031403+00:00"
+    },
+    "2026-08-11|IAD|DSM": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "DSM",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:54.530411+00:00"
+    },
+    "2026-08-11|IAD|DTW": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "DTW",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:55.022238+00:00"
+    },
+    "2026-08-11|IAD|EGE": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "EGE",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:55.537445+00:00"
+    },
+    "2026-08-11|IAD|ELP": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "ELP",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:55.987097+00:00"
+    },
+    "2026-08-11|IAD|EUG": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "EUG",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:56.440116+00:00"
+    },
+    "2026-08-11|IAD|EVV": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "EVV",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:56.960049+00:00"
+    },
+    "2026-08-11|IAD|EWR": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "EWR",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:57.460052+00:00"
+    },
+    "2026-08-11|IAD|FAR": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "FAR",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:58.000108+00:00"
+    },
+    "2026-08-11|IAD|FAT": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "FAT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:58.439723+00:00"
+    },
+    "2026-08-11|IAD|FLL": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "FLL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:58.893307+00:00"
+    },
+    "2026-08-11|IAD|FSD": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "FSD",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:59.404133+00:00"
+    },
+    "2026-08-11|IAD|FWA": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "FWA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:56:59.921817+00:00"
+    },
+    "2026-08-11|IAD|GEG": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "GEG",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:00.431835+00:00"
+    },
+    "2026-08-11|IAD|GJT": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "GJT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:01.022216+00:00"
+    },
+    "2026-08-11|IAD|GRB": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "GRB",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:01.503371+00:00"
+    },
+    "2026-08-11|IAD|GRR": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "GRR",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:02.090340+00:00"
+    },
+    "2026-08-11|IAD|GSO": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "GSO",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:02.644878+00:00"
+    },
+    "2026-08-11|IAD|GSP": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "GSP",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:03.169915+00:00"
+    },
+    "2026-08-11|IAD|HDN": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "HDN",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:03.635807+00:00"
+    },
+    "2026-08-11|IAD|HHH": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "HHH",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:04.172711+00:00"
+    },
+    "2026-08-11|IAD|HLN": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "HLN",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:04.878485+00:00"
+    },
+    "2026-08-11|IAD|HNL": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "HNL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:05.332821+00:00"
+    },
+    "2026-08-11|IAD|HSV": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "HSV",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:05.799796+00:00"
+    },
+    "2026-08-11|IAD|IAH": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "IAH",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:06.347703+00:00"
+    },
+    "2026-08-11|IAD|ICT": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "ICT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:06.879916+00:00"
+    },
+    "2026-08-11|IAD|IDA": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "IDA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:07.380293+00:00"
+    },
+    "2026-08-11|IAD|ILM": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "ILM",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:07.827691+00:00"
+    },
+    "2026-08-11|IAD|IND": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "IND",
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-08-09T23:57:08.551484+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMTEoADICVUFqBRIDSUFEcgUSA0lOREIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-11|IAD|JAC": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "JAC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:09.075644+00:00"
+    },
+    "2026-08-11|IAD|JAN": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "JAN",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:09.615989+00:00"
+    },
+    "2026-08-11|IAD|JAX": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "JAX",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:10.160232+00:00"
+    },
+    "2026-08-11|IAD|KOA": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "KOA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:10.663152+00:00"
+    },
+    "2026-08-11|IAD|LAS": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "LAS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:11.165714+00:00"
+    },
+    "2026-08-11|IAD|LAX": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "LAX",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:11.694930+00:00"
+    },
+    "2026-08-11|IAD|LBB": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "LBB",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:12.220124+00:00"
+    },
+    "2026-08-11|IAD|LGA": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "LGA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:12.745257+00:00"
+    },
+    "2026-08-11|IAD|LIH": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "LIH",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:13.247436+00:00"
+    },
+    "2026-08-11|IAD|LIT": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "LIT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:13.729128+00:00"
+    },
+    "2026-08-11|IAD|LNK": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "LNK",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:14.204613+00:00"
+    },
+    "2026-08-11|IAD|MAF": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "MAF",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:14.725734+00:00"
+    },
+    "2026-08-11|IAD|MCI": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "MCI",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:15.244983+00:00"
+    },
+    "2026-08-11|IAD|MCO": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "MCO",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:15.709342+00:00"
+    },
+    "2026-08-11|IAD|MDT": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "MDT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:16.208659+00:00"
+    },
+    "2026-08-11|IAD|MEM": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "MEM",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:16.712906+00:00"
+    },
+    "2026-08-11|IAD|MFE": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "MFE",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:17.196133+00:00"
+    },
+    "2026-08-11|IAD|MHT": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "MHT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:17.680920+00:00"
+    },
+    "2026-08-11|IAD|MIA": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "MIA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:18.255645+00:00"
+    },
+    "2026-08-11|IAD|MKE": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "MKE",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:18.766350+00:00"
+    },
+    "2026-08-11|IAD|MLI": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "MLI",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:19.314983+00:00"
+    },
+    "2026-08-11|IAD|MRY": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "MRY",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:19.898651+00:00"
+    },
+    "2026-08-11|IAD|MSN": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "MSN",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:20.412109+00:00"
+    },
+    "2026-08-11|IAD|MSO": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "MSO",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:20.942005+00:00"
+    },
+    "2026-08-11|IAD|MSP": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "MSP",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:21.442878+00:00"
+    },
+    "2026-08-11|IAD|MSY": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "MSY",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:21.991101+00:00"
+    },
+    "2026-08-11|IAD|MYR": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "MYR",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:22.472871+00:00"
+    },
+    "2026-08-11|IAD|OAK": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "OAK",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:22.937003+00:00"
+    },
+    "2026-08-11|IAD|OGG": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "OGG",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:23.443142+00:00"
+    },
+    "2026-08-11|IAD|OKC": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "OKC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:23.929066+00:00"
+    },
+    "2026-08-11|IAD|OMA": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "OMA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:24.468484+00:00"
+    },
+    "2026-08-11|IAD|ONT": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "ONT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:24.948276+00:00"
+    },
+    "2026-08-11|IAD|ORD": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "ORD",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:25.399164+00:00"
+    },
+    "2026-08-11|IAD|ORF": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "ORF",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:25.880095+00:00"
+    },
+    "2026-08-11|IAD|PBI": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "PBI",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:26.318646+00:00"
+    },
+    "2026-08-11|IAD|PDX": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "PDX",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:26.772944+00:00"
+    },
+    "2026-08-11|IAD|PHL": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "PHL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:27.309266+00:00"
+    },
+    "2026-08-11|IAD|PHX": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "PHX",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:27.853010+00:00"
+    },
+    "2026-08-11|IAD|PIA": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "PIA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:28.366029+00:00"
+    },
+    "2026-08-11|IAD|PIT": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "PIT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:28.827845+00:00"
+    },
+    "2026-08-11|IAD|PNS": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "PNS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:29.370988+00:00"
+    },
+    "2026-08-11|IAD|PSC": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "PSC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:29.893786+00:00"
+    },
+    "2026-08-11|IAD|PSP": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "PSP",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:30.383874+00:00"
+    },
+    "2026-08-11|IAD|PWM": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "PWM",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:30.846913+00:00"
+    },
+    "2026-08-11|IAD|RAP": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "RAP",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:31.418478+00:00"
+    },
+    "2026-08-11|IAD|RDM": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "RDM",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:31.987607+00:00"
+    },
+    "2026-08-11|IAD|RDU": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "RDU",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:32.531919+00:00"
+    },
+    "2026-08-11|IAD|RIC": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "RIC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:33.148495+00:00"
+    },
+    "2026-08-11|IAD|RNO": {
+      "date": "2026-08-11",
+      "origin": "IAD",
+      "destination": "RNO",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-09T23:57:33.609429+00:00"
     }
   }
 }
