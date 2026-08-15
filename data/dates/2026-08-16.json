@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-08-16",
-  "generatedAt": "2026-08-15T21:00:51.303680+00:00",
+  "generatedAt": "2026-08-15T22:59:11.842536+00:00",
   "flights": [
     {
       "id": "IAD-EWR-2026-08-16-06:15-07:29-74-194-0",
@@ -26004,7 +26004,7 @@
       "destination": "BIS",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-15T09:04:01.787575+00:00",
+      "updatedAt": "2026-08-15T22:57:42.191654+00:00",
       "error": "IndexError: list index out of range"
     },
     "2026-08-16|DEN|BNA": {
@@ -26284,8 +26284,8 @@
       "destination": "EWR",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-15T09:04:20.912809+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "updatedAt": "2026-08-15T22:57:44.235724+00:00",
+      "error": "IndexError: list index out of range"
     },
     "2026-08-16|DEN|FAR": {
       "date": "2026-08-16",
@@ -26433,8 +26433,8 @@
       "destination": "IAD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-15T09:04:31.561266+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "updatedAt": "2026-08-15T22:57:46.249843+00:00",
+      "error": "IndexError: list index out of range"
     },
     "2026-08-16|DEN|IAH": {
       "date": "2026-08-16",
@@ -26510,10 +26510,9 @@
       "date": "2026-08-16",
       "origin": "DEN",
       "destination": "KOA",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-08-15T09:04:37.889562+00:00",
-      "error": "IndexError: list index out of range"
+      "updatedAt": "2026-08-15T22:57:46.819447+00:00"
     },
     "2026-08-16|DEN|LAS": {
       "date": "2026-08-16",
