@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-08-17",
-  "generatedAt": "2026-08-16T09:46:47.797057+00:00",
+  "generatedAt": "2026-08-16T11:00:17.368494+00:00",
   "flights": [
     {
       "id": "ORD-ONT-2026-08-17-20:06-22:35-269-179-0",
@@ -20299,6 +20299,21 @@
       "updatedAt": "2026-08-15T22:58:30.772410+00:00"
     },
     {
+      "id": "DEN-KOA-2026-08-17-12:15-15:43-448-651-0",
+      "origin": "DEN",
+      "destination": "KOA",
+      "destinationCity": "Ellison Onizuka Kona International Airport",
+      "date": "2026-08-17",
+      "departure": "12:15",
+      "arrival": "15:43",
+      "duration": 448,
+      "price": 651,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMTcoADICVUFqBRIDREVOcgUSA0tPQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-16T10:58:49.012589+00:00"
+    },
+    {
       "id": "DEN-HNL-2026-08-17-16:00-19:15-435-651-1",
       "origin": "DEN",
       "destination": "HNL",
@@ -25891,7 +25906,7 @@
       "destination": "IAD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-15T22:58:33.341041+00:00",
+      "updatedAt": "2026-08-16T10:58:48.446259+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-17|DEN|IAH": {
@@ -25968,10 +25983,10 @@
       "date": "2026-08-17",
       "origin": "DEN",
       "destination": "KOA",
-      "status": "parser_error",
-      "flightCount": 0,
-      "updatedAt": "2026-08-15T22:58:39.597256+00:00",
-      "error": "IndexError: list index out of range"
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-08-16T10:58:49.012992+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMTcoADICVUFqBRIDREVOcgUSA0tPQUIBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-08-17|DEN|LAS": {
       "date": "2026-08-17",
