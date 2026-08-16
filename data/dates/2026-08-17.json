@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-08-17",
-  "generatedAt": "2026-08-16T17:02:02.334015+00:00",
+  "generatedAt": "2026-08-16T19:11:23.087587+00:00",
   "flights": [
     {
       "id": "ORD-ONT-2026-08-17-20:06-22:35-269-179-0",
@@ -28463,10 +28463,9 @@
       "date": "2026-08-17",
       "origin": "LAX",
       "destination": "IAH",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-08-16T05:48:34.351917+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "updatedAt": "2026-08-16T19:09:59.308551+00:00"
     },
     "2026-08-17|LAX|ICT": {
       "date": "2026-08-17",
@@ -28760,7 +28759,7 @@
       "destination": "ORD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-16T05:48:53.335181+00:00",
+      "updatedAt": "2026-08-16T19:10:01.396717+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-17|LAX|ORF": {
@@ -28985,7 +28984,7 @@
       "destination": "SFO",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-16T05:49:08.294142+00:00",
+      "updatedAt": "2026-08-16T19:10:03.412651+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-17|LAX|SGF": {
