@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-08-19",
-  "generatedAt": "2026-08-18T03:14:55.637395+00:00",
+  "generatedAt": "2026-08-18T05:51:32.362844+00:00",
   "flights": [
     {
       "id": "ORD-ONT-2026-08-19-20:06-22:35-269-179-0",
@@ -20014,6 +20014,51 @@
       "updatedAt": "2026-08-17T14:03:23.515416+00:00"
     },
     {
+      "id": "SFO-IAD-2026-08-19-14:00-22:19-319-779-0",
+      "origin": "SFO",
+      "destination": "IAD",
+      "destinationCity": "Dulles International Airport",
+      "date": "2026-08-19",
+      "departure": "14:00",
+      "arrival": "22:19",
+      "duration": 319,
+      "price": 779,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMTkoADICVUFqBRIDU0ZPcgUSA0lBREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-18T05:50:01.535489+00:00"
+    },
+    {
+      "id": "SFO-IAD-2026-08-19-21:30-05:55-325-779-1",
+      "origin": "SFO",
+      "destination": "IAD",
+      "destinationCity": "Dulles International Airport",
+      "date": "2026-08-19",
+      "departure": "21:30",
+      "arrival": "05:55",
+      "duration": 325,
+      "price": 779,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMTkoADICVUFqBRIDU0ZPcgUSA0lBREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-18T05:50:01.535516+00:00"
+    },
+    {
+      "id": "SFO-IAD-2026-08-19-23:14-07:35-321-779-2",
+      "origin": "SFO",
+      "destination": "IAD",
+      "destinationCity": "Dulles International Airport",
+      "date": "2026-08-19",
+      "departure": "23:14",
+      "arrival": "07:35",
+      "duration": 321,
+      "price": 779,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMTkoADICVUFqBRIDU0ZPcgUSA0lBREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-18T05:50:01.535525+00:00"
+    },
+    {
       "id": "DEN-COS-2026-08-19-11:32-12:28-56-780-5",
       "origin": "DEN",
       "destination": "COS",
@@ -21815,7 +21860,7 @@
       "destination": "CHA",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-17T17:49:28.776675+00:00",
+      "updatedAt": "2026-08-18T05:50:05.849078+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-19|ORD|CHS": {
@@ -21998,7 +22043,7 @@
       "destination": "EWR",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-17T17:49:30.882578+00:00",
+      "updatedAt": "2026-08-18T05:50:07.810466+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-19|ORD|FAR": {
@@ -28462,10 +28507,10 @@
       "date": "2026-08-19",
       "origin": "SFO",
       "destination": "IAD",
-      "status": "parser_error",
-      "flightCount": 0,
-      "updatedAt": "2026-08-17T15:14:02.394929+00:00",
-      "error": "IndexError: list index out of range"
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-08-18T05:50:01.535886+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMTkoADICVUFqBRIDU0ZPcgUSA0lBREIBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-08-19|SFO|IAH": {
       "date": "2026-08-19",
@@ -28555,7 +28600,7 @@
       "destination": "LAX",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-17T15:14:12.764201+00:00",
+      "updatedAt": "2026-08-18T05:50:03.727301+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-19|SFO|LBB": {
@@ -28782,7 +28827,7 @@
       "destination": "ORD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-17T17:49:47.915253+00:00",
+      "updatedAt": "2026-08-18T05:50:09.807446+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-19|SFO|ORF": {
