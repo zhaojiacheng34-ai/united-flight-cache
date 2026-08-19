@@ -2,17 +2,17 @@
   "schemaVersion": 2,
   "source": "fast-flights",
   "provider": "Google Flights results via fast-flights",
-  "generatedAt": "2026-08-19T19:38:25.683373+00:00",
+  "generatedAt": "2026-08-19T21:45:10.402365+00:00",
   "horizonStart": "2026-08-20",
   "horizonEnd": "2026-10-18",
   "totalRouteDates": 62640,
-  "attemptedRouteDates": 3335,
-  "coveredRouteDates": 3266,
-  "parserErrorRouteDates": 69,
+  "attemptedRouteDates": 3472,
+  "coveredRouteDates": 3396,
+  "parserErrorRouteDates": 76,
   "otherErrorRouteDates": 0,
-  "flightCount": 4625,
-  "coveragePercent": 5.32,
-  "usableCoveragePercent": 5.21,
+  "flightCount": 4889,
+  "coveragePercent": 5.54,
+  "usableCoveragePercent": 5.42,
   "dates": {
     "2026-08-20": {
       "flightCount": 1412,
@@ -20,7 +20,7 @@
       "coveredRouteDates": 1018,
       "parserErrorRouteDates": 26,
       "otherErrorRouteDates": 0,
-      "generatedAt": "2026-08-19T19:38:25.683373+00:00"
+      "generatedAt": "2026-08-19T21:45:10.402365+00:00"
     },
     "2026-08-21": {
       "flightCount": 1475,
@@ -28,7 +28,7 @@
       "coveredRouteDates": 1021,
       "parserErrorRouteDates": 23,
       "otherErrorRouteDates": 0,
-      "generatedAt": "2026-08-19T19:38:25.683373+00:00"
+      "generatedAt": "2026-08-19T21:45:10.402365+00:00"
     },
     "2026-08-22": {
       "flightCount": 1394,
@@ -36,15 +36,15 @@
       "coveredRouteDates": 1026,
       "parserErrorRouteDates": 18,
       "otherErrorRouteDates": 0,
-      "generatedAt": "2026-08-19T19:38:25.683373+00:00"
+      "generatedAt": "2026-08-19T21:45:10.402365+00:00"
     },
     "2026-08-23": {
-      "flightCount": 344,
-      "attemptedRouteDates": 203,
-      "coveredRouteDates": 201,
-      "parserErrorRouteDates": 2,
+      "flightCount": 608,
+      "attemptedRouteDates": 340,
+      "coveredRouteDates": 331,
+      "parserErrorRouteDates": 9,
       "otherErrorRouteDates": 0,
-      "generatedAt": "2026-08-19T19:38:25.683373+00:00"
+      "generatedAt": "2026-08-19T21:45:10.402365+00:00"
     }
   }
 }
