@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-08-23",
-  "generatedAt": "2026-08-20T19:52:15.527325+00:00",
+  "generatedAt": "2026-08-20T21:49:44.372830+00:00",
   "flights": [
     {
       "id": "IAD-LGA-2026-08-23-08:18-09:39-81-193-0",
@@ -11989,6 +11989,21 @@
       "updatedAt": "2026-08-19T19:36:59.536885+00:00"
     },
     {
+      "id": "LAX-IAD-2026-08-23-23:00-06:53-293-444-0",
+      "origin": "LAX",
+      "destination": "IAD",
+      "destinationCity": "Dulles International Airport",
+      "date": "2026-08-23",
+      "departure": "23:00",
+      "arrival": "06:53",
+      "duration": 293,
+      "price": 444,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjMoADICVUFqBRIDTEFYcgUSA0lBREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-20T21:48:20.572009+00:00"
+    },
+    {
       "id": "SFO-BNA-2026-08-23-23:59-06:30-271-444-0",
       "origin": "SFO",
       "destination": "BNA",
@@ -12032,6 +12047,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjMoADICVUFqBRIDT1JEcgUSA0RDQUIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-08-19T19:38:14.465415+00:00"
+    },
+    {
+      "id": "LAX-IAD-2026-08-23-22:39-06:38-299-448-1",
+      "origin": "LAX",
+      "destination": "IAD",
+      "destinationCity": "Dulles International Airport",
+      "date": "2026-08-23",
+      "departure": "22:39",
+      "arrival": "06:38",
+      "duration": 299,
+      "price": 448,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjMoADICVUFqBRIDTEFYcgUSA0lBREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-20T21:48:20.572033+00:00"
     },
     {
       "id": "DEN-IAH-2026-08-23-05:00-08:28-148-449-0",
@@ -21589,6 +21619,21 @@
       "updatedAt": "2026-08-19T23:03:26.119503+00:00"
     },
     {
+      "id": "LAX-IAD-2026-08-23-08:17-16:23-306-718-2",
+      "origin": "LAX",
+      "destination": "IAD",
+      "destinationCity": "Dulles International Airport",
+      "date": "2026-08-23",
+      "departure": "08:17",
+      "arrival": "16:23",
+      "duration": 306,
+      "price": 718,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjMoADICVUFqBRIDTEFYcgUSA0lBREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-20T21:48:20.572041+00:00"
+    },
+    {
       "id": "DEN-FAR-2026-08-23-09:35-12:35-120-729-3",
       "origin": "DEN",
       "destination": "FAR",
@@ -23646,7 +23691,7 @@
       "destination": "CHA",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-20T08:08:18.689875+00:00",
+      "updatedAt": "2026-08-20T21:48:17.491531+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-23|ORD|CHS": {
@@ -23829,7 +23874,7 @@
       "destination": "EWR",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-20T08:08:20.918827+00:00",
+      "updatedAt": "2026-08-20T21:48:19.804455+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-23|ORD|FAR": {
@@ -29093,10 +29138,10 @@
       "date": "2026-08-23",
       "origin": "LAX",
       "destination": "IAD",
-      "status": "parser_error",
-      "flightCount": 0,
-      "updatedAt": "2026-08-20T08:08:53.978381+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-08-20T21:48:20.572439+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjMoADICVUFqBRIDTEFYcgUSA0lBREIBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-08-23|LAX|IAH": {
       "date": "2026-08-23",
