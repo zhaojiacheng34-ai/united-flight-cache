@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-08-21",
-  "generatedAt": "2026-08-20T21:49:44.372830+00:00",
+  "generatedAt": "2026-08-20T23:14:20.700510+00:00",
   "flights": [
     {
       "id": "ORD-ONT-2026-08-21-20:06-22:35-269-179-0",
@@ -27675,8 +27675,8 @@
       "destination": "EWR",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-20T10:01:07.010234+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "updatedAt": "2026-08-20T23:12:55.003341+00:00",
+      "error": "IndexError: list index out of range"
     },
     "2026-08-21|IAH|FAR": {
       "date": "2026-08-21",
@@ -27817,7 +27817,7 @@
       "destination": "IAD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-20T10:01:09.396567+00:00",
+      "updatedAt": "2026-08-20T23:12:56.879758+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-21|IAH|ICT": {
@@ -28134,7 +28134,7 @@
       "destination": "ORD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-20T10:01:11.784664+00:00",
+      "updatedAt": "2026-08-20T23:12:58.875878+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-21|IAH|ORF": {
@@ -28365,7 +28365,7 @@
       "destination": "SFO",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-20T10:01:13.961393+00:00",
+      "updatedAt": "2026-08-20T23:13:00.906188+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-21|IAH|SGF": {
