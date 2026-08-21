@@ -2,26 +2,18 @@
   "schemaVersion": 2,
   "source": "fast-flights",
   "provider": "Google Flights results via fast-flights",
-  "generatedAt": "2026-08-20T23:14:20.700510+00:00",
-  "horizonStart": "2026-08-21",
-  "horizonEnd": "2026-10-19",
+  "generatedAt": "2026-08-21T03:35:17.961091+00:00",
+  "horizonStart": "2026-08-22",
+  "horizonEnd": "2026-10-20",
   "totalRouteDates": 62640,
-  "attemptedRouteDates": 3955,
-  "coveredRouteDates": 3865,
-  "parserErrorRouteDates": 84,
+  "attemptedRouteDates": 3048,
+  "coveredRouteDates": 2980,
+  "parserErrorRouteDates": 62,
   "otherErrorRouteDates": 6,
-  "flightCount": 5674,
-  "coveragePercent": 6.31,
-  "usableCoveragePercent": 6.17,
+  "flightCount": 4303,
+  "coveragePercent": 4.87,
+  "usableCoveragePercent": 4.76,
   "dates": {
-    "2026-08-21": {
-      "flightCount": 1475,
-      "attemptedRouteDates": 1044,
-      "coveredRouteDates": 1022,
-      "parserErrorRouteDates": 22,
-      "otherErrorRouteDates": 0,
-      "generatedAt": "2026-08-20T23:14:20.700510+00:00"
-    },
     "2026-08-22": {
       "flightCount": 1394,
       "attemptedRouteDates": 1044,
@@ -31,20 +23,20 @@
       "generatedAt": "2026-08-20T23:14:20.700510+00:00"
     },
     "2026-08-23": {
-      "flightCount": 1479,
+      "flightCount": 1492,
       "attemptedRouteDates": 1044,
-      "coveredRouteDates": 1014,
-      "parserErrorRouteDates": 30,
+      "coveredRouteDates": 1016,
+      "parserErrorRouteDates": 28,
       "otherErrorRouteDates": 0,
-      "generatedAt": "2026-08-20T23:14:20.700510+00:00"
+      "generatedAt": "2026-08-21T03:35:17.961091+00:00"
     },
     "2026-08-24": {
-      "flightCount": 1326,
-      "attemptedRouteDates": 823,
-      "coveredRouteDates": 803,
-      "parserErrorRouteDates": 15,
+      "flightCount": 1417,
+      "attemptedRouteDates": 960,
+      "coveredRouteDates": 938,
+      "parserErrorRouteDates": 17,
       "otherErrorRouteDates": 5,
-      "generatedAt": "2026-08-20T23:14:20.700510+00:00"
+      "generatedAt": "2026-08-21T03:35:17.961091+00:00"
     }
   }
 }
