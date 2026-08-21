@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-08-24",
-  "generatedAt": "2026-08-21T08:10:51.097152+00:00",
+  "generatedAt": "2026-08-21T10:03:21.700934+00:00",
   "flights": [
     {
       "id": "EWR-DCA-2026-08-24-06:25-07:49-84-193-0",
@@ -9482,6 +9482,51 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjQoADICVUFqBRIDTEFYcgUSA0JPU0IBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-08-20T23:13:47.236853+00:00"
+    },
+    {
+      "id": "ORD-XNA-2026-08-24-12:24-14:19-115-384-0",
+      "origin": "ORD",
+      "destination": "XNA",
+      "destinationCity": "Northwest Arkansas National Airport",
+      "date": "2026-08-24",
+      "departure": "12:24",
+      "arrival": "14:19",
+      "duration": 115,
+      "price": 384,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjQoADICVUFqBRIDT1JEcgUSA1hOQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-21T10:01:01.589536+00:00"
+    },
+    {
+      "id": "ORD-XNA-2026-08-24-16:10-18:10-120-384-1",
+      "origin": "ORD",
+      "destination": "XNA",
+      "destinationCity": "Northwest Arkansas National Airport",
+      "date": "2026-08-24",
+      "departure": "16:10",
+      "arrival": "18:10",
+      "duration": 120,
+      "price": 384,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjQoADICVUFqBRIDT1JEcgUSA1hOQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-21T10:01:01.589560+00:00"
+    },
+    {
+      "id": "ORD-XNA-2026-08-24-21:30-23:30-120-384-2",
+      "origin": "ORD",
+      "destination": "XNA",
+      "destinationCity": "Northwest Arkansas National Airport",
+      "date": "2026-08-24",
+      "departure": "21:30",
+      "arrival": "23:30",
+      "duration": 120,
+      "price": 384,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjQoADICVUFqBRIDT1JEcgUSA1hOQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-21T10:01:01.589569+00:00"
     },
     {
       "id": "EWR-PIT-2026-08-24-15:47-17:15-88-385-3",
@@ -20284,6 +20329,21 @@
       "updatedAt": "2026-08-20T11:48:10.776264+00:00"
     },
     {
+      "id": "ORD-XNA-2026-08-24-08:40-10:44-124-599-3",
+      "origin": "ORD",
+      "destination": "XNA",
+      "destinationCity": "Northwest Arkansas National Airport",
+      "date": "2026-08-24",
+      "departure": "08:40",
+      "arrival": "10:44",
+      "duration": 124,
+      "price": 599,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjQoADICVUFqBRIDT1JEcgUSA1hOQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-21T10:01:01.589576+00:00"
+    },
+    {
       "id": "DEN-SBA-2026-08-24-11:20-12:59-159-601-0",
       "origin": "DEN",
       "destination": "SBA",
@@ -24854,7 +24914,7 @@
       "destination": "SFO",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-20T17:51:43.876609+00:00",
+      "updatedAt": "2026-08-21T10:01:00.966294+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-24|ORD|SGF": {
@@ -25018,10 +25078,10 @@
       "date": "2026-08-24",
       "origin": "ORD",
       "destination": "XNA",
-      "status": "error",
-      "flightCount": 0,
-      "updatedAt": "2026-08-20T17:51:55.801653+00:00",
-      "error": "ConnectError: error sending request for url (https://www.google.com/travel/flights?tfs=GiASCjIwMjYtMDgtMjQoADICVUFqBRIDT1JEcgUSA1hOQUIBAUgBmAECyAEB&hl=en&curr=USD) > client error (Connect) > Connection reset by peer (os error 104)"
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-08-21T10:01:01.590020+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjQoADICVUFqBRIDT1JEcgUSA1hOQUIBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-08-24|IAD|ABE": {
       "date": "2026-08-24",
@@ -25569,10 +25629,10 @@
       "date": "2026-08-24",
       "origin": "IAD",
       "destination": "IAH",
-      "status": "error",
+      "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-20T17:52:37.057655+00:00",
-      "error": "ConnectError: error sending request for url (https://www.google.com/travel/flights?tfs=GiASCjIwMjYtMDgtMjQoADICVUFqBRIDSUFEcgUSA0lBSEIBAUgBmAECyAEB&hl=en&curr=USD) > client error (Connect) > Connection reset by peer (os error 104)"
+      "updatedAt": "2026-08-21T10:01:03.553196+00:00",
+      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-24|IAD|ICT": {
       "date": "2026-08-24",
@@ -25636,10 +25696,9 @@
       "date": "2026-08-24",
       "origin": "IAD",
       "destination": "KOA",
-      "status": "error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-08-20T17:52:41.553452+00:00",
-      "error": "ConnectError: error sending request for url (https://www.google.com/travel/flights?tfs=GiASCjIwMjYtMDgtMjQoADICVUFqBRIDSUFEcgUSA0tPQUIBAUgBmAECyAEB&hl=en&curr=USD) > client error (Connect) > Connection reset by peer (os error 104)"
+      "updatedAt": "2026-08-21T10:01:04.110443+00:00"
     },
     "2026-08-24|IAD|LAS": {
       "date": "2026-08-24",
@@ -25704,10 +25763,9 @@
       "date": "2026-08-24",
       "origin": "IAD",
       "destination": "MAF",
-      "status": "error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-08-20T17:52:46.685742+00:00",
-      "error": "ConnectError: error sending request for url (https://www.google.com/travel/flights?tfs=GiASCjIwMjYtMDgtMjQoADICVUFqBRIDSUFEcgUSA01BRkIBAUgBmAECyAEB&hl=en&curr=USD) > client error (Connect) > Connection reset by peer (os error 104)"
+      "updatedAt": "2026-08-21T10:01:04.660281+00:00"
     },
     "2026-08-24|IAD|MCI": {
       "date": "2026-08-24",
@@ -25841,10 +25899,9 @@
       "date": "2026-08-24",
       "origin": "IAD",
       "destination": "OAK",
-      "status": "error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-08-20T17:52:56.874410+00:00",
-      "error": "ConnectError: error sending request for url (https://www.google.com/travel/flights?tfs=GiASCjIwMjYtMDgtMjQoADICVUFqBRIDSUFEcgUSA09BS0IBAUgBmAECyAEB&hl=en&curr=USD) > client error (Connect) > Connection reset by peer (os error 104)"
+      "updatedAt": "2026-08-21T10:01:05.238936+00:00"
     },
     "2026-08-24|IAD|OGG": {
       "date": "2026-08-24",
