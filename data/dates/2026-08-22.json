@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-08-22",
-  "generatedAt": "2026-08-21T19:36:57.595562+00:00",
+  "generatedAt": "2026-08-21T23:03:22.752321+00:00",
   "flights": [
     {
       "id": "LAX-SFO-2026-08-22-06:00-07:24-84-192-0",
@@ -26935,7 +26935,7 @@
       "destination": "ORD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-21T08:09:28.607547+00:00",
+      "updatedAt": "2026-08-21T23:01:40.693950+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-22|IAH|ORF": {
@@ -27879,7 +27879,7 @@
       "destination": "IAH",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-21T08:09:30.528043+00:00",
+      "updatedAt": "2026-08-21T23:01:42.860166+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-22|LAX|ICT": {
@@ -28176,7 +28176,7 @@
       "destination": "ORD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-21T10:01:07.290408+00:00",
+      "updatedAt": "2026-08-21T23:01:53.777273+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-22|LAX|ORF": {
@@ -29114,7 +29114,7 @@
       "destination": "IAH",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-21T10:01:09.459874+00:00",
+      "updatedAt": "2026-08-21T23:01:55.977313+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-22|SFO|ICT": {
@@ -29425,8 +29425,8 @@
       "destination": "ORD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-21T10:01:11.505399+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "updatedAt": "2026-08-21T23:01:58.087231+00:00",
+      "error": "IndexError: list index out of range"
     },
     "2026-08-22|SFO|ORF": {
       "date": "2026-08-22",
@@ -29596,7 +29596,7 @@
       "destination": "SAN",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-21T10:01:13.451821+00:00",
+      "updatedAt": "2026-08-21T23:02:00.030444+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-22|SFO|SAT": {
