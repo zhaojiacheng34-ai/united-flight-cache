@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-08-22",
-  "generatedAt": "2026-08-21T05:55:50.834554+00:00",
+  "generatedAt": "2026-08-21T08:10:51.097152+00:00",
   "flights": [
     {
       "id": "LAX-SFO-2026-08-22-06:00-07:24-84-192-0",
@@ -26935,7 +26935,7 @@
       "destination": "ORD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-20T17:51:31.439320+00:00",
+      "updatedAt": "2026-08-21T08:09:28.607547+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-22|IAH|ORF": {
@@ -27877,10 +27877,10 @@
       "date": "2026-08-22",
       "origin": "LAX",
       "destination": "IAH",
-      "status": "error",
+      "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-20T17:51:31.717532+00:00",
-      "error": "ConnectError: error sending request for url (https://www.google.com/travel/flights?tfs=GiASCjIwMjYtMDgtMjIoADICVUFqBRIDTEFYcgUSA0lBSEIBAUgBmAECyAEB&hl=en&curr=USD) > client error (Connect) > Connection reset by peer (os error 104)"
+      "updatedAt": "2026-08-21T08:09:30.528043+00:00",
+      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-22|LAX|ICT": {
       "date": "2026-08-22",
