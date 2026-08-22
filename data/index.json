@@ -2,25 +2,25 @@
   "schemaVersion": 2,
   "source": "fast-flights",
   "provider": "Google Flights results via fast-flights",
-  "generatedAt": "2026-08-22T07:52:00.373800+00:00",
+  "generatedAt": "2026-08-22T09:47:28.472015+00:00",
   "horizonStart": "2026-08-23",
   "horizonEnd": "2026-10-21",
   "totalRouteDates": 62640,
-  "attemptedRouteDates": 3652,
-  "coveredRouteDates": 3573,
+  "attemptedRouteDates": 3789,
+  "coveredRouteDates": 3710,
   "parserErrorRouteDates": 79,
   "otherErrorRouteDates": 0,
-  "flightCount": 5313,
-  "coveragePercent": 5.83,
-  "usableCoveragePercent": 5.7,
+  "flightCount": 5569,
+  "coveragePercent": 6.05,
+  "usableCoveragePercent": 5.92,
   "dates": {
     "2026-08-23": {
       "flightCount": 1513,
       "attemptedRouteDates": 1044,
-      "coveredRouteDates": 1019,
-      "parserErrorRouteDates": 25,
+      "coveredRouteDates": 1020,
+      "parserErrorRouteDates": 24,
       "otherErrorRouteDates": 0,
-      "generatedAt": "2026-08-22T07:52:00.373800+00:00"
+      "generatedAt": "2026-08-22T09:47:28.472015+00:00"
     },
     "2026-08-24": {
       "flightCount": 1501,
@@ -28,7 +28,7 @@
       "coveredRouteDates": 1020,
       "parserErrorRouteDates": 24,
       "otherErrorRouteDates": 0,
-      "generatedAt": "2026-08-22T07:52:00.373800+00:00"
+      "generatedAt": "2026-08-22T09:47:28.472015+00:00"
     },
     "2026-08-25": {
       "flightCount": 1431,
@@ -36,15 +36,15 @@
       "coveredRouteDates": 1026,
       "parserErrorRouteDates": 18,
       "otherErrorRouteDates": 0,
-      "generatedAt": "2026-08-22T05:48:42.619719+00:00"
+      "generatedAt": "2026-08-22T09:47:28.472015+00:00"
     },
     "2026-08-26": {
-      "flightCount": 868,
-      "attemptedRouteDates": 520,
-      "coveredRouteDates": 508,
-      "parserErrorRouteDates": 12,
+      "flightCount": 1124,
+      "attemptedRouteDates": 657,
+      "coveredRouteDates": 644,
+      "parserErrorRouteDates": 13,
       "otherErrorRouteDates": 0,
-      "generatedAt": "2026-08-22T07:52:00.373800+00:00"
+      "generatedAt": "2026-08-22T09:47:28.472015+00:00"
     }
   }
 }
