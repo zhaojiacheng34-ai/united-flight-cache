@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-08-27",
-  "generatedAt": "2026-08-23T15:01:44.986038+00:00",
+  "generatedAt": "2026-08-23T19:13:21.654315+00:00",
   "flights": [
     {
       "id": "EWR-DCA-2026-08-27-06:25-07:49-84-193-0",
@@ -26945,10 +26945,9 @@
       "date": "2026-08-27",
       "origin": "IAH",
       "destination": "EWR",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-08-23T03:33:50.849631+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "updatedAt": "2026-08-23T19:11:32.600384+00:00"
     },
     "2026-08-27|IAH|FAR": {
       "date": "2026-08-27",
@@ -27089,7 +27088,7 @@
       "destination": "IAD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-23T03:34:01.124393+00:00",
+      "updatedAt": "2026-08-23T19:11:34.733523+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-27|IAH|ICT": {
@@ -27405,10 +27404,9 @@
       "date": "2026-08-27",
       "origin": "IAH",
       "destination": "ORD",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-08-23T03:34:22.838095+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "updatedAt": "2026-08-23T19:11:35.326316+00:00"
     },
     "2026-08-27|IAH|ORF": {
       "date": "2026-08-27",

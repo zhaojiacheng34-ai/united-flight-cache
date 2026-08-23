@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-08-26",
-  "generatedAt": "2026-08-23T17:05:13.124678+00:00",
+  "generatedAt": "2026-08-23T19:13:21.654315+00:00",
   "flights": [
     {
       "id": "EWR-ORD-2026-08-26-06:00-07:40-160-183-0",
@@ -8674,6 +8674,21 @@
       "updatedAt": "2026-08-22T07:50:57.926494+00:00"
     },
     {
+      "id": "IAH-IAD-2026-08-26-07:20-11:28-188-360-0",
+      "origin": "IAH",
+      "destination": "IAD",
+      "destinationCity": "Dulles International Airport",
+      "date": "2026-08-26",
+      "departure": "07:20",
+      "arrival": "11:28",
+      "duration": 188,
+      "price": 360,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjYoADICVUFqBRIDSUFIcgUSA0lBREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-23T19:11:51.460715+00:00"
+    },
+    {
       "id": "IAH-MAF-2026-08-26-16:35-18:13-98-361-0",
       "origin": "IAH",
       "destination": "MAF",
@@ -16667,6 +16682,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjYoADICVUFqBRIDT1JEcgUSA01TTkIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-08-22T03:13:04.510554+00:00"
+    },
+    {
+      "id": "IAH-IAD-2026-08-26-12:10-16:21-191-506-1",
+      "origin": "IAH",
+      "destination": "IAD",
+      "destinationCity": "Dulles International Airport",
+      "date": "2026-08-26",
+      "departure": "12:10",
+      "arrival": "16:21",
+      "duration": 191,
+      "price": 506,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjYoADICVUFqBRIDSUFIcgUSA0lBREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-23T19:11:51.460759+00:00"
     },
     {
       "id": "ORD-GRR-2026-08-26-13:55-16:09-74-507-1",
@@ -27532,10 +27562,10 @@
       "date": "2026-08-26",
       "origin": "IAH",
       "destination": "IAD",
-      "status": "parser_error",
-      "flightCount": 0,
-      "updatedAt": "2026-08-23T05:50:33.838521+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-08-23T19:11:51.461247+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjYoADICVUFqBRIDSUFIcgUSA0lBREIBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-08-26|IAH|ICT": {
       "date": "2026-08-26",
@@ -27850,7 +27880,7 @@
       "destination": "ORD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-23T05:50:35.881539+00:00",
+      "updatedAt": "2026-08-23T19:11:53.544276+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-26|IAH|ORF": {
