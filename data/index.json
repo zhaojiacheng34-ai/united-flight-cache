@@ -2,25 +2,25 @@
   "schemaVersion": 2,
   "source": "fast-flights",
   "provider": "Google Flights results via fast-flights",
-  "generatedAt": "2026-08-23T15:01:44.986038+00:00",
+  "generatedAt": "2026-08-23T17:05:13.124678+00:00",
   "horizonStart": "2026-08-24",
   "horizonEnd": "2026-10-22",
   "totalRouteDates": 62640,
-  "attemptedRouteDates": 4687,
-  "coveredRouteDates": 4586,
+  "attemptedRouteDates": 4824,
+  "coveredRouteDates": 4723,
   "parserErrorRouteDates": 101,
   "otherErrorRouteDates": 0,
-  "flightCount": 6651,
-  "coveragePercent": 7.48,
-  "usableCoveragePercent": 7.32,
+  "flightCount": 6898,
+  "coveragePercent": 7.7,
+  "usableCoveragePercent": 7.54,
   "dates": {
     "2026-08-24": {
       "flightCount": 1501,
       "attemptedRouteDates": 1044,
-      "coveredRouteDates": 1021,
-      "parserErrorRouteDates": 23,
+      "coveredRouteDates": 1022,
+      "parserErrorRouteDates": 22,
       "otherErrorRouteDates": 0,
-      "generatedAt": "2026-08-23T15:01:44.986038+00:00"
+      "generatedAt": "2026-08-23T17:05:13.124678+00:00"
     },
     "2026-08-25": {
       "flightCount": 1431,
@@ -28,7 +28,7 @@
       "coveredRouteDates": 1027,
       "parserErrorRouteDates": 17,
       "otherErrorRouteDates": 0,
-      "generatedAt": "2026-08-23T11:01:27.839034+00:00"
+      "generatedAt": "2026-08-23T17:05:13.124678+00:00"
     },
     "2026-08-26": {
       "flightCount": 1456,
@@ -36,7 +36,7 @@
       "coveredRouteDates": 1022,
       "parserErrorRouteDates": 22,
       "otherErrorRouteDates": 0,
-      "generatedAt": "2026-08-23T15:01:44.986038+00:00"
+      "generatedAt": "2026-08-23T17:05:13.124678+00:00"
     },
     "2026-08-27": {
       "flightCount": 1427,
@@ -47,12 +47,12 @@
       "generatedAt": "2026-08-23T15:01:44.986038+00:00"
     },
     "2026-08-28": {
-      "flightCount": 836,
-      "attemptedRouteDates": 511,
-      "coveredRouteDates": 500,
-      "parserErrorRouteDates": 11,
+      "flightCount": 1083,
+      "attemptedRouteDates": 648,
+      "coveredRouteDates": 636,
+      "parserErrorRouteDates": 12,
       "otherErrorRouteDates": 0,
-      "generatedAt": "2026-08-23T15:01:44.986038+00:00"
+      "generatedAt": "2026-08-23T17:05:13.124678+00:00"
     }
   }
 }

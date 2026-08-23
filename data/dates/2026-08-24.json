@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-08-24",
-  "generatedAt": "2026-08-23T15:01:44.986038+00:00",
+  "generatedAt": "2026-08-23T17:05:13.124678+00:00",
   "flights": [
     {
       "id": "EWR-DCA-2026-08-24-06:25-07:49-84-193-0",
@@ -30697,7 +30697,7 @@
       "destination": "IAD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-23T03:33:04.952676+00:00",
+      "updatedAt": "2026-08-23T17:03:43.335509+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-24|SFO|IAH": {
@@ -30706,7 +30706,7 @@
       "destination": "IAH",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-23T03:33:06.946043+00:00",
+      "updatedAt": "2026-08-23T17:03:45.353502+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-24|SFO|ICT": {
@@ -30782,7 +30782,7 @@
       "destination": "LAS",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-23T03:33:10.854221+00:00",
+      "updatedAt": "2026-08-23T17:03:49.128671+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-24|SFO|LAX": {
@@ -30791,7 +30791,7 @@
       "destination": "LAX",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-23T03:33:12.802537+00:00",
+      "updatedAt": "2026-08-23T17:03:51.072459+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-24|SFO|LBB": {
@@ -31019,7 +31019,7 @@
       "destination": "ORD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-23T03:33:14.767175+00:00",
+      "updatedAt": "2026-08-23T17:03:52.913731+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-24|SFO|ORF": {
@@ -31044,7 +31044,7 @@
       "destination": "PDX",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-23T03:33:16.637054+00:00",
+      "updatedAt": "2026-08-23T17:03:55.091946+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-24|SFO|PHL": {
@@ -31187,10 +31187,9 @@
       "date": "2026-08-24",
       "origin": "SFO",
       "destination": "SAN",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-08-23T03:33:18.645958+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "updatedAt": "2026-08-23T17:03:56.846831+00:00"
     },
     "2026-08-24|SFO|SAT": {
       "date": "2026-08-24",
