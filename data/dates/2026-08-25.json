@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-08-25",
-  "generatedAt": "2026-08-23T21:00:17.506087+00:00",
+  "generatedAt": "2026-08-23T22:59:24.556841+00:00",
   "flights": [
     {
       "id": "ORD-ONT-2026-08-25-20:06-22:35-269-179-0",
@@ -23151,10 +23151,9 @@
       "date": "2026-08-25",
       "origin": "ORD",
       "destination": "EWR",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-08-23T07:52:47.121672+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "updatedAt": "2026-08-23T22:58:11.829156+00:00"
     },
     "2026-08-25|ORD|FAR": {
       "date": "2026-08-25",
@@ -23309,10 +23308,9 @@
       "date": "2026-08-25",
       "origin": "ORD",
       "destination": "IAH",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-08-23T07:52:49.019012+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "updatedAt": "2026-08-23T22:58:12.444461+00:00"
     },
     "2026-08-25|ORD|ICT": {
       "date": "2026-08-25",
