@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-08-26",
-  "generatedAt": "2026-08-24T11:49:45.347501+00:00",
+  "generatedAt": "2026-08-24T14:29:24.915000+00:00",
   "flights": [
     {
       "id": "EWR-ORD-2026-08-26-06:00-07:40-160-183-0",
@@ -20899,6 +20899,21 @@
       "updatedAt": "2026-08-22T07:50:58.998178+00:00"
     },
     {
+      "id": "IAH-EWR-2026-08-26-09:57-14:38-221-619-0",
+      "origin": "IAH",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-08-26",
+      "departure": "09:57",
+      "arrival": "14:38",
+      "duration": 221,
+      "price": 619,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjYoADICVUFqBRIDSUFIcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T14:27:42.307120+00:00"
+    },
+    {
       "id": "LAX-BWI-2026-08-26-08:30-16:35-305-619-0",
       "origin": "LAX",
       "destination": "BWI",
@@ -21439,6 +21454,21 @@
       "updatedAt": "2026-08-22T10:59:34.982848+00:00"
     },
     {
+      "id": "IAH-EWR-2026-08-26-07:20-11:53-213-699-1",
+      "origin": "IAH",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-08-26",
+      "departure": "07:20",
+      "arrival": "11:53",
+      "duration": 213,
+      "price": 699,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjYoADICVUFqBRIDSUFIcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T14:27:42.307149+00:00"
+    },
+    {
       "id": "ORD-FAR-2026-08-26-17:30-19:44-134-709-3",
       "origin": "ORD",
       "destination": "FAR",
@@ -21829,6 +21859,21 @@
       "updatedAt": "2026-08-22T03:13:02.934536+00:00"
     },
     {
+      "id": "IAH-EWR-2026-08-26-16:50-21:33-223-1195-2",
+      "origin": "IAH",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-08-26",
+      "departure": "16:50",
+      "arrival": "21:33",
+      "duration": 223,
+      "price": 1195,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjYoADICVUFqBRIDSUFIcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T14:27:42.307158+00:00"
+    },
+    {
       "id": "SFO-MCO-2026-08-26-23:59-08:24-325-1285-1",
       "origin": "SFO",
       "destination": "MCO",
@@ -21872,6 +21917,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjYoADICVUFqBRIDREVOcgUSA01SWUIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-08-22T09:46:25.624261+00:00"
+    },
+    {
+      "id": "IAH-EWR-2026-08-26-18:05-22:43-218-1784-3",
+      "origin": "IAH",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-08-26",
+      "departure": "18:05",
+      "arrival": "22:43",
+      "duration": 218,
+      "price": 1784,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjYoADICVUFqBRIDSUFIcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T14:27:42.307165+00:00"
     }
   ],
   "routes": {
@@ -27420,10 +27480,10 @@
       "date": "2026-08-26",
       "origin": "IAH",
       "destination": "EWR",
-      "status": "parser_error",
-      "flightCount": 0,
-      "updatedAt": "2026-08-23T17:03:47.290177+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-08-24T14:27:42.307616+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjYoADICVUFqBRIDSUFIcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-08-26|IAH|FAR": {
       "date": "2026-08-26",
@@ -27880,7 +27940,7 @@
       "destination": "ORD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-23T19:11:53.544276+00:00",
+      "updatedAt": "2026-08-24T14:27:52.465697+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-26|IAH|ORF": {
@@ -28111,7 +28171,7 @@
       "destination": "SFO",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-23T20:58:45.953333+00:00",
+      "updatedAt": "2026-08-24T14:27:58.557835+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-26|IAH|SGF": {
