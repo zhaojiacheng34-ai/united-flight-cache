@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-08-29",
-  "generatedAt": "2026-08-24T21:49:54.595791+00:00",
+  "generatedAt": "2026-08-24T23:04:49.914686+00:00",
   "flights": [
     {
       "id": "ORD-ONT-2026-08-29-20:06-22:35-269-179-0",
@@ -23408,10 +23408,9 @@
       "date": "2026-08-29",
       "origin": "ORD",
       "destination": "SFO",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-08-24T06:07:54.983005+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "updatedAt": "2026-08-24T23:03:17.231619+00:00"
     },
     "2026-08-29|ORD|SGF": {
       "date": "2026-08-29",
