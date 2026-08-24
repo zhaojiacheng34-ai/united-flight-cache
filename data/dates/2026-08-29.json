@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-08-29",
-  "generatedAt": "2026-08-24T19:50:30.734480+00:00",
+  "generatedAt": "2026-08-24T21:49:54.595791+00:00",
   "flights": [
     {
       "id": "ORD-ONT-2026-08-29-20:06-22:35-269-179-0",
@@ -1037,6 +1037,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA0xBWEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-08-24T19:50:29.311785+00:00"
+    },
+    {
+      "id": "SFO-PHX-2026-08-29-16:25-18:35-130-232-0",
+      "origin": "SFO",
+      "destination": "PHX",
+      "destinationCity": "Phoenix Sky Harbor International Airport",
+      "date": "2026-08-29",
+      "departure": "16:25",
+      "arrival": "18:35",
+      "duration": 130,
+      "price": 232,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1BIWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:53.039240+00:00"
     },
     {
       "id": "SFO-LAX-2026-08-29-18:45-20:27-102-232-2",
@@ -5614,6 +5629,81 @@
       "updatedAt": "2026-08-24T06:07:50.204588+00:00"
     },
     {
+      "id": "SFO-SBA-2026-08-29-10:40-11:57-77-303-0",
+      "origin": "SFO",
+      "destination": "SBA",
+      "destinationCity": "Santa Barbara Airport",
+      "date": "2026-08-29",
+      "departure": "10:40",
+      "arrival": "11:57",
+      "duration": 77,
+      "price": 303,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1NCQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:49:04.747496+00:00"
+    },
+    {
+      "id": "SFO-SBA-2026-08-29-13:52-15:20-88-303-1",
+      "origin": "SFO",
+      "destination": "SBA",
+      "destinationCity": "Santa Barbara Airport",
+      "date": "2026-08-29",
+      "departure": "13:52",
+      "arrival": "15:20",
+      "duration": 88,
+      "price": 303,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1NCQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:49:04.747524+00:00"
+    },
+    {
+      "id": "SFO-SBA-2026-08-29-16:17-17:45-88-303-2",
+      "origin": "SFO",
+      "destination": "SBA",
+      "destinationCity": "Santa Barbara Airport",
+      "date": "2026-08-29",
+      "departure": "16:17",
+      "arrival": "17:45",
+      "duration": 88,
+      "price": 303,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1NCQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:49:04.747531+00:00"
+    },
+    {
+      "id": "SFO-SBA-2026-08-29-18:50-20:11-81-303-3",
+      "origin": "SFO",
+      "destination": "SBA",
+      "destinationCity": "Santa Barbara Airport",
+      "date": "2026-08-29",
+      "departure": "18:50",
+      "arrival": "20:11",
+      "duration": 81,
+      "price": 303,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1NCQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:49:04.747538+00:00"
+    },
+    {
+      "id": "SFO-PHX-2026-08-29-21:02-23:12-130-304-1",
+      "origin": "SFO",
+      "destination": "PHX",
+      "destinationCity": "Phoenix Sky Harbor International Airport",
+      "date": "2026-08-29",
+      "departure": "21:02",
+      "arrival": "23:12",
+      "duration": 130,
+      "price": 304,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1BIWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:53.039266+00:00"
+    },
+    {
       "id": "IAD-DFW-2026-08-29-08:30-10:46-196-306-0",
       "origin": "IAD",
       "destination": "DFW",
@@ -5672,6 +5762,51 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDT1JEcgUSA0xHQUIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-08-24T06:07:21.714019+00:00"
+    },
+    {
+      "id": "SFO-PSP-2026-08-29-13:40-15:27-107-310-0",
+      "origin": "SFO",
+      "destination": "PSP",
+      "destinationCity": "Palm Springs International Airport",
+      "date": "2026-08-29",
+      "departure": "13:40",
+      "arrival": "15:27",
+      "duration": 107,
+      "price": 310,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1BTUEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:55.824401+00:00"
+    },
+    {
+      "id": "SFO-PSP-2026-08-29-16:40-18:31-111-310-1",
+      "origin": "SFO",
+      "destination": "PSP",
+      "destinationCity": "Palm Springs International Airport",
+      "date": "2026-08-29",
+      "departure": "16:40",
+      "arrival": "18:31",
+      "duration": 111,
+      "price": 310,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1BTUEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:55.824427+00:00"
+    },
+    {
+      "id": "SFO-PSP-2026-08-29-18:43-20:32-109-310-2",
+      "origin": "SFO",
+      "destination": "PSP",
+      "destinationCity": "Palm Springs International Airport",
+      "date": "2026-08-29",
+      "departure": "18:43",
+      "arrival": "20:32",
+      "duration": 109,
+      "price": 310,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1BTUEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:55.824435+00:00"
     },
     {
       "id": "ORD-RAP-2026-08-29-08:58-10:26-148-311-0",
@@ -5852,6 +5987,51 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDT1JEcgUSA0FCUUIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-08-24T03:39:52.532921+00:00"
+    },
+    {
+      "id": "SFO-PDX-2026-08-29-08:20-10:11-111-317-0",
+      "origin": "SFO",
+      "destination": "PDX",
+      "destinationCity": "Portland International Airport",
+      "date": "2026-08-29",
+      "departure": "08:20",
+      "arrival": "10:11",
+      "duration": 111,
+      "price": 317,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1BEWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:51.895072+00:00"
+    },
+    {
+      "id": "SFO-PDX-2026-08-29-19:04-21:06-122-317-1",
+      "origin": "SFO",
+      "destination": "PDX",
+      "destinationCity": "Portland International Airport",
+      "date": "2026-08-29",
+      "departure": "19:04",
+      "arrival": "21:06",
+      "duration": 122,
+      "price": 317,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1BEWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:51.895100+00:00"
+    },
+    {
+      "id": "SFO-PDX-2026-08-29-20:50-22:45-115-317-2",
+      "origin": "SFO",
+      "destination": "PDX",
+      "destinationCity": "Portland International Airport",
+      "date": "2026-08-29",
+      "departure": "20:50",
+      "arrival": "22:45",
+      "duration": 115,
+      "price": 317,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1BEWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:51.895108+00:00"
     },
     {
       "id": "ORD-SGF-2026-08-29-08:50-10:48-118-319-0",
@@ -6287,6 +6467,66 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDT1JEcgUSA0hTVkIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-08-24T06:07:11.059392+00:00"
+    },
+    {
+      "id": "SFO-SNA-2026-08-29-10:20-12:06-106-329-0",
+      "origin": "SFO",
+      "destination": "SNA",
+      "destinationCity": "John Wayne Airport",
+      "date": "2026-08-29",
+      "departure": "10:20",
+      "arrival": "12:06",
+      "duration": 106,
+      "price": 329,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1NOQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:49:09.703027+00:00"
+    },
+    {
+      "id": "SFO-SNA-2026-08-29-12:12-13:53-101-329-1",
+      "origin": "SFO",
+      "destination": "SNA",
+      "destinationCity": "John Wayne Airport",
+      "date": "2026-08-29",
+      "departure": "12:12",
+      "arrival": "13:53",
+      "duration": 101,
+      "price": 329,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1NOQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:49:09.703051+00:00"
+    },
+    {
+      "id": "SFO-SNA-2026-08-29-13:40-15:30-110-329-2",
+      "origin": "SFO",
+      "destination": "SNA",
+      "destinationCity": "John Wayne Airport",
+      "date": "2026-08-29",
+      "departure": "13:40",
+      "arrival": "15:30",
+      "duration": 110,
+      "price": 329,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1NOQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:49:09.703058+00:00"
+    },
+    {
+      "id": "SFO-SNA-2026-08-29-16:55-18:47-112-329-3",
+      "origin": "SFO",
+      "destination": "SNA",
+      "destinationCity": "John Wayne Airport",
+      "date": "2026-08-29",
+      "departure": "16:55",
+      "arrival": "18:47",
+      "duration": 112,
+      "price": 329,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1NOQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:49:09.703064+00:00"
     },
     {
       "id": "ORD-MSO-2026-08-29-08:40-11:42-242-330-0",
@@ -7564,6 +7804,36 @@
       "updatedAt": "2026-08-24T19:48:55.411473+00:00"
     },
     {
+      "id": "SFO-RDM-2026-08-29-10:23-12:06-103-344-0",
+      "origin": "SFO",
+      "destination": "RDM",
+      "destinationCity": "Redmond Municipal Airport",
+      "date": "2026-08-29",
+      "departure": "10:23",
+      "arrival": "12:06",
+      "duration": 103,
+      "price": 344,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1JETUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:57.535832+00:00"
+    },
+    {
+      "id": "SFO-RDM-2026-08-29-16:45-18:28-103-344-1",
+      "origin": "SFO",
+      "destination": "RDM",
+      "destinationCity": "Redmond Municipal Airport",
+      "date": "2026-08-29",
+      "departure": "16:45",
+      "arrival": "18:28",
+      "duration": 103,
+      "price": 344,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1JETUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:57.535862+00:00"
+    },
+    {
       "id": "IAD-MHT-2026-08-29-12:26-14:08-102-345-0",
       "origin": "IAD",
       "destination": "MHT",
@@ -8674,6 +8944,36 @@
       "updatedAt": "2026-08-24T06:07:31.043109+00:00"
     },
     {
+      "id": "SFO-OGG-2026-08-29-08:15-10:48-333-373-0",
+      "origin": "SFO",
+      "destination": "OGG",
+      "destinationCity": "Kahului Airport",
+      "date": "2026-08-29",
+      "departure": "08:15",
+      "arrival": "10:48",
+      "duration": 333,
+      "price": 373,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA09HR0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:46.546264+00:00"
+    },
+    {
+      "id": "SFO-LIH-2026-08-29-09:10-11:59-349-373-0",
+      "origin": "SFO",
+      "destination": "LIH",
+      "destinationCity": "Lihue Airport",
+      "date": "2026-08-29",
+      "departure": "09:10",
+      "arrival": "11:59",
+      "duration": 349,
+      "price": 373,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA0xJSEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:35.331394+00:00"
+    },
+    {
       "id": "SFO-HNL-2026-08-29-09:20-11:45-325-373-0",
       "origin": "SFO",
       "destination": "HNL",
@@ -8719,6 +9019,21 @@
       "updatedAt": "2026-08-24T19:50:18.600423+00:00"
     },
     {
+      "id": "SFO-OGG-2026-08-29-14:00-16:35-335-373-1",
+      "origin": "SFO",
+      "destination": "OGG",
+      "destinationCity": "Kahului Airport",
+      "date": "2026-08-29",
+      "departure": "14:00",
+      "arrival": "16:35",
+      "duration": 335,
+      "price": 373,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA09HR0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:46.546291+00:00"
+    },
+    {
       "id": "SFO-HNL-2026-08-29-16:45-19:28-343-373-3",
       "origin": "SFO",
       "destination": "HNL",
@@ -8732,6 +9047,36 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA0hOTEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-08-24T19:50:18.600429+00:00"
+    },
+    {
+      "id": "SFO-OGG-2026-08-29-16:45-19:20-335-373-2",
+      "origin": "SFO",
+      "destination": "OGG",
+      "destinationCity": "Kahului Airport",
+      "date": "2026-08-29",
+      "departure": "16:45",
+      "arrival": "19:20",
+      "duration": 335,
+      "price": 373,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA09HR0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:46.546298+00:00"
+    },
+    {
+      "id": "SFO-LIH-2026-08-29-16:55-19:44-349-373-1",
+      "origin": "SFO",
+      "destination": "LIH",
+      "destinationCity": "Lihue Airport",
+      "date": "2026-08-29",
+      "departure": "16:55",
+      "arrival": "19:44",
+      "duration": 349,
+      "price": 373,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA0xJSEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:35.331421+00:00"
     },
     {
       "id": "DEN-SAN-2026-08-29-07:43-09:05-142-374-0",
@@ -10099,6 +10444,51 @@
       "updatedAt": "2026-08-24T06:07:04.574010+00:00"
     },
     {
+      "id": "SFO-ONT-2026-08-29-10:37-12:12-95-388-0",
+      "origin": "SFO",
+      "destination": "ONT",
+      "destinationCity": "Ontario International Airport",
+      "date": "2026-08-29",
+      "departure": "10:37",
+      "arrival": "12:12",
+      "duration": 95,
+      "price": 388,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA09OVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:48.183514+00:00"
+    },
+    {
+      "id": "SFO-ONT-2026-08-29-14:10-15:41-91-388-1",
+      "origin": "SFO",
+      "destination": "ONT",
+      "destinationCity": "Ontario International Airport",
+      "date": "2026-08-29",
+      "departure": "14:10",
+      "arrival": "15:41",
+      "duration": 91,
+      "price": 388,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA09OVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:48.183541+00:00"
+    },
+    {
+      "id": "SFO-ONT-2026-08-29-18:30-20:01-91-388-2",
+      "origin": "SFO",
+      "destination": "ONT",
+      "destinationCity": "Ontario International Airport",
+      "date": "2026-08-29",
+      "departure": "18:30",
+      "arrival": "20:01",
+      "duration": 91,
+      "price": 388,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA09OVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:48.183549+00:00"
+    },
+    {
       "id": "IAD-LAX-2026-08-29-07:00-09:34-334-389-0",
       "origin": "IAD",
       "destination": "LAX",
@@ -10774,6 +11164,51 @@
       "updatedAt": "2026-08-24T03:38:49.396152+00:00"
     },
     {
+      "id": "SFO-SLC-2026-08-29-09:17-12:22-125-394-0",
+      "origin": "SFO",
+      "destination": "SLC",
+      "destinationCity": "Salt Lake City International Airport",
+      "date": "2026-08-29",
+      "departure": "09:17",
+      "arrival": "12:22",
+      "duration": 125,
+      "price": 394,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1NMQ0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:49:08.468761+00:00"
+    },
+    {
+      "id": "SFO-SLC-2026-08-29-14:08-17:07-119-394-1",
+      "origin": "SFO",
+      "destination": "SLC",
+      "destinationCity": "Salt Lake City International Airport",
+      "date": "2026-08-29",
+      "departure": "14:08",
+      "arrival": "17:07",
+      "duration": 119,
+      "price": 394,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1NMQ0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:49:08.468787+00:00"
+    },
+    {
+      "id": "SFO-SLC-2026-08-29-20:48-23:54-126-394-2",
+      "origin": "SFO",
+      "destination": "SLC",
+      "destinationCity": "Salt Lake City International Airport",
+      "date": "2026-08-29",
+      "departure": "20:48",
+      "arrival": "23:54",
+      "duration": 126,
+      "price": 394,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1NMQ0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:49:08.468795+00:00"
+    },
+    {
       "id": "DEN-COS-2026-08-29-07:45-08:40-55-395-0",
       "origin": "DEN",
       "destination": "COS",
@@ -11357,6 +11792,81 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDREVOcgUSA1RVU0IBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-08-24T14:28:20.360569+00:00"
+    },
+    {
+      "id": "SFO-RNO-2026-08-29-08:15-09:29-74-408-0",
+      "origin": "SFO",
+      "destination": "RNO",
+      "destinationCity": "Reno-Tahoe International Airport",
+      "date": "2026-08-29",
+      "departure": "08:15",
+      "arrival": "09:29",
+      "duration": 74,
+      "price": 408,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1JOT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:59.246730+00:00"
+    },
+    {
+      "id": "SFO-RNO-2026-08-29-12:07-13:18-71-408-1",
+      "origin": "SFO",
+      "destination": "RNO",
+      "destinationCity": "Reno-Tahoe International Airport",
+      "date": "2026-08-29",
+      "departure": "12:07",
+      "arrival": "13:18",
+      "duration": 71,
+      "price": 408,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1JOT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:59.246756+00:00"
+    },
+    {
+      "id": "SFO-RNO-2026-08-29-14:20-15:38-78-408-2",
+      "origin": "SFO",
+      "destination": "RNO",
+      "destinationCity": "Reno-Tahoe International Airport",
+      "date": "2026-08-29",
+      "departure": "14:20",
+      "arrival": "15:38",
+      "duration": 78,
+      "price": 408,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1JOT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:59.246763+00:00"
+    },
+    {
+      "id": "SFO-RNO-2026-08-29-18:47-19:58-71-408-3",
+      "origin": "SFO",
+      "destination": "RNO",
+      "destinationCity": "Reno-Tahoe International Airport",
+      "date": "2026-08-29",
+      "departure": "18:47",
+      "arrival": "19:58",
+      "duration": 71,
+      "price": 408,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1JOT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:59.246769+00:00"
+    },
+    {
+      "id": "SFO-RNO-2026-08-29-22:44-23:59-75-408-4",
+      "origin": "SFO",
+      "destination": "RNO",
+      "destinationCity": "Reno-Tahoe International Airport",
+      "date": "2026-08-29",
+      "departure": "22:44",
+      "arrival": "23:59",
+      "duration": 75,
+      "price": 408,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1JOT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:59.246775+00:00"
     },
     {
       "id": "IAD-TYS-2026-08-29-09:00-10:37-97-409-0",
@@ -13099,6 +13609,21 @@
       "updatedAt": "2026-08-24T06:07:58.227371+00:00"
     },
     {
+      "id": "SFO-SEA-2026-08-29-12:05-14:24-139-463-0",
+      "origin": "SFO",
+      "destination": "SEA",
+      "destinationCity": "Seattle-Tacoma International Airport",
+      "date": "2026-08-29",
+      "departure": "12:05",
+      "arrival": "14:24",
+      "duration": 139,
+      "price": 463,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1NFQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:49:06.282994+00:00"
+    },
+    {
       "id": "DEN-DRO-2026-08-29-08:20-09:36-76-464-0",
       "origin": "DEN",
       "destination": "DRO",
@@ -13939,6 +14464,21 @@
       "updatedAt": "2026-08-24T19:49:19.486558+00:00"
     },
     {
+      "id": "SFO-SMF-2026-08-29-08:29-09:33-64-469-0",
+      "origin": "SFO",
+      "destination": "SMF",
+      "destinationCity": "Sacramento International Airport",
+      "date": "2026-08-29",
+      "departure": "08:29",
+      "arrival": "09:33",
+      "duration": 64,
+      "price": 469,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1NNRkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:49:09.085783+00:00"
+    },
+    {
       "id": "SFO-FAT-2026-08-29-10:05-11:22-77-469-0",
       "origin": "SFO",
       "destination": "FAT",
@@ -13952,6 +14492,36 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA0ZBVEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-08-24T19:50:09.688985+00:00"
+    },
+    {
+      "id": "SFO-SMF-2026-08-29-12:05-13:07-62-469-1",
+      "origin": "SFO",
+      "destination": "SMF",
+      "destinationCity": "Sacramento International Airport",
+      "date": "2026-08-29",
+      "departure": "12:05",
+      "arrival": "13:07",
+      "duration": 62,
+      "price": 469,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1NNRkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:49:09.085809+00:00"
+    },
+    {
+      "id": "SFO-MRY-2026-08-29-13:55-15:01-66-469-0",
+      "origin": "SFO",
+      "destination": "MRY",
+      "destinationCity": "Monterey Regional Airport",
+      "date": "2026-08-29",
+      "departure": "13:55",
+      "arrival": "15:01",
+      "duration": 66,
+      "price": 469,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA01SWUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:42.796027+00:00"
     },
     {
       "id": "SFO-FAT-2026-08-29-16:10-17:26-76-469-1",
@@ -13969,6 +14539,21 @@
       "updatedAt": "2026-08-24T19:50:09.689012+00:00"
     },
     {
+      "id": "SFO-MRY-2026-08-29-16:10-17:16-66-469-1",
+      "origin": "SFO",
+      "destination": "MRY",
+      "destinationCity": "Monterey Regional Airport",
+      "date": "2026-08-29",
+      "departure": "16:10",
+      "arrival": "17:16",
+      "duration": 66,
+      "price": 469,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA01SWUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:42.796053+00:00"
+    },
+    {
       "id": "SFO-FAT-2026-08-29-18:43-19:59-76-469-2",
       "origin": "SFO",
       "destination": "FAT",
@@ -13982,6 +14567,36 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA0ZBVEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-08-24T19:50:09.689020+00:00"
+    },
+    {
+      "id": "SFO-SMF-2026-08-29-18:50-19:47-57-469-2",
+      "origin": "SFO",
+      "destination": "SMF",
+      "destinationCity": "Sacramento International Airport",
+      "date": "2026-08-29",
+      "departure": "18:50",
+      "arrival": "19:47",
+      "duration": 57,
+      "price": 469,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1NNRkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:49:09.085817+00:00"
+    },
+    {
+      "id": "SFO-MRY-2026-08-29-20:52-21:59-67-469-2",
+      "origin": "SFO",
+      "destination": "MRY",
+      "destinationCity": "Monterey Regional Airport",
+      "date": "2026-08-29",
+      "departure": "20:52",
+      "arrival": "21:59",
+      "duration": 67,
+      "price": 469,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA01SWUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:42.796061+00:00"
     },
     {
       "id": "SFO-FAT-2026-08-29-22:43-23:59-76-469-3",
@@ -15394,6 +16009,21 @@
       "updatedAt": "2026-08-24T11:49:00.669055+00:00"
     },
     {
+      "id": "SFO-SEA-2026-08-29-09:00-11:26-146-500-1",
+      "origin": "SFO",
+      "destination": "SEA",
+      "destinationCity": "Seattle-Tacoma International Airport",
+      "date": "2026-08-29",
+      "departure": "09:00",
+      "arrival": "11:26",
+      "duration": 146,
+      "price": 500,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1NFQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:49:06.283022+00:00"
+    },
+    {
       "id": "IAH-LAS-2026-08-29-07:30-08:49-199-501-0",
       "origin": "IAH",
       "destination": "LAS",
@@ -15542,6 +16172,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDSUFIcgUSA0RST0IBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-08-24T14:28:47.499729+00:00"
+    },
+    {
+      "id": "SFO-MIA-2026-08-29-10:40-19:26-346-514-0",
+      "origin": "SFO",
+      "destination": "MIA",
+      "destinationCity": "Miami International Airport",
+      "date": "2026-08-29",
+      "departure": "10:40",
+      "arrival": "19:26",
+      "duration": 346,
+      "price": 514,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA01JQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:41.255167+00:00"
     },
     {
       "id": "DEN-ICT-2026-08-29-13:40-16:12-92-517-3",
@@ -16654,6 +17299,36 @@
       "updatedAt": "2026-08-24T14:28:25.873045+00:00"
     },
     {
+      "id": "SFO-PSC-2026-08-29-10:06-12:12-126-519-0",
+      "origin": "SFO",
+      "destination": "PSC",
+      "destinationCity": "Tri-Cities Airport",
+      "date": "2026-08-29",
+      "departure": "10:06",
+      "arrival": "12:12",
+      "duration": 126,
+      "price": 519,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1BTQ0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:55.269970+00:00"
+    },
+    {
+      "id": "SFO-TUS-2026-08-29-10:10-12:29-139-519-0",
+      "origin": "SFO",
+      "destination": "TUS",
+      "destinationCity": "Tucson International Airport",
+      "date": "2026-08-29",
+      "departure": "10:10",
+      "arrival": "12:29",
+      "duration": 139,
+      "price": 519,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1RVU0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:49:14.349973+00:00"
+    },
+    {
       "id": "SFO-BZN-2026-08-29-12:00-15:19-139-519-0",
       "origin": "SFO",
       "destination": "BZN",
@@ -16667,6 +17342,36 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA0JaTkIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-08-24T19:49:53.286373+00:00"
+    },
+    {
+      "id": "SFO-MSO-2026-08-29-12:00-15:24-144-519-0",
+      "origin": "SFO",
+      "destination": "MSO",
+      "destinationCity": "Missoula Montana Airport",
+      "date": "2026-08-29",
+      "departure": "12:00",
+      "arrival": "15:24",
+      "duration": 144,
+      "price": 519,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA01TT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:43.865892+00:00"
+    },
+    {
+      "id": "SFO-TUS-2026-08-29-16:30-18:49-139-519-1",
+      "origin": "SFO",
+      "destination": "TUS",
+      "destinationCity": "Tucson International Airport",
+      "date": "2026-08-29",
+      "departure": "16:30",
+      "arrival": "18:49",
+      "duration": 139,
+      "price": 519,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1RVU0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:49:14.349998+00:00"
     },
     {
       "id": "SFO-BFL-2026-08-29-16:30-17:54-84-523-1",
@@ -16802,6 +17507,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDREVOcgUSA0NPU0IBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-08-24T11:48:52.399587+00:00"
+    },
+    {
+      "id": "SFO-PHL-2026-08-29-10:37-19:15-338-531-0",
+      "origin": "SFO",
+      "destination": "PHL",
+      "destinationCity": "Philadelphia International Airport",
+      "date": "2026-08-29",
+      "departure": "10:37",
+      "arrival": "19:15",
+      "duration": 338,
+      "price": 531,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1BITEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:52.440503+00:00"
     },
     {
       "id": "DEN-RNO-2026-08-29-08:00-09:24-144-532-0",
@@ -17584,6 +18304,21 @@
       "updatedAt": "2026-08-24T17:53:21.053451+00:00"
     },
     {
+      "id": "SFO-MCO-2026-08-29-08:15-16:44-329-559-0",
+      "origin": "SFO",
+      "destination": "MCO",
+      "destinationCity": "Orlando International Airport",
+      "date": "2026-08-29",
+      "departure": "08:15",
+      "arrival": "16:44",
+      "duration": 329,
+      "price": 559,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA01DT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:38.288232+00:00"
+    },
+    {
       "id": "IAD-JAX-2026-08-29-13:05-15:19-134-561-2",
       "origin": "IAD",
       "destination": "JAX",
@@ -18002,6 +18737,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDSUFIcgUSA1NOQUIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-08-24T17:53:36.343589+00:00"
+    },
+    {
+      "id": "SFO-SAT-2026-08-29-12:20-17:56-216-569-0",
+      "origin": "SFO",
+      "destination": "SAT",
+      "destinationCity": "San Antonio International Airport",
+      "date": "2026-08-29",
+      "departure": "12:20",
+      "arrival": "17:56",
+      "duration": 216,
+      "price": 569,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1NBVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:49:03.680912+00:00"
     },
     {
       "id": "EWR-PIT-2026-08-29-09:10-10:41-91-572-3",
@@ -18769,6 +19519,21 @@
       "updatedAt": "2026-08-24T19:49:49.398253+00:00"
     },
     {
+      "id": "SFO-PHX-2026-08-29-10:13-12:30-137-592-2",
+      "origin": "SFO",
+      "destination": "PHX",
+      "destinationCity": "Phoenix Sky Harbor International Airport",
+      "date": "2026-08-29",
+      "departure": "10:13",
+      "arrival": "12:30",
+      "duration": 137,
+      "price": 592,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1BIWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:53.039274+00:00"
+    },
+    {
       "id": "SFO-EWR-2026-08-29-10:15-19:04-349-594-4",
       "origin": "SFO",
       "destination": "EWR",
@@ -19189,6 +19954,36 @@
       "updatedAt": "2026-08-24T19:50:25.004865+00:00"
     },
     {
+      "id": "SFO-PIT-2026-08-29-08:15-16:09-294-604-0",
+      "origin": "SFO",
+      "destination": "PIT",
+      "destinationCity": "Pittsburgh International Airport",
+      "date": "2026-08-29",
+      "departure": "08:15",
+      "arrival": "16:09",
+      "duration": 294,
+      "price": 604,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1BJVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:54.078086+00:00"
+    },
+    {
+      "id": "SFO-PWM-2026-08-29-08:15-17:02-347-604-0",
+      "origin": "SFO",
+      "destination": "PWM",
+      "destinationCity": "Portland International Jetport",
+      "date": "2026-08-29",
+      "departure": "08:15",
+      "arrival": "17:02",
+      "duration": 347,
+      "price": 604,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1BXTUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:56.433165+00:00"
+    },
+    {
       "id": "SFO-ATL-2026-08-29-08:21-16:11-290-604-0",
       "origin": "SFO",
       "destination": "ATL",
@@ -19219,6 +20014,66 @@
       "updatedAt": "2026-08-24T19:49:56.243610+00:00"
     },
     {
+      "id": "SFO-MSP-2026-08-29-08:44-14:47-243-604-0",
+      "origin": "SFO",
+      "destination": "MSP",
+      "destinationCity": "Minneapolis-Saint Paul International Airport",
+      "date": "2026-08-29",
+      "departure": "08:44",
+      "arrival": "14:47",
+      "duration": 243,
+      "price": 604,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA01TUEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:44.375779+00:00"
+    },
+    {
+      "id": "SFO-TPA-2026-08-29-08:45-17:07-322-604-0",
+      "origin": "SFO",
+      "destination": "TPA",
+      "destinationCity": "Tampa International Airport",
+      "date": "2026-08-29",
+      "departure": "08:45",
+      "arrival": "17:07",
+      "duration": 322,
+      "price": 604,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1RQQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:49:13.297900+00:00"
+    },
+    {
+      "id": "SFO-MCI-2026-08-29-08:48-14:33-225-604-0",
+      "origin": "SFO",
+      "destination": "MCI",
+      "destinationCity": "Kansas City International Airport",
+      "date": "2026-08-29",
+      "departure": "08:48",
+      "arrival": "14:33",
+      "duration": 225,
+      "price": 604,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA01DSUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:37.723101+00:00"
+    },
+    {
+      "id": "SFO-RDU-2026-08-29-09:10-17:37-327-604-0",
+      "origin": "SFO",
+      "destination": "RDU",
+      "destinationCity": "Raleigh-Durham International Airport",
+      "date": "2026-08-29",
+      "departure": "09:10",
+      "arrival": "17:37",
+      "duration": 327,
+      "price": 604,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1JEVUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:58.151879+00:00"
+    },
+    {
       "id": "SFO-CMH-2026-08-29-10:15-18:01-286-604-0",
       "origin": "SFO",
       "destination": "CMH",
@@ -19232,6 +20087,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA0NNSEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-08-24T19:49:57.747882+00:00"
+    },
+    {
+      "id": "SFO-RDU-2026-08-29-23:59-08:19-320-604-1",
+      "origin": "SFO",
+      "destination": "RDU",
+      "destinationCity": "Raleigh-Durham International Airport",
+      "date": "2026-08-29",
+      "departure": "23:59",
+      "arrival": "08:19",
+      "duration": 320,
+      "price": 604,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1JEVUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:58.151905+00:00"
     },
     {
       "id": "IAD-AUS-2026-08-29-08:25-11:08-223-609-0",
@@ -19594,6 +20464,21 @@
       "updatedAt": "2026-08-24T19:49:40.376696+00:00"
     },
     {
+      "id": "SFO-SUN-2026-08-29-18:40-21:37-117-629-0",
+      "origin": "SFO",
+      "destination": "SUN",
+      "destinationCity": "Friedman Memorial Airport (SUN)",
+      "date": "2026-08-29",
+      "departure": "18:40",
+      "arrival": "21:37",
+      "duration": 117,
+      "price": 629,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1NVTkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:49:11.710398+00:00"
+    },
+    {
       "id": "IAD-EWR-2026-08-29-17:45-19:16-91-631-3",
       "origin": "IAD",
       "destination": "EWR",
@@ -19849,6 +20734,21 @@
       "updatedAt": "2026-08-24T06:07:26.126541+00:00"
     },
     {
+      "id": "SFO-SNA-2026-08-29-07:15-09:01-106-679-4",
+      "origin": "SFO",
+      "destination": "SNA",
+      "destinationCity": "John Wayne Airport",
+      "date": "2026-08-29",
+      "departure": "07:15",
+      "arrival": "09:01",
+      "duration": 106,
+      "price": 679,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1NOQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:49:09.703070+00:00"
+    },
+    {
       "id": "IAH-HSV-2026-08-29-10:05-12:08-123-729-2",
       "origin": "IAH",
       "destination": "HSV",
@@ -19907,6 +20807,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDREVOcgUSA09OVEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-08-24T11:49:36.431553+00:00"
+    },
+    {
+      "id": "SFO-PSP-2026-08-29-10:40-12:33-113-764-3",
+      "origin": "SFO",
+      "destination": "PSP",
+      "destinationCity": "Palm Springs International Airport",
+      "date": "2026-08-29",
+      "departure": "10:40",
+      "arrival": "12:33",
+      "duration": 113,
+      "price": 764,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1BTUEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:55.824441+00:00"
     },
     {
       "id": "DEN-KOA-2026-08-29-12:15-15:43-448-778-0",
@@ -20072,6 +20987,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA0xBWEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-08-24T19:50:29.311804+00:00"
+    },
+    {
+      "id": "SFO-MCO-2026-08-29-23:59-08:24-325-1285-1",
+      "origin": "SFO",
+      "destination": "MCO",
+      "destinationCity": "Orlando International Airport",
+      "date": "2026-08-29",
+      "departure": "23:59",
+      "arrival": "08:24",
+      "duration": 325,
+      "price": 1285,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA01DT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T21:48:38.288258+00:00"
     },
     {
       "id": "DEN-MRY-2026-08-29-11:15-13:10-175-1624-1",
@@ -21584,7 +22514,7 @@
       "destination": "CHA",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-24T06:06:49.544571+00:00",
+      "updatedAt": "2026-08-24T21:48:24.233204+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-29|ORD|CHS": {
@@ -21768,7 +22698,7 @@
       "destination": "EWR",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-24T06:07:02.374319+00:00",
+      "updatedAt": "2026-08-24T21:48:26.316875+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-29|ORD|FAR": {
@@ -21918,7 +22848,7 @@
       "destination": "IAD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-24T06:07:13.117269+00:00",
+      "updatedAt": "2026-08-24T21:48:28.295407+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-29|ORD|IAH": {
@@ -21927,7 +22857,7 @@
       "destination": "IAH",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-24T06:07:14.964939+00:00",
+      "updatedAt": "2026-08-24T21:48:30.248007+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-29|ORD|ICT": {
@@ -22277,7 +23207,7 @@
       "destination": "PHL",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-24T06:07:38.388391+00:00",
+      "updatedAt": "2026-08-24T21:48:32.297857+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-29|ORD|PHX": {
@@ -22304,7 +23234,7 @@
       "destination": "PIT",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-24T06:07:41.365467+00:00",
+      "updatedAt": "2026-08-24T21:48:34.280414+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-29|ORD|PNS": {
@@ -22371,10 +23301,9 @@
       "date": "2026-08-29",
       "origin": "ORD",
       "destination": "RIC",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-08-24T06:07:46.947772+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "updatedAt": "2026-08-24T21:48:34.753085+00:00"
     },
     "2026-08-29|ORD|RNO": {
       "date": "2026-08-29",
@@ -28391,6 +29320,596 @@
       "status": "no_results",
       "flightCount": 0,
       "updatedAt": "2026-08-24T19:50:30.484162+00:00"
+    },
+    "2026-08-29|SFO|LIH": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "LIH",
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-08-24T21:48:35.331807+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA0xJSEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-29|SFO|LIT": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "LIT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:48:35.977930+00:00"
+    },
+    "2026-08-29|SFO|LNK": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "LNK",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:48:36.536394+00:00"
+    },
+    "2026-08-29|SFO|MAF": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "MAF",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:48:37.108195+00:00"
+    },
+    "2026-08-29|SFO|MCI": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "MCI",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-08-24T21:48:37.723475+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA01DSUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-29|SFO|MCO": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "MCO",
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-08-24T21:48:38.288622+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA01DT0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-29|SFO|MDT": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "MDT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:48:38.888294+00:00"
+    },
+    "2026-08-29|SFO|MEM": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "MEM",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:48:39.691410+00:00"
+    },
+    "2026-08-29|SFO|MFE": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "MFE",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:48:40.234111+00:00"
+    },
+    "2026-08-29|SFO|MHT": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "MHT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:48:40.724349+00:00"
+    },
+    "2026-08-29|SFO|MIA": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "MIA",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-08-24T21:48:41.255547+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA01JQUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-29|SFO|MKE": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "MKE",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:48:41.763722+00:00"
+    },
+    "2026-08-29|SFO|MLI": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "MLI",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:48:42.281291+00:00"
+    },
+    "2026-08-29|SFO|MRY": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "MRY",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-08-24T21:48:42.796418+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA01SWUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-29|SFO|MSN": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "MSN",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:48:43.370962+00:00"
+    },
+    "2026-08-29|SFO|MSO": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "MSO",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-08-24T21:48:43.866253+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA01TT0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-29|SFO|MSP": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "MSP",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-08-24T21:48:44.376140+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA01TUEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-29|SFO|MSY": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "MSY",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:48:44.960769+00:00"
+    },
+    "2026-08-29|SFO|MYR": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "MYR",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:48:45.415209+00:00"
+    },
+    "2026-08-29|SFO|OAK": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "OAK",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:48:45.937102+00:00"
+    },
+    "2026-08-29|SFO|OGG": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "OGG",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-08-24T21:48:46.546657+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA09HR0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-29|SFO|OKC": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "OKC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:48:47.092179+00:00"
+    },
+    "2026-08-29|SFO|OMA": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "OMA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:48:47.621059+00:00"
+    },
+    "2026-08-29|SFO|ONT": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "ONT",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-08-24T21:48:48.183905+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA09OVEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-29|SFO|ORD": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "ORD",
+      "status": "parser_error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:48:50.251364+00:00",
+      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+    },
+    "2026-08-29|SFO|ORF": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "ORF",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:48:50.815082+00:00"
+    },
+    "2026-08-29|SFO|PBI": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "PBI",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:48:51.370748+00:00"
+    },
+    "2026-08-29|SFO|PDX": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "PDX",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-08-24T21:48:51.895474+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1BEWEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-29|SFO|PHL": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "PHL",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-08-24T21:48:52.440930+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1BITEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-29|SFO|PHX": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "PHX",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-08-24T21:48:53.039640+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1BIWEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-29|SFO|PIA": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "PIA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:48:53.521975+00:00"
+    },
+    "2026-08-29|SFO|PIT": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "PIT",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-08-24T21:48:54.078468+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1BJVEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-29|SFO|PNS": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "PNS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:48:54.649620+00:00"
+    },
+    "2026-08-29|SFO|PSC": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "PSC",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-08-24T21:48:55.270334+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1BTQ0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-29|SFO|PSP": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "PSP",
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-08-24T21:48:55.824816+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1BTUEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-29|SFO|PWM": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "PWM",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-08-24T21:48:56.433563+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1BXTUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-29|SFO|RAP": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "RAP",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:48:56.974927+00:00"
+    },
+    "2026-08-29|SFO|RDM": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "RDM",
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-08-24T21:48:57.536230+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1JETUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-29|SFO|RDU": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "RDU",
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-08-24T21:48:58.152273+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1JEVUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-29|SFO|RIC": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "RIC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:48:58.631577+00:00"
+    },
+    "2026-08-29|SFO|RNO": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "RNO",
+      "status": "ok",
+      "flightCount": 5,
+      "updatedAt": "2026-08-24T21:48:59.247142+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1JOT0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-29|SFO|ROA": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "ROA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:48:59.884082+00:00"
+    },
+    "2026-08-29|SFO|ROC": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "ROC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:49:00.437913+00:00"
+    },
+    "2026-08-29|SFO|RSW": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "RSW",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:49:00.971876+00:00"
+    },
+    "2026-08-29|SFO|SAN": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "SAN",
+      "status": "parser_error",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:49:03.019505+00:00",
+      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+    },
+    "2026-08-29|SFO|SAT": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "SAT",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-08-24T21:49:03.681313+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1NBVEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-29|SFO|SAV": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "SAV",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:49:04.204620+00:00"
+    },
+    "2026-08-29|SFO|SBA": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "SBA",
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-08-24T21:49:04.747923+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1NCQUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-29|SFO|SBN": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "SBN",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:49:05.214705+00:00"
+    },
+    "2026-08-29|SFO|SDF": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "SDF",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:49:05.705029+00:00"
+    },
+    "2026-08-29|SFO|SEA": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "SEA",
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-08-24T21:49:06.283432+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1NFQUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-29|SFO|SGF": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "SGF",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:49:06.795564+00:00"
+    },
+    "2026-08-29|SFO|SHV": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "SHV",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:49:07.318054+00:00"
+    },
+    "2026-08-29|SFO|SJC": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "SJC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:49:07.894543+00:00"
+    },
+    "2026-08-29|SFO|SLC": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "SLC",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-08-24T21:49:08.469170+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1NMQ0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-29|SFO|SMF": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "SMF",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-08-24T21:49:09.086192+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1NNRkIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-29|SFO|SNA": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "SNA",
+      "status": "ok",
+      "flightCount": 5,
+      "updatedAt": "2026-08-24T21:49:09.703442+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1NOQUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-29|SFO|SRQ": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "SRQ",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:49:10.213652+00:00"
+    },
+    "2026-08-29|SFO|STL": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "STL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:49:10.695142+00:00"
+    },
+    "2026-08-29|SFO|STS": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "STS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:49:11.207306+00:00"
+    },
+    "2026-08-29|SFO|SUN": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "SUN",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-08-24T21:49:11.710810+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1NVTkIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-29|SFO|SYR": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "SYR",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:49:12.277481+00:00"
+    },
+    "2026-08-29|SFO|TLH": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "TLH",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:49:12.761068+00:00"
+    },
+    "2026-08-29|SFO|TPA": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "TPA",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-08-24T21:49:13.298290+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1RQQUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-29|SFO|TUL": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "TUL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:49:13.761309+00:00"
+    },
+    "2026-08-29|SFO|TUS": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "TUS",
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-08-24T21:49:14.350369+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA1RVU0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-08-29|SFO|TVC": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "TVC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:49:14.909939+00:00"
+    },
+    "2026-08-29|SFO|TYS": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "TYS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:49:15.409669+00:00"
+    },
+    "2026-08-29|SFO|VPS": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "VPS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:49:15.868747+00:00"
+    },
+    "2026-08-29|SFO|XNA": {
+      "date": "2026-08-29",
+      "origin": "SFO",
+      "destination": "XNA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-08-24T21:49:16.399678+00:00"
     }
   }
 }
