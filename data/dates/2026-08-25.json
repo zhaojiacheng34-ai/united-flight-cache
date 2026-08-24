@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-08-25",
-  "generatedAt": "2026-08-24T06:08:00.601694+00:00",
+  "generatedAt": "2026-08-24T11:49:45.347501+00:00",
   "flights": [
     {
       "id": "ORD-ONT-2026-08-25-20:06-22:35-269-179-0",
@@ -20644,6 +20644,66 @@
       "updatedAt": "2026-08-21T08:09:42.019980+00:00"
     },
     {
+      "id": "IAH-EWR-2026-08-25-07:20-11:53-213-619-0",
+      "origin": "IAH",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-08-25",
+      "departure": "07:20",
+      "arrival": "11:53",
+      "duration": 213,
+      "price": 619,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjUoADICVUFqBRIDSUFIcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T11:48:10.676502+00:00"
+    },
+    {
+      "id": "IAH-EWR-2026-08-25-09:57-14:38-221-619-1",
+      "origin": "IAH",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-08-25",
+      "departure": "09:57",
+      "arrival": "14:38",
+      "duration": 221,
+      "price": 619,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjUoADICVUFqBRIDSUFIcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T11:48:10.676529+00:00"
+    },
+    {
+      "id": "IAH-EWR-2026-08-25-16:50-21:33-223-619-2",
+      "origin": "IAH",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-08-25",
+      "departure": "16:50",
+      "arrival": "21:33",
+      "duration": 223,
+      "price": 619,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjUoADICVUFqBRIDSUFIcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T11:48:10.676537+00:00"
+    },
+    {
+      "id": "IAH-EWR-2026-08-25-18:05-22:43-218-619-3",
+      "origin": "IAH",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-08-25",
+      "departure": "18:05",
+      "arrival": "22:43",
+      "duration": 218,
+      "price": 619,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjUoADICVUFqBRIDSUFIcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-24T11:48:10.676543+00:00"
+    },
+    {
       "id": "LAX-BWI-2026-08-25-08:30-16:35-305-619-0",
       "origin": "LAX",
       "destination": "BWI",
@@ -27013,10 +27073,10 @@
       "date": "2026-08-25",
       "origin": "IAH",
       "destination": "EWR",
-      "status": "parser_error",
-      "flightCount": 0,
-      "updatedAt": "2026-08-23T17:03:35.739617+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-08-24T11:48:10.676966+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjUoADICVUFqBRIDSUFIcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-08-25|IAH|FAR": {
       "date": "2026-08-25",
@@ -27474,7 +27534,7 @@
       "destination": "ORD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-23T17:03:37.746866+00:00",
+      "updatedAt": "2026-08-24T11:48:13.004820+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-25|IAH|ORF": {
@@ -28417,7 +28477,7 @@
       "destination": "IAH",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-23T17:03:39.571249+00:00",
+      "updatedAt": "2026-08-24T11:48:15.039335+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-25|LAX|ICT": {
