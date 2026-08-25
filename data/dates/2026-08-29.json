@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-08-29",
-  "generatedAt": "2026-08-25T08:25:24.475824+00:00",
+  "generatedAt": "2026-08-25T11:50:28.937491+00:00",
   "flights": [
     {
       "id": "ORD-ONT-2026-08-29-20:06-22:35-269-179-0",
@@ -20389,6 +20389,81 @@
       "updatedAt": "2026-08-24T17:53:32.738443+00:00"
     },
     {
+      "id": "SFO-IAH-2026-08-29-10:45-16:56-251-624-0",
+      "origin": "SFO",
+      "destination": "IAH",
+      "destinationCity": "George Bush Intercontinental Airport",
+      "date": "2026-08-29",
+      "departure": "10:45",
+      "arrival": "16:56",
+      "duration": 251,
+      "price": 624,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA0lBSEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-25T11:49:01.319095+00:00"
+    },
+    {
+      "id": "SFO-IAH-2026-08-29-12:24-18:29-245-624-1",
+      "origin": "SFO",
+      "destination": "IAH",
+      "destinationCity": "George Bush Intercontinental Airport",
+      "date": "2026-08-29",
+      "departure": "12:24",
+      "arrival": "18:29",
+      "duration": 245,
+      "price": 624,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA0lBSEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-25T11:49:01.319117+00:00"
+    },
+    {
+      "id": "SFO-IAH-2026-08-29-14:25-20:30-245-624-2",
+      "origin": "SFO",
+      "destination": "IAH",
+      "destinationCity": "George Bush Intercontinental Airport",
+      "date": "2026-08-29",
+      "departure": "14:25",
+      "arrival": "20:30",
+      "duration": 245,
+      "price": 624,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA0lBSEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-25T11:49:01.319126+00:00"
+    },
+    {
+      "id": "SFO-IAH-2026-08-29-16:40-22:45-245-624-3",
+      "origin": "SFO",
+      "destination": "IAH",
+      "destinationCity": "George Bush Intercontinental Airport",
+      "date": "2026-08-29",
+      "departure": "16:40",
+      "arrival": "22:45",
+      "duration": 245,
+      "price": 624,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA0lBSEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-25T11:49:01.319133+00:00"
+    },
+    {
+      "id": "SFO-IAH-2026-08-29-23:59-06:02-243-624-4",
+      "origin": "SFO",
+      "destination": "IAH",
+      "destinationCity": "George Bush Intercontinental Airport",
+      "date": "2026-08-29",
+      "departure": "23:59",
+      "arrival": "06:02",
+      "duration": 243,
+      "price": 624,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA0lBSEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-25T11:49:01.319140+00:00"
+    },
+    {
       "id": "DEN-SUN-2026-08-29-11:45-13:48-123-629-0",
       "origin": "DEN",
       "destination": "SUN",
@@ -28278,7 +28353,7 @@
       "destination": "ORD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-24T19:49:02.276582+00:00",
+      "updatedAt": "2026-08-25T11:49:00.768454+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-29|LAX|ORF": {
@@ -29214,10 +29289,10 @@
       "date": "2026-08-29",
       "origin": "SFO",
       "destination": "IAH",
-      "status": "parser_error",
-      "flightCount": 0,
-      "updatedAt": "2026-08-24T19:50:22.341258+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "status": "ok",
+      "flightCount": 5,
+      "updatedAt": "2026-08-25T11:49:01.319534+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjkoADICVUFqBRIDU0ZPcgUSA0lBSEIBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-08-29|SFO|ICT": {
       "date": "2026-08-29",
