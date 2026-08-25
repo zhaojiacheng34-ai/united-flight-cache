@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-08-26",
-  "generatedAt": "2026-08-25T21:49:49.732321+00:00",
+  "generatedAt": "2026-08-25T23:37:09.477702+00:00",
   "flights": [
     {
       "id": "EWR-ORD-2026-08-26-06:00-07:40-160-183-0",
@@ -23433,10 +23433,9 @@
       "date": "2026-08-26",
       "origin": "ORD",
       "destination": "CHA",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-08-25T08:23:50.844003+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "updatedAt": "2026-08-25T23:35:34.656778+00:00"
     },
     "2026-08-26|ORD|CHS": {
       "date": "2026-08-26",
@@ -23618,7 +23617,7 @@
       "destination": "EWR",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-25T08:23:52.799321+00:00",
+      "updatedAt": "2026-08-25T23:35:36.882687+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-26|ORD|FAR": {
@@ -23768,7 +23767,7 @@
       "destination": "IAD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-25T08:23:56.644690+00:00",
+      "updatedAt": "2026-08-25T23:35:41.033322+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-26|ORD|IAH": {
@@ -23777,7 +23776,7 @@
       "destination": "IAH",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-25T08:23:58.549126+00:00",
+      "updatedAt": "2026-08-25T23:35:43.062965+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-26|ORD|ICT": {
@@ -28882,7 +28881,7 @@
       "destination": "IAH",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-25T08:23:45.309073+00:00",
+      "updatedAt": "2026-08-25T23:35:28.733933+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-26|LAX|ICT": {
