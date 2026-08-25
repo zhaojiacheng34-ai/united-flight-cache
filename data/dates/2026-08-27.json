@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-08-27",
-  "generatedAt": "2026-08-25T03:29:34.461691+00:00",
+  "generatedAt": "2026-08-25T05:55:47.461716+00:00",
   "flights": [
     {
       "id": "EWR-DCA-2026-08-27-06:25-07:49-84-193-0",
@@ -12784,6 +12784,36 @@
       "updatedAt": "2026-08-22T21:01:09.821542+00:00"
     },
     {
+      "id": "IAH-IAD-2026-08-27-07:20-11:28-188-459-0",
+      "origin": "IAH",
+      "destination": "IAD",
+      "destinationCity": "Dulles International Airport",
+      "date": "2026-08-27",
+      "departure": "07:20",
+      "arrival": "11:28",
+      "duration": 188,
+      "price": 459,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjcoADICVUFqBRIDSUFIcgUSA0lBREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-25T05:54:13.510322+00:00"
+    },
+    {
+      "id": "IAH-IAD-2026-08-27-12:10-16:21-191-459-1",
+      "origin": "IAH",
+      "destination": "IAD",
+      "destinationCity": "Dulles International Airport",
+      "date": "2026-08-27",
+      "departure": "12:10",
+      "arrival": "16:21",
+      "duration": 191,
+      "price": 459,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjcoADICVUFqBRIDSUFIcgUSA0lBREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-25T05:54:13.510346+00:00"
+    },
+    {
       "id": "ORD-STL-2026-08-27-17:45-19:16-91-459-6",
       "origin": "ORD",
       "destination": "STL",
@@ -21034,6 +21064,21 @@
       "updatedAt": "2026-08-23T03:33:38.472082+00:00"
     },
     {
+      "id": "IAH-IAD-2026-08-27-18:40-22:45-185-679-2",
+      "origin": "IAH",
+      "destination": "IAD",
+      "destinationCity": "Dulles International Airport",
+      "date": "2026-08-27",
+      "departure": "18:40",
+      "arrival": "22:45",
+      "duration": 185,
+      "price": 679,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjcoADICVUFqBRIDSUFIcgUSA0lBREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-25T05:54:13.510354+00:00"
+    },
+    {
       "id": "ORD-FSD-2026-08-27-08:40-10:29-109-679-3",
       "origin": "ORD",
       "destination": "FSD",
@@ -27084,10 +27129,10 @@
       "date": "2026-08-27",
       "origin": "IAH",
       "destination": "IAD",
-      "status": "parser_error",
-      "flightCount": 0,
-      "updatedAt": "2026-08-24T14:27:46.336999+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-08-25T05:54:13.510774+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjcoADICVUFqBRIDSUFIcgUSA0lBREIBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-08-27|IAH|ICT": {
       "date": "2026-08-27",
@@ -27633,7 +27678,7 @@
       "destination": "SFO",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-24T14:28:00.550611+00:00",
+      "updatedAt": "2026-08-25T05:54:23.283126+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-27|IAH|SGF": {
@@ -28197,7 +28242,7 @@
       "destination": "EWR",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-24T14:28:02.529648+00:00",
+      "updatedAt": "2026-08-25T05:54:25.231268+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-27|LAX|FAR": {
@@ -28345,7 +28390,7 @@
       "destination": "IAH",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-24T17:52:52.214967+00:00",
+      "updatedAt": "2026-08-25T05:54:29.098313+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-27|LAX|ICT": {
