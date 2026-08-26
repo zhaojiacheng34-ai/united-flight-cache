@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-08-27",
-  "generatedAt": "2026-08-26T08:26:07.239648+00:00",
+  "generatedAt": "2026-08-26T14:32:16.392729+00:00",
   "flights": [
     {
       "id": "EWR-DCA-2026-08-27-06:25-07:49-84-193-0",
@@ -21064,6 +21064,81 @@
       "updatedAt": "2026-08-22T19:14:34.405514+00:00"
     },
     {
+      "id": "DEN-EWR-2026-08-27-06:00-11:46-226-664-0",
+      "origin": "DEN",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-08-27",
+      "departure": "06:00",
+      "arrival": "11:46",
+      "duration": 226,
+      "price": 664,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjcoADICVUFqBRIDREVOcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-26T14:30:41.393200+00:00"
+    },
+    {
+      "id": "DEN-EWR-2026-08-27-07:40-13:26-226-664-1",
+      "origin": "DEN",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-08-27",
+      "departure": "07:40",
+      "arrival": "13:26",
+      "duration": 226,
+      "price": 664,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjcoADICVUFqBRIDREVOcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-26T14:30:41.393223+00:00"
+    },
+    {
+      "id": "DEN-EWR-2026-08-27-15:35-21:28-233-664-2",
+      "origin": "DEN",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-08-27",
+      "departure": "15:35",
+      "arrival": "21:28",
+      "duration": 233,
+      "price": 664,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjcoADICVUFqBRIDREVOcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-26T14:30:41.393231+00:00"
+    },
+    {
+      "id": "DEN-EWR-2026-08-27-18:05-23:58-233-664-3",
+      "origin": "DEN",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-08-27",
+      "departure": "18:05",
+      "arrival": "23:58",
+      "duration": 233,
+      "price": 664,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjcoADICVUFqBRIDREVOcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-26T14:30:41.393237+00:00"
+    },
+    {
+      "id": "DEN-EWR-2026-08-27-23:59-05:43-224-664-4",
+      "origin": "DEN",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-08-27",
+      "departure": "23:59",
+      "arrival": "05:43",
+      "duration": 224,
+      "price": 664,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjcoADICVUFqBRIDREVOcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-26T14:30:41.393243+00:00"
+    },
+    {
       "id": "EWR-RIC-2026-08-27-19:05-20:50-105-665-3",
       "origin": "EWR",
       "destination": "RIC",
@@ -25791,10 +25866,10 @@
       "date": "2026-08-27",
       "origin": "DEN",
       "destination": "EWR",
-      "status": "parser_error",
-      "flightCount": 0,
-      "updatedAt": "2026-08-25T19:49:56.771545+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "status": "ok",
+      "flightCount": 5,
+      "updatedAt": "2026-08-26T14:30:41.393667+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMjcoADICVUFqBRIDREVOcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-08-27|DEN|FAR": {
       "date": "2026-08-27",
