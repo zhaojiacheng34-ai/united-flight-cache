@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-08-30",
-  "generatedAt": "2026-08-29T14:25:59.613133+00:00",
+  "generatedAt": "2026-08-29T16:25:58.905868+00:00",
   "flights": [
     {
       "id": "EWR-IAD-2026-08-30-06:00-07:19-79-193-0",
@@ -5014,6 +5014,21 @@
       "updatedAt": "2026-08-25T11:49:30.023241+00:00"
     },
     {
+      "id": "ORD-RIC-2026-08-30-10:35-13:57-142-339-0",
+      "origin": "ORD",
+      "destination": "RIC",
+      "destinationCity": "Richmond International Airport",
+      "date": "2026-08-30",
+      "departure": "10:35",
+      "arrival": "13:57",
+      "duration": 142,
+      "price": 339,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMzAoADICVUFqBRIDT1JEcgUSA1JJQ0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-29T16:24:07.274700+00:00"
+    },
+    {
       "id": "SFO-SNA-2026-08-30-07:15-09:01-106-339-0",
       "origin": "SFO",
       "destination": "SNA",
@@ -7922,6 +7937,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMzAoADICVUFqBRIDRVdScgUSA1BIWEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-08-24T23:03:55.768882+00:00"
+    },
+    {
+      "id": "ORD-RIC-2026-08-30-14:45-18:06-141-383-1",
+      "origin": "ORD",
+      "destination": "RIC",
+      "destinationCity": "Richmond International Airport",
+      "date": "2026-08-30",
+      "departure": "14:45",
+      "arrival": "18:06",
+      "duration": 141,
+      "price": 383,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMzAoADICVUFqBRIDT1JEcgUSA1JJQ0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-29T16:24:07.274724+00:00"
     },
     {
       "id": "SFO-DFW-2026-08-30-10:26-16:07-221-383-2",
@@ -24043,7 +24073,7 @@
       "destination": "PHL",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-29T02:24:02.228894+00:00",
+      "updatedAt": "2026-08-29T16:24:04.422407+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-30|ORD|PHX": {
@@ -24070,7 +24100,7 @@
       "destination": "PIT",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-29T02:24:04.166581+00:00",
+      "updatedAt": "2026-08-29T16:24:06.554027+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-30|ORD|PNS": {
@@ -24137,10 +24167,10 @@
       "date": "2026-08-30",
       "origin": "ORD",
       "destination": "RIC",
-      "status": "parser_error",
-      "flightCount": 0,
-      "updatedAt": "2026-08-29T02:24:06.171887+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-08-29T16:24:07.275138+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMzAoADICVUFqBRIDT1JEcgUSA1JJQ0IBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-08-30|ORD|RNO": {
       "date": "2026-08-30",
@@ -24480,7 +24510,7 @@
       "destination": "ATL",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-29T02:24:08.129497+00:00",
+      "updatedAt": "2026-08-29T16:24:09.390938+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-30|IAD|ATW": {
