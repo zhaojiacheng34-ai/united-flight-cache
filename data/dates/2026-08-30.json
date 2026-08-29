@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-08-30",
-  "generatedAt": "2026-08-29T02:25:46.457233+00:00",
+  "generatedAt": "2026-08-29T04:25:52.700955+00:00",
   "flights": [
     {
       "id": "EWR-IAD-2026-08-30-06:00-07:19-79-193-0",
@@ -18379,6 +18379,21 @@
       "updatedAt": "2026-08-25T05:55:06.958199+00:00"
     },
     {
+      "id": "IAD-IAH-2026-08-30-17:55-20:18-203-549-0",
+      "origin": "IAD",
+      "destination": "IAH",
+      "destinationCity": "George Bush Intercontinental Airport",
+      "date": "2026-08-30",
+      "departure": "17:55",
+      "arrival": "20:18",
+      "duration": 203,
+      "price": 549,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMzAoADICVUFqBRIDSUFEcgUSA0lBSEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-29T04:24:14.090139+00:00"
+    },
+    {
       "id": "DEN-SMF-2026-08-30-13:39-15:11-152-550-3",
       "origin": "DEN",
       "destination": "SMF",
@@ -20927,6 +20942,36 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMzAoADICVUFqBRIDREVOcgUSA1NUTEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-08-25T08:25:09.178577+00:00"
+    },
+    {
+      "id": "IAD-IAH-2026-08-30-12:57-15:17-200-679-1",
+      "origin": "IAD",
+      "destination": "IAH",
+      "destinationCity": "George Bush Intercontinental Airport",
+      "date": "2026-08-30",
+      "departure": "12:57",
+      "arrival": "15:17",
+      "duration": 200,
+      "price": 679,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMzAoADICVUFqBRIDSUFEcgUSA0lBSEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-29T04:24:14.090157+00:00"
+    },
+    {
+      "id": "IAD-IAH-2026-08-30-15:02-17:23-201-679-2",
+      "origin": "IAD",
+      "destination": "IAH",
+      "destinationCity": "George Bush Intercontinental Airport",
+      "date": "2026-08-30",
+      "departure": "15:02",
+      "arrival": "17:23",
+      "duration": 201,
+      "price": 679,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMzAoADICVUFqBRIDSUFEcgUSA0lBSEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-29T04:24:14.090162+00:00"
     },
     {
       "id": "ORD-MEM-2026-08-30-16:00-17:56-116-679-3",
@@ -24828,10 +24873,10 @@
       "date": "2026-08-30",
       "origin": "IAD",
       "destination": "IAH",
-      "status": "parser_error",
-      "flightCount": 0,
-      "updatedAt": "2026-08-28T01:10:56.489131+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-08-29T04:24:14.090440+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDgtMzAoADICVUFqBRIDSUFEcgUSA0lBSEIBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-08-30|IAD|ICT": {
       "date": "2026-08-30",
@@ -24914,7 +24959,7 @@
       "destination": "LAX",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-28T01:10:58.450547+00:00",
+      "updatedAt": "2026-08-29T04:24:15.950098+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-30|IAD|LBB": {
@@ -24981,7 +25026,7 @@
       "destination": "MCO",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-28T01:11:07.859508+00:00",
+      "updatedAt": "2026-08-29T04:24:25.869509+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-30|IAD|MDT": {
@@ -25374,7 +25419,7 @@
       "destination": "SFO",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-28T01:11:09.648153+00:00",
+      "updatedAt": "2026-08-29T04:24:27.745899+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-08-30|IAD|SGF": {
