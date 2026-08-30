@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-09-03",
-  "generatedAt": "2026-08-30T18:26:00.139723+00:00",
+  "generatedAt": "2026-08-30T20:25:49.467117+00:00",
   "flights": [
     {
       "id": "SFO-SNA-2026-09-03-07:15-09:01-106-159-0",
@@ -6949,6 +6949,21 @@
       "updatedAt": "2026-08-30T06:25:06.282909+00:00"
     },
     {
+      "id": "IAD-MCO-2026-09-03-15:47-18:10-143-366-0",
+      "origin": "IAD",
+      "destination": "MCO",
+      "destinationCity": "Orlando International Airport",
+      "date": "2026-09-03",
+      "departure": "15:47",
+      "arrival": "18:10",
+      "duration": 143,
+      "price": 366,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDMoADICVUFqBRIDSUFEcgUSA01DT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-30T20:24:19.315220+00:00"
+    },
+    {
       "id": "IAD-EWR-2026-09-03-17:45-19:15-90-366-2",
       "origin": "IAD",
       "destination": "EWR",
@@ -10622,6 +10637,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDMoADICVUFqBRIDRVdScgUSA0JHUkIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-08-29T22:25:14.687479+00:00"
+    },
+    {
+      "id": "IAD-MCO-2026-09-03-08:45-11:09-144-413-1",
+      "origin": "IAD",
+      "destination": "MCO",
+      "destinationCity": "Orlando International Airport",
+      "date": "2026-09-03",
+      "departure": "08:45",
+      "arrival": "11:09",
+      "duration": 144,
+      "price": 413,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDMoADICVUFqBRIDSUFEcgUSA01DT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-30T20:24:19.315242+00:00"
     },
     {
       "id": "IAH-ATL-2026-09-03-07:20-10:32-132-413-0",
@@ -25392,7 +25422,7 @@
       "destination": "IAH",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-30T04:24:55.877164+00:00",
+      "updatedAt": "2026-08-30T20:24:16.758171+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-03|IAD|ICT": {
@@ -25476,7 +25506,7 @@
       "destination": "LAX",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-30T04:25:02.493861+00:00",
+      "updatedAt": "2026-08-30T20:24:18.711385+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-03|IAD|LBB": {
@@ -25541,10 +25571,10 @@
       "date": "2026-09-03",
       "origin": "IAD",
       "destination": "MCO",
-      "status": "parser_error",
-      "flightCount": 0,
-      "updatedAt": "2026-08-30T04:25:07.988856+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-08-30T20:24:19.315662+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDMoADICVUFqBRIDSUFEcgUSA01DT0IBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-09-03|IAD|MDT": {
       "date": "2026-09-03",
@@ -25936,7 +25966,7 @@
       "destination": "SFO",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-30T04:25:33.478669+00:00",
+      "updatedAt": "2026-08-30T20:24:21.335553+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-03|IAD|SGF": {
