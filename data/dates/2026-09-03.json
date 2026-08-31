@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-09-03",
-  "generatedAt": "2026-08-31T00:26:07.532273+00:00",
+  "generatedAt": "2026-08-31T02:26:22.786095+00:00",
   "flights": [
     {
       "id": "SFO-SNA-2026-09-03-07:15-09:01-106-159-0",
@@ -8644,6 +8644,36 @@
       "updatedAt": "2026-08-30T00:25:07.737514+00:00"
     },
     {
+      "id": "LAX-IAD-2026-09-03-22:39-06:38-299-389-0",
+      "origin": "LAX",
+      "destination": "IAD",
+      "destinationCity": "Dulles International Airport",
+      "date": "2026-09-03",
+      "departure": "22:39",
+      "arrival": "06:38",
+      "duration": 299,
+      "price": 389,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDMoADICVUFqBRIDTEFYcgUSA0lBREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-31T02:24:39.748174+00:00"
+    },
+    {
+      "id": "LAX-IAD-2026-09-03-23:00-06:53-293-389-1",
+      "origin": "LAX",
+      "destination": "IAD",
+      "destinationCity": "Dulles International Airport",
+      "date": "2026-09-03",
+      "departure": "23:00",
+      "arrival": "06:53",
+      "duration": 293,
+      "price": 389,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDMoADICVUFqBRIDTEFYcgUSA0lBREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-31T02:24:39.748202+00:00"
+    },
+    {
       "id": "SFO-KOA-2026-09-03-08:18-10:49-331-389-0",
       "origin": "SFO",
       "destination": "KOA",
@@ -12647,6 +12677,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDMoADICVUFqBRIDU0ZPcgUSA0JOQUIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-08-30T12:24:32.518937+00:00"
+    },
+    {
+      "id": "LAX-IAD-2026-09-03-08:17-16:23-306-455-2",
+      "origin": "LAX",
+      "destination": "IAD",
+      "destinationCity": "Dulles International Airport",
+      "date": "2026-09-03",
+      "departure": "08:17",
+      "arrival": "16:23",
+      "duration": 306,
+      "price": 455,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDMoADICVUFqBRIDTEFYcgUSA0lBREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-08-31T02:24:39.748210+00:00"
     },
     {
       "id": "DEN-SFO-2026-09-03-05:00-06:41-161-458-0",
@@ -28555,7 +28600,7 @@
       "destination": "SFO",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-30T08:25:59.127067+00:00",
+      "updatedAt": "2026-08-31T02:24:30.387059+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-03|IAH|SGF": {
@@ -29119,7 +29164,7 @@
       "destination": "EWR",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-30T10:25:31.154919+00:00",
+      "updatedAt": "2026-08-31T02:24:39.005359+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-03|LAX|FAR": {
@@ -29256,10 +29301,10 @@
       "date": "2026-09-03",
       "origin": "LAX",
       "destination": "IAD",
-      "status": "parser_error",
-      "flightCount": 0,
-      "updatedAt": "2026-08-30T10:25:42.070861+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-08-31T02:24:39.748657+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDMoADICVUFqBRIDTEFYcgUSA0lBREIBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-09-03|LAX|IAH": {
       "date": "2026-09-03",
@@ -29267,7 +29312,7 @@
       "destination": "IAH",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-30T10:25:44.022626+00:00",
+      "updatedAt": "2026-08-31T02:24:41.839927+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-03|LAX|ICT": {
@@ -29565,7 +29610,7 @@
       "destination": "ORD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-30T10:26:05.232216+00:00",
+      "updatedAt": "2026-08-31T02:24:44.018461+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-03|LAX|ORF": {
@@ -30355,7 +30400,7 @@
       "destination": "EWR",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-30T12:24:53.810482+00:00",
+      "updatedAt": "2026-08-31T02:24:46.066908+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-03|SFO|FAR": {
@@ -30504,7 +30549,7 @@
       "destination": "IAH",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-30T12:25:06.921665+00:00",
+      "updatedAt": "2026-08-31T02:24:48.316815+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-03|SFO|ICT": {
@@ -30580,7 +30625,7 @@
       "destination": "LAS",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-30T12:25:14.192439+00:00",
+      "updatedAt": "2026-08-31T02:24:50.400249+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-03|SFO|LAX": {
@@ -30589,7 +30634,7 @@
       "destination": "LAX",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-30T12:25:16.301202+00:00",
+      "updatedAt": "2026-08-31T02:24:52.575969+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-03|SFO|LBB": {
