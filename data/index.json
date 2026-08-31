@@ -2,33 +2,25 @@
   "schemaVersion": 2,
   "source": "fast-flights",
   "provider": "Google Flights results via fast-flights",
-  "generatedAt": "2026-08-30T22:25:54.866203+00:00",
-  "horizonStart": "2026-08-31",
-  "horizonEnd": "2026-10-29",
+  "generatedAt": "2026-08-31T00:26:07.532273+00:00",
+  "horizonStart": "2026-09-01",
+  "horizonEnd": "2026-10-30",
   "totalRouteDates": 62640,
-  "attemptedRouteDates": 4848,
-  "coveredRouteDates": 4746,
-  "parserErrorRouteDates": 102,
+  "attemptedRouteDates": 3941,
+  "coveredRouteDates": 3857,
+  "parserErrorRouteDates": 84,
   "otherErrorRouteDates": 0,
-  "flightCount": 7038,
-  "coveragePercent": 7.74,
-  "usableCoveragePercent": 7.58,
+  "flightCount": 5698,
+  "coveragePercent": 6.29,
+  "usableCoveragePercent": 6.16,
   "dates": {
-    "2026-08-31": {
-      "flightCount": 1479,
-      "attemptedRouteDates": 1044,
-      "coveredRouteDates": 1023,
-      "parserErrorRouteDates": 21,
-      "otherErrorRouteDates": 0,
-      "generatedAt": "2026-08-30T22:25:54.866203+00:00"
-    },
     "2026-09-01": {
       "flightCount": 1418,
       "attemptedRouteDates": 1044,
       "coveredRouteDates": 1026,
       "parserErrorRouteDates": 18,
       "otherErrorRouteDates": 0,
-      "generatedAt": "2026-08-30T22:25:54.866203+00:00"
+      "generatedAt": "2026-08-31T00:26:07.532273+00:00"
     },
     "2026-09-02": {
       "flightCount": 1486,
@@ -36,7 +28,7 @@
       "coveredRouteDates": 1025,
       "parserErrorRouteDates": 19,
       "otherErrorRouteDates": 0,
-      "generatedAt": "2026-08-30T22:25:54.866203+00:00"
+      "generatedAt": "2026-08-31T00:26:07.532273+00:00"
     },
     "2026-09-03": {
       "flightCount": 1487,
@@ -44,15 +36,15 @@
       "coveredRouteDates": 1015,
       "parserErrorRouteDates": 29,
       "otherErrorRouteDates": 0,
-      "generatedAt": "2026-08-30T22:25:54.866203+00:00"
+      "generatedAt": "2026-08-31T00:26:07.532273+00:00"
     },
     "2026-09-04": {
-      "flightCount": 1168,
-      "attemptedRouteDates": 672,
-      "coveredRouteDates": 657,
-      "parserErrorRouteDates": 15,
+      "flightCount": 1307,
+      "attemptedRouteDates": 809,
+      "coveredRouteDates": 791,
+      "parserErrorRouteDates": 18,
       "otherErrorRouteDates": 0,
-      "generatedAt": "2026-08-30T22:25:54.866203+00:00"
+      "generatedAt": "2026-08-31T00:26:07.532273+00:00"
     }
   }
 }
