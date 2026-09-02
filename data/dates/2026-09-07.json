@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-09-07",
+  "generatedAt": "2026-09-02T07:10:37.068351+00:00",
+  "flights": [
+    {
+      "id": "EWR-ACK-2026-09-07-07:58-09:12-74-305-0",
+      "origin": "EWR",
+      "destination": "ACK",
+      "destinationCity": "Nantucket Memorial Airport",
+      "date": "2026-09-07",
+      "departure": "07:58",
+      "arrival": "09:12",
+      "duration": 74,
+      "price": 305,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDcoADICVUFqBRIDRVdScgUSA0FDS0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-02T07:10:34.989580+00:00"
+    },
+    {
+      "id": "EWR-ACK-2026-09-07-13:40-15:03-83-305-1",
+      "origin": "EWR",
+      "destination": "ACK",
+      "destinationCity": "Nantucket Memorial Airport",
+      "date": "2026-09-07",
+      "departure": "13:40",
+      "arrival": "15:03",
+      "duration": 83,
+      "price": 305,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDcoADICVUFqBRIDRVdScgUSA0FDS0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-02T07:10:34.989605+00:00"
+    },
+    {
+      "id": "EWR-ANC-2026-09-07-15:22-19:11-469-663-0",
+      "origin": "EWR",
+      "destination": "ANC",
+      "destinationCity": "Ted Stevens Anchorage International Airport",
+      "date": "2026-09-07",
+      "departure": "15:22",
+      "arrival": "19:11",
+      "duration": 469,
+      "price": 663,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDcoADICVUFqBRIDRVdScgUSA0FOQ0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-02T07:10:36.818163+00:00"
+    }
+  ],
+  "routes": {
+    "2026-09-07|EWR|ABE": {
+      "date": "2026-09-07",
+      "origin": "EWR",
+      "destination": "ABE",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-02T07:10:33.984733+00:00"
+    },
+    "2026-09-07|EWR|ABQ": {
+      "date": "2026-09-07",
+      "origin": "EWR",
+      "destination": "ABQ",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-02T07:10:34.518911+00:00"
+    },
+    "2026-09-07|EWR|ACK": {
+      "date": "2026-09-07",
+      "origin": "EWR",
+      "destination": "ACK",
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-09-02T07:10:34.989637+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDcoADICVUFqBRIDRVdScgUSA0FDS0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-07|EWR|ALB": {
+      "date": "2026-09-07",
+      "origin": "EWR",
+      "destination": "ALB",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-02T07:10:35.521661+00:00"
+    },
+    "2026-09-07|EWR|AMA": {
+      "date": "2026-09-07",
+      "origin": "EWR",
+      "destination": "AMA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-02T07:10:36.116894+00:00"
+    },
+    "2026-09-07|EWR|ANC": {
+      "date": "2026-09-07",
+      "origin": "EWR",
+      "destination": "ANC",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-09-02T07:10:36.818199+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDcoADICVUFqBRIDRVdScgUSA0FOQ0IBAUgBmAECyAEB&curr=USD&hl=en"
+    }
+  }
+}

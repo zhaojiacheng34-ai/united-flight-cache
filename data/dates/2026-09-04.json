@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-09-04",
-  "generatedAt": "2026-09-02T00:19:41.113339+00:00",
+  "generatedAt": "2026-09-02T07:10:37.068351+00:00",
   "flights": [
     {
       "id": "SFO-ONT-2026-09-04-10:37-12:12-95-159-0",
@@ -3392,6 +3392,66 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDQoADICVUFqBRIDT1JEcgUSA01TUEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-08-30T16:25:44.533734+00:00"
+    },
+    {
+      "id": "SFO-SAN-2026-09-04-14:10-15:54-104-294-0",
+      "origin": "SFO",
+      "destination": "SAN",
+      "destinationCity": "San Diego International Airport",
+      "date": "2026-09-04",
+      "departure": "14:10",
+      "arrival": "15:54",
+      "duration": 104,
+      "price": 294,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDQoADICVUFqBRIDU0ZPcgUSA1NBTkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-02T07:08:50.904123+00:00"
+    },
+    {
+      "id": "SFO-SAN-2026-09-04-16:47-18:35-108-294-1",
+      "origin": "SFO",
+      "destination": "SAN",
+      "destinationCity": "San Diego International Airport",
+      "date": "2026-09-04",
+      "departure": "16:47",
+      "arrival": "18:35",
+      "duration": 108,
+      "price": 294,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDQoADICVUFqBRIDU0ZPcgUSA1NBTkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-02T07:08:50.904148+00:00"
+    },
+    {
+      "id": "SFO-SAN-2026-09-04-18:55-20:45-110-294-2",
+      "origin": "SFO",
+      "destination": "SAN",
+      "destinationCity": "San Diego International Airport",
+      "date": "2026-09-04",
+      "departure": "18:55",
+      "arrival": "20:45",
+      "duration": 110,
+      "price": 294,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDQoADICVUFqBRIDU0ZPcgUSA1NBTkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-02T07:08:50.904156+00:00"
+    },
+    {
+      "id": "SFO-SAN-2026-09-04-21:00-22:47-107-294-3",
+      "origin": "SFO",
+      "destination": "SAN",
+      "destinationCity": "San Diego International Airport",
+      "date": "2026-09-04",
+      "departure": "21:00",
+      "arrival": "22:47",
+      "duration": 107,
+      "price": 294,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDQoADICVUFqBRIDU0ZPcgUSA1NBTkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-02T07:08:50.904163+00:00"
     },
     {
       "id": "IAD-MCI-2026-09-04-13:00-14:50-170-295-0",
@@ -30863,7 +30923,7 @@
       "destination": "IAH",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-31T20:24:10.822700+00:00",
+      "updatedAt": "2026-09-02T07:08:39.779116+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-04|SFO|ICT": {
@@ -30939,7 +30999,7 @@
       "destination": "LAS",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-31T20:24:12.870353+00:00",
+      "updatedAt": "2026-09-02T07:08:43.513441+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-04|SFO|LAX": {
@@ -30948,7 +31008,7 @@
       "destination": "LAX",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-31T20:24:14.935707+00:00",
+      "updatedAt": "2026-09-02T07:08:45.862396+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-04|SFO|LBB": {
@@ -31176,7 +31236,7 @@
       "destination": "ORD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-31T20:24:16.959428+00:00",
+      "updatedAt": "2026-09-02T07:08:48.307927+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-04|SFO|ORF": {
@@ -31201,7 +31261,7 @@
       "destination": "PDX",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-31T20:24:19.072158+00:00",
+      "updatedAt": "2026-09-02T07:08:50.314525+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-04|SFO|PHL": {
@@ -31344,10 +31404,10 @@
       "date": "2026-09-04",
       "origin": "SFO",
       "destination": "SAN",
-      "status": "parser_error",
-      "flightCount": 0,
-      "updatedAt": "2026-08-31T20:24:21.086601+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-09-02T07:08:50.904615+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDQoADICVUFqBRIDU0ZPcgUSA1NBTkIBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-09-04|SFO|SAT": {
       "date": "2026-09-04",

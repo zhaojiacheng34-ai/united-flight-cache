@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-09-05",
-  "generatedAt": "2026-09-02T00:19:41.113339+00:00",
+  "generatedAt": "2026-09-02T07:10:37.068351+00:00",
   "flights": [
     {
       "id": "SFO-ONT-2026-09-05-14:10-15:41-91-159-0",
@@ -20809,6 +20809,66 @@
       "updatedAt": "2026-08-31T18:25:05.083129+00:00"
     },
     {
+      "id": "SFO-IAH-2026-09-05-12:24-18:29-245-634-0",
+      "origin": "SFO",
+      "destination": "IAH",
+      "destinationCity": "George Bush Intercontinental Airport",
+      "date": "2026-09-05",
+      "departure": "12:24",
+      "arrival": "18:29",
+      "duration": 245,
+      "price": 634,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDUoADICVUFqBRIDU0ZPcgUSA0lBSEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-02T07:08:37.005731+00:00"
+    },
+    {
+      "id": "SFO-IAH-2026-09-05-14:25-20:30-245-634-1",
+      "origin": "SFO",
+      "destination": "IAH",
+      "destinationCity": "George Bush Intercontinental Airport",
+      "date": "2026-09-05",
+      "departure": "14:25",
+      "arrival": "20:30",
+      "duration": 245,
+      "price": 634,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDUoADICVUFqBRIDU0ZPcgUSA0lBSEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-02T07:08:37.005756+00:00"
+    },
+    {
+      "id": "SFO-IAH-2026-09-05-16:40-22:45-245-634-2",
+      "origin": "SFO",
+      "destination": "IAH",
+      "destinationCity": "George Bush Intercontinental Airport",
+      "date": "2026-09-05",
+      "departure": "16:40",
+      "arrival": "22:45",
+      "duration": 245,
+      "price": 634,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDUoADICVUFqBRIDU0ZPcgUSA0lBSEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-02T07:08:37.005764+00:00"
+    },
+    {
+      "id": "SFO-IAH-2026-09-05-23:59-06:02-243-634-3",
+      "origin": "SFO",
+      "destination": "IAH",
+      "destinationCity": "George Bush Intercontinental Airport",
+      "date": "2026-09-05",
+      "departure": "23:59",
+      "arrival": "06:02",
+      "duration": 243,
+      "price": 634,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDUoADICVUFqBRIDU0ZPcgUSA0lBSEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-02T07:08:37.005771+00:00"
+    },
+    {
       "id": "DEN-SUN-2026-09-05-11:45-13:48-123-639-0",
       "origin": "DEN",
       "destination": "SUN",
@@ -29613,10 +29673,10 @@
       "date": "2026-09-05",
       "origin": "SFO",
       "destination": "IAH",
-      "status": "parser_error",
-      "flightCount": 0,
-      "updatedAt": "2026-08-31T18:25:31.455289+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-09-02T07:08:37.006211+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDUoADICVUFqBRIDU0ZPcgUSA0lBSEIBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-09-05|SFO|ICT": {
       "date": "2026-09-05",
@@ -29926,7 +29986,7 @@
       "destination": "ORD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-31T20:24:32.891760+00:00",
+      "updatedAt": "2026-09-02T07:08:55.218928+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-05|SFO|ORF": {
@@ -30097,7 +30157,7 @@
       "destination": "SAN",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-08-31T20:24:46.756385+00:00",
+      "updatedAt": "2026-09-02T07:08:57.361081+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-05|SFO|SAT": {
