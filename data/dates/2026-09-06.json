@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-09-06",
-  "generatedAt": "2026-09-03T00:21:18.108268+00:00",
+  "generatedAt": "2026-09-03T07:14:56.844530+00:00",
   "flights": [
     {
       "id": "SFO-LAS-2026-09-06-08:21-10:06-105-159-0",
@@ -10909,6 +10909,36 @@
       "updatedAt": "2026-09-01T05:17:32.665683+00:00"
     },
     {
+      "id": "LAX-IAD-2026-09-06-12:49-20:48-299-421-0",
+      "origin": "LAX",
+      "destination": "IAD",
+      "destinationCity": "Dulles International Airport",
+      "date": "2026-09-06",
+      "departure": "12:49",
+      "arrival": "20:48",
+      "duration": 299,
+      "price": 421,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDYoADICVUFqBRIDTEFYcgUSA0lBREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-03T07:13:35.873536+00:00"
+    },
+    {
+      "id": "LAX-IAD-2026-09-06-23:00-06:53-293-421-1",
+      "origin": "LAX",
+      "destination": "IAD",
+      "destinationCity": "Dulles International Airport",
+      "date": "2026-09-06",
+      "departure": "23:00",
+      "arrival": "06:53",
+      "duration": 293,
+      "price": 421,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDYoADICVUFqBRIDTEFYcgUSA0lBREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-03T07:13:35.873560+00:00"
+    },
+    {
       "id": "ORD-MLI-2026-09-06-08:40-09:54-74-421-0",
       "origin": "ORD",
       "destination": "MLI",
@@ -15782,6 +15812,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDYoADICVUFqBRIDSUFIcgUSA1NUTEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-01T21:07:07.517257+00:00"
+    },
+    {
+      "id": "LAX-IAD-2026-09-06-22:39-06:38-299-507-2",
+      "origin": "LAX",
+      "destination": "IAD",
+      "destinationCity": "Dulles International Airport",
+      "date": "2026-09-06",
+      "departure": "22:39",
+      "arrival": "06:38",
+      "duration": 299,
+      "price": 507,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDYoADICVUFqBRIDTEFYcgUSA0lBREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-03T07:13:35.873568+00:00"
     },
     {
       "id": "DEN-SNA-2026-09-06-07:40-09:07-147-509-0",
@@ -26239,7 +26284,7 @@
       "destination": "IAD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-01T21:06:22.887369+00:00",
+      "updatedAt": "2026-09-03T07:13:25.951386+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-06|IAH|ICT": {
@@ -26557,7 +26602,7 @@
       "destination": "ORD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-01T21:06:46.170046+00:00",
+      "updatedAt": "2026-09-03T07:13:27.760897+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-06|IAH|ORF": {
@@ -27489,10 +27534,10 @@
       "date": "2026-09-06",
       "origin": "LAX",
       "destination": "IAD",
-      "status": "parser_error",
-      "flightCount": 0,
-      "updatedAt": "2026-09-02T00:18:42.130336+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-09-03T07:13:35.873951+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDYoADICVUFqBRIDTEFYcgUSA0lBREIBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-09-06|LAX|IAH": {
       "date": "2026-09-06",
@@ -27500,7 +27545,7 @@
       "destination": "IAH",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-02T00:18:43.982989+00:00",
+      "updatedAt": "2026-09-03T07:13:37.766603+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-06|LAX|ICT": {
@@ -27798,7 +27843,7 @@
       "destination": "ORD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-02T00:19:04.191822+00:00",
+      "updatedAt": "2026-09-03T07:13:39.745353+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-06|LAX|ORF": {
@@ -28023,7 +28068,7 @@
       "destination": "SFO",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-02T00:19:21.297031+00:00",
+      "updatedAt": "2026-09-03T07:13:41.698406+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-06|LAX|SGF": {

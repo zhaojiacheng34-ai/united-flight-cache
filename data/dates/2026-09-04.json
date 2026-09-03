@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-09-04",
-  "generatedAt": "2026-09-03T00:21:18.108268+00:00",
+  "generatedAt": "2026-09-03T07:14:56.844530+00:00",
   "flights": [
     {
       "id": "SFO-ONT-2026-09-04-10:37-12:12-95-159-0",
@@ -18169,6 +18169,51 @@
       "updatedAt": "2026-08-30T22:25:30.216461+00:00"
     },
     {
+      "id": "LAX-EWR-2026-09-04-06:00-14:29-329-529-0",
+      "origin": "LAX",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-09-04",
+      "departure": "06:00",
+      "arrival": "14:29",
+      "duration": 329,
+      "price": 529,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDQoADICVUFqBRIDTEFYcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-03T07:13:22.149318+00:00"
+    },
+    {
+      "id": "LAX-EWR-2026-09-04-21:00-05:10-310-529-1",
+      "origin": "LAX",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-09-04",
+      "departure": "21:00",
+      "arrival": "05:10",
+      "duration": 310,
+      "price": 529,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDQoADICVUFqBRIDTEFYcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-03T07:13:22.149344+00:00"
+    },
+    {
+      "id": "LAX-EWR-2026-09-04-23:15-07:23-308-529-2",
+      "origin": "LAX",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-09-04",
+      "departure": "23:15",
+      "arrival": "07:23",
+      "duration": 308,
+      "price": 529,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDQoADICVUFqBRIDTEFYcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-03T07:13:22.149353+00:00"
+    },
+    {
       "id": "ORD-ROA-2026-09-04-06:57-10:09-132-529-0",
       "origin": "ORD",
       "destination": "ROA",
@@ -21752,6 +21797,36 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDQoADICVUFqBRIDREVOcgUSA1NVTkIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-08-30T22:25:03.883112+00:00"
+    },
+    {
+      "id": "LAX-EWR-2026-09-04-07:00-15:29-329-639-3",
+      "origin": "LAX",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-09-04",
+      "departure": "07:00",
+      "arrival": "15:29",
+      "duration": 329,
+      "price": 639,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDQoADICVUFqBRIDTEFYcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-03T07:13:22.149360+00:00"
+    },
+    {
+      "id": "LAX-EWR-2026-09-04-08:50-17:05-315-639-4",
+      "origin": "LAX",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-09-04",
+      "departure": "08:50",
+      "arrival": "17:05",
+      "duration": 315,
+      "price": 639,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDQoADICVUFqBRIDTEFYcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-03T07:13:22.149366+00:00"
     },
     {
       "id": "SFO-JAC-2026-09-04-13:26-16:39-133-639-0",
@@ -29611,10 +29686,10 @@
       "date": "2026-09-04",
       "origin": "LAX",
       "destination": "EWR",
-      "status": "parser_error",
-      "flightCount": 0,
-      "updatedAt": "2026-09-01T21:06:03.114724+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "status": "ok",
+      "flightCount": 5,
+      "updatedAt": "2026-09-03T07:13:22.149764+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDQoADICVUFqBRIDTEFYcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-09-04|LAX|FAR": {
       "date": "2026-09-04",
@@ -29761,7 +29836,7 @@
       "destination": "IAH",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-02T00:18:14.631172+00:00",
+      "updatedAt": "2026-09-03T07:13:29.633163+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-04|LAX|ICT": {
@@ -30059,7 +30134,7 @@
       "destination": "ORD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-02T00:18:20.520872+00:00",
+      "updatedAt": "2026-09-03T07:13:35.295693+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-04|LAX|ORF": {
