@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-09-06",
-  "generatedAt": "2026-09-05T00:10:49.017044+00:00",
+  "generatedAt": "2026-09-05T04:37:17.954272+00:00",
   "flights": [
     {
       "id": "SFO-LAS-2026-09-06-08:21-10:06-105-159-0",
@@ -13352,6 +13352,96 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDYoADICVUFqBRIDSUFIcgUSA01DSUIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-01T21:06:33.253650+00:00"
+    },
+    {
+      "id": "LAX-ORD-2026-09-06-07:00-13:15-255-472-0",
+      "origin": "LAX",
+      "destination": "ORD",
+      "destinationCity": "Chicago O'Hare International Airport",
+      "date": "2026-09-06",
+      "departure": "07:00",
+      "arrival": "13:15",
+      "duration": 255,
+      "price": 472,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDYoADICVUFqBRIDTEFYcgUSA09SREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-05T04:35:30.402651+00:00"
+    },
+    {
+      "id": "LAX-ORD-2026-09-06-08:15-14:36-261-472-1",
+      "origin": "LAX",
+      "destination": "ORD",
+      "destinationCity": "Chicago O'Hare International Airport",
+      "date": "2026-09-06",
+      "departure": "08:15",
+      "arrival": "14:36",
+      "duration": 261,
+      "price": 472,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDYoADICVUFqBRIDTEFYcgUSA09SREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-05T04:35:30.402680+00:00"
+    },
+    {
+      "id": "LAX-ORD-2026-09-06-14:15-20:33-258-472-2",
+      "origin": "LAX",
+      "destination": "ORD",
+      "destinationCity": "Chicago O'Hare International Airport",
+      "date": "2026-09-06",
+      "departure": "14:15",
+      "arrival": "20:33",
+      "duration": 258,
+      "price": 472,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDYoADICVUFqBRIDTEFYcgUSA09SREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-05T04:35:30.402688+00:00"
+    },
+    {
+      "id": "LAX-ORD-2026-09-06-16:55-23:04-249-472-3",
+      "origin": "LAX",
+      "destination": "ORD",
+      "destinationCity": "Chicago O'Hare International Airport",
+      "date": "2026-09-06",
+      "departure": "16:55",
+      "arrival": "23:04",
+      "duration": 249,
+      "price": 472,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDYoADICVUFqBRIDTEFYcgUSA09SREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-05T04:35:30.402694+00:00"
+    },
+    {
+      "id": "LAX-ORD-2026-09-06-22:35-04:45-250-472-4",
+      "origin": "LAX",
+      "destination": "ORD",
+      "destinationCity": "Chicago O'Hare International Airport",
+      "date": "2026-09-06",
+      "departure": "22:35",
+      "arrival": "04:45",
+      "duration": 250,
+      "price": 472,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDYoADICVUFqBRIDTEFYcgUSA09SREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-05T04:35:30.402703+00:00"
+    },
+    {
+      "id": "LAX-ORD-2026-09-06-23:30-05:41-251-472-5",
+      "origin": "LAX",
+      "destination": "ORD",
+      "destinationCity": "Chicago O'Hare International Airport",
+      "date": "2026-09-06",
+      "departure": "23:30",
+      "arrival": "05:41",
+      "duration": 251,
+      "price": 472,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDYoADICVUFqBRIDTEFYcgUSA09SREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-05T04:35:30.402708+00:00"
     },
     {
       "id": "DEN-CPR-2026-09-06-07:40-08:50-70-474-0",
@@ -27544,7 +27634,7 @@
       "destination": "IAH",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-04T04:39:45.219071+00:00",
+      "updatedAt": "2026-09-05T04:35:29.835999+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-06|LAX|ICT": {
@@ -27840,10 +27930,10 @@
       "date": "2026-09-06",
       "origin": "LAX",
       "destination": "ORD",
-      "status": "parser_error",
-      "flightCount": 0,
-      "updatedAt": "2026-09-04T04:39:47.177530+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "status": "ok",
+      "flightCount": 6,
+      "updatedAt": "2026-09-05T04:35:30.403113+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDYoADICVUFqBRIDTEFYcgUSA09SREIBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-09-06|LAX|ORF": {
       "date": "2026-09-06",
@@ -28067,7 +28157,7 @@
       "destination": "SFO",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-04T04:39:49.139251+00:00",
+      "updatedAt": "2026-09-05T04:35:32.631825+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-06|LAX|SGF": {
@@ -28781,7 +28871,7 @@
       "destination": "IAH",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-04T11:24:19.801487+00:00",
+      "updatedAt": "2026-09-05T04:35:53.560071+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-06|SFO|ICT": {
