@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-09-08",
-  "generatedAt": "2026-09-05T10:42:42.403973+00:00",
+  "generatedAt": "2026-09-05T15:20:05.087467+00:00",
   "flights": [
     {
       "id": "SFO-SNA-2026-09-08-07:15-09:01-106-159-0",
@@ -17464,6 +17464,51 @@
       "updatedAt": "2026-09-04T16:27:38.815138+00:00"
     },
     {
+      "id": "DEN-EGE-2026-09-08-11:30-12:24-54-599-0",
+      "origin": "DEN",
+      "destination": "EGE",
+      "destinationCity": "Eagle County Regional Airport",
+      "date": "2026-09-08",
+      "departure": "11:30",
+      "arrival": "12:24",
+      "duration": 54,
+      "price": 599,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDgoADICVUFqBRIDREVOcgUSA0VHRUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-05T15:18:20.138253+00:00"
+    },
+    {
+      "id": "DEN-EGE-2026-09-08-13:30-14:27-57-599-1",
+      "origin": "DEN",
+      "destination": "EGE",
+      "destinationCity": "Eagle County Regional Airport",
+      "date": "2026-09-08",
+      "departure": "13:30",
+      "arrival": "14:27",
+      "duration": 57,
+      "price": 599,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDgoADICVUFqBRIDREVOcgUSA0VHRUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-05T15:18:20.138278+00:00"
+    },
+    {
+      "id": "DEN-EGE-2026-09-08-19:23-20:21-58-599-2",
+      "origin": "DEN",
+      "destination": "EGE",
+      "destinationCity": "Eagle County Regional Airport",
+      "date": "2026-09-08",
+      "departure": "19:23",
+      "arrival": "20:21",
+      "duration": 58,
+      "price": 599,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDgoADICVUFqBRIDREVOcgUSA0VHRUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-05T15:18:20.138287+00:00"
+    },
+    {
       "id": "DEN-IDA-2026-09-08-19:29-21:18-109-599-0",
       "origin": "DEN",
       "destination": "IDA",
@@ -24657,10 +24702,10 @@
       "date": "2026-09-08",
       "origin": "DEN",
       "destination": "EGE",
-      "status": "parser_error",
-      "flightCount": 0,
-      "updatedAt": "2026-09-04T16:26:28.286789+00:00",
-      "error": "IndexError: list index out of range"
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-09-05T15:18:20.138713+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDgoADICVUFqBRIDREVOcgUSA0VHRUIBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-09-08|DEN|ELP": {
       "date": "2026-09-08",
