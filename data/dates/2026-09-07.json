@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-09-07",
-  "generatedAt": "2026-09-05T15:20:05.087467+00:00",
+  "generatedAt": "2026-09-05T18:23:03.994864+00:00",
   "flights": [
     {
       "id": "SFO-ONT-2026-09-07-10:37-12:12-95-233-0",
@@ -10037,6 +10037,36 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDcoADICVUFqBRIDRVdScgUSA0NNSEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-02T12:48:49.828365+00:00"
+    },
+    {
+      "id": "IAD-IAH-2026-09-07-06:30-08:44-194-438-0",
+      "origin": "IAD",
+      "destination": "IAH",
+      "destinationCity": "George Bush Intercontinental Airport",
+      "date": "2026-09-07",
+      "departure": "06:30",
+      "arrival": "08:44",
+      "duration": 194,
+      "price": 438,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDcoADICVUFqBRIDSUFEcgUSA0lBSEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-05T18:21:42.167615+00:00"
+    },
+    {
+      "id": "IAD-IAH-2026-09-07-08:31-10:52-201-438-1",
+      "origin": "IAD",
+      "destination": "IAH",
+      "destinationCity": "George Bush Intercontinental Airport",
+      "date": "2026-09-07",
+      "departure": "08:31",
+      "arrival": "10:52",
+      "duration": 201,
+      "price": 438,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDcoADICVUFqBRIDSUFEcgUSA0lBSEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-05T18:21:42.167639+00:00"
     },
     {
       "id": "ORD-FLL-2026-09-07-10:50-15:07-197-438-1",
@@ -21424,6 +21454,21 @@
       "updatedAt": "2026-09-03T17:54:57.762424+00:00"
     },
     {
+      "id": "IAD-IAH-2026-09-07-12:57-15:17-200-709-2",
+      "origin": "IAD",
+      "destination": "IAH",
+      "destinationCity": "George Bush Intercontinental Airport",
+      "date": "2026-09-07",
+      "departure": "12:57",
+      "arrival": "15:17",
+      "duration": 200,
+      "price": 709,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDcoADICVUFqBRIDSUFEcgUSA0lBSEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-05T18:21:42.167647+00:00"
+    },
+    {
       "id": "ORD-LNK-2026-09-07-09:15-11:19-124-709-2",
       "origin": "ORD",
       "destination": "LNK",
@@ -25201,7 +25246,7 @@
       "destination": "SFO",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-04T20:49:44.154524+00:00",
+      "updatedAt": "2026-09-05T18:21:34.134630+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-07|ORD|SGF": {
@@ -25607,7 +25652,7 @@
       "destination": "CHS",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-05T00:09:17.387104+00:00",
+      "updatedAt": "2026-09-05T18:21:41.561928+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-07|IAD|CID": {
@@ -25913,10 +25958,10 @@
       "date": "2026-09-07",
       "origin": "IAD",
       "destination": "IAH",
-      "status": "parser_error",
-      "flightCount": 0,
-      "updatedAt": "2026-09-05T00:09:19.292710+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-09-05T18:21:42.168050+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDcoADICVUFqBRIDSUFEcgUSA0lBSEIBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-09-07|IAD|ICT": {
       "date": "2026-09-07",
@@ -26066,7 +26111,7 @@
       "destination": "MCO",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-05T00:09:21.037932+00:00",
+      "updatedAt": "2026-09-05T18:21:43.998366+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-07|IAD|MDT": {
@@ -31069,7 +31114,7 @@
       "destination": "LAS",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-04T20:49:33.351107+00:00",
+      "updatedAt": "2026-09-05T18:21:24.532023+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-07|SFO|LAX": {
@@ -31078,7 +31123,7 @@
       "destination": "LAX",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-04T20:49:35.445157+00:00",
+      "updatedAt": "2026-09-05T18:21:26.467523+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-07|SFO|LBB": {
@@ -31306,7 +31351,7 @@
       "destination": "ORD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-04T20:49:37.638947+00:00",
+      "updatedAt": "2026-09-05T18:21:28.327008+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-07|SFO|ORF": {
@@ -31331,7 +31376,7 @@
       "destination": "PDX",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-04T20:49:39.742018+00:00",
+      "updatedAt": "2026-09-05T18:21:30.135937+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-07|SFO|PHL": {
@@ -31476,7 +31521,7 @@
       "destination": "SAN",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-04T20:49:42.044303+00:00",
+      "updatedAt": "2026-09-05T18:21:32.262734+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-07|SFO|SAT": {

@@ -2,17 +2,17 @@
   "schemaVersion": 2,
   "source": "fast-flights",
   "provider": "Google Flights results via fast-flights",
-  "generatedAt": "2026-09-05T15:20:05.087467+00:00",
+  "generatedAt": "2026-09-05T18:23:03.994864+00:00",
   "horizonStart": "2026-09-06",
   "horizonEnd": "2026-11-04",
   "totalRouteDates": 62640,
-  "attemptedRouteDates": 3379,
-  "coveredRouteDates": 3316,
-  "parserErrorRouteDates": 63,
+  "attemptedRouteDates": 3516,
+  "coveredRouteDates": 3450,
+  "parserErrorRouteDates": 66,
   "otherErrorRouteDates": 0,
-  "flightCount": 4707,
-  "coveragePercent": 5.39,
-  "usableCoveragePercent": 5.29,
+  "flightCount": 4914,
+  "coveragePercent": 5.61,
+  "usableCoveragePercent": 5.51,
   "dates": {
     "2026-09-06": {
       "flightCount": 1378,
@@ -20,15 +20,15 @@
       "coveredRouteDates": 1025,
       "parserErrorRouteDates": 19,
       "otherErrorRouteDates": 0,
-      "generatedAt": "2026-09-05T15:20:05.087467+00:00"
+      "generatedAt": "2026-09-05T18:23:03.994864+00:00"
     },
     "2026-09-07": {
-      "flightCount": 1520,
+      "flightCount": 1523,
       "attemptedRouteDates": 1044,
-      "coveredRouteDates": 1024,
-      "parserErrorRouteDates": 20,
+      "coveredRouteDates": 1025,
+      "parserErrorRouteDates": 19,
       "otherErrorRouteDates": 0,
-      "generatedAt": "2026-09-05T15:20:05.087467+00:00"
+      "generatedAt": "2026-09-05T18:23:03.994864+00:00"
     },
     "2026-09-08": {
       "flightCount": 1367,
@@ -36,15 +36,15 @@
       "coveredRouteDates": 1025,
       "parserErrorRouteDates": 19,
       "otherErrorRouteDates": 0,
-      "generatedAt": "2026-09-05T15:20:05.087467+00:00"
+      "generatedAt": "2026-09-05T18:23:03.994864+00:00"
     },
     "2026-09-09": {
-      "flightCount": 442,
-      "attemptedRouteDates": 247,
-      "coveredRouteDates": 242,
-      "parserErrorRouteDates": 5,
+      "flightCount": 646,
+      "attemptedRouteDates": 384,
+      "coveredRouteDates": 375,
+      "parserErrorRouteDates": 9,
       "otherErrorRouteDates": 0,
-      "generatedAt": "2026-09-05T15:20:05.087467+00:00"
+      "generatedAt": "2026-09-05T18:23:03.994864+00:00"
     }
   }
 }
