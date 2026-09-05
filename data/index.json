@@ -2,33 +2,25 @@
   "schemaVersion": 2,
   "source": "fast-flights",
   "provider": "Google Flights results via fast-flights",
-  "generatedAt": "2026-09-04T20:51:13.527868+00:00",
-  "horizonStart": "2026-09-05",
-  "horizonEnd": "2026-11-03",
+  "generatedAt": "2026-09-05T00:10:49.017044+00:00",
+  "horizonStart": "2026-09-06",
+  "horizonEnd": "2026-11-04",
   "totalRouteDates": 62640,
-  "attemptedRouteDates": 3875,
-  "coveredRouteDates": 3805,
-  "parserErrorRouteDates": 70,
+  "attemptedRouteDates": 2968,
+  "coveredRouteDates": 2911,
+  "parserErrorRouteDates": 57,
   "otherErrorRouteDates": 0,
-  "flightCount": 5511,
-  "coveragePercent": 6.19,
-  "usableCoveragePercent": 6.07,
+  "flightCount": 4129,
+  "coveragePercent": 4.74,
+  "usableCoveragePercent": 4.65,
   "dates": {
-    "2026-09-05": {
-      "flightCount": 1431,
-      "attemptedRouteDates": 1044,
-      "coveredRouteDates": 1029,
-      "parserErrorRouteDates": 15,
-      "otherErrorRouteDates": 0,
-      "generatedAt": "2026-09-04T16:28:05.540064+00:00"
-    },
     "2026-09-06": {
       "flightCount": 1372,
       "attemptedRouteDates": 1044,
       "coveredRouteDates": 1024,
       "parserErrorRouteDates": 20,
       "otherErrorRouteDates": 0,
-      "generatedAt": "2026-09-04T20:51:13.527868+00:00"
+      "generatedAt": "2026-09-05T00:10:49.017044+00:00"
     },
     "2026-09-07": {
       "flightCount": 1515,
@@ -36,15 +28,15 @@
       "coveredRouteDates": 1023,
       "parserErrorRouteDates": 21,
       "otherErrorRouteDates": 0,
-      "generatedAt": "2026-09-04T20:51:13.527868+00:00"
+      "generatedAt": "2026-09-05T00:10:49.017044+00:00"
     },
     "2026-09-08": {
-      "flightCount": 1193,
-      "attemptedRouteDates": 743,
-      "coveredRouteDates": 729,
-      "parserErrorRouteDates": 14,
+      "flightCount": 1242,
+      "attemptedRouteDates": 880,
+      "coveredRouteDates": 864,
+      "parserErrorRouteDates": 16,
       "otherErrorRouteDates": 0,
-      "generatedAt": "2026-09-04T20:51:13.527868+00:00"
+      "generatedAt": "2026-09-05T00:10:49.017044+00:00"
     }
   }
 }
