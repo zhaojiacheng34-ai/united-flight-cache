@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-09-09",
-  "generatedAt": "2026-09-06T15:33:04.016917+00:00",
+  "generatedAt": "2026-09-06T18:23:59.788153+00:00",
   "flights": [
     {
       "id": "SFO-SNA-2026-09-09-07:15-09:01-106-159-0",
@@ -12394,6 +12394,36 @@
       "updatedAt": "2026-09-05T15:18:41.291252+00:00"
     },
     {
+      "id": "DEN-EWR-2026-09-09-18:05-23:58-233-440-0",
+      "origin": "DEN",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-09-09",
+      "departure": "18:05",
+      "arrival": "23:58",
+      "duration": 233,
+      "price": 440,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDkoADICVUFqBRIDREVOcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-06T18:22:00.563676+00:00"
+    },
+    {
+      "id": "DEN-EWR-2026-09-09-23:59-05:43-224-440-1",
+      "origin": "DEN",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-09-09",
+      "departure": "23:59",
+      "arrival": "05:43",
+      "duration": 224,
+      "price": 440,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDkoADICVUFqBRIDREVOcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-06T18:22:00.563702+00:00"
+    },
+    {
       "id": "EWR-SLC-2026-09-09-07:34-10:31-297-440-0",
       "origin": "EWR",
       "destination": "SLC",
@@ -13757,6 +13787,36 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDkoADICVUFqBRIDT1JEcgUSA0FWTEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-05T15:19:04.038730+00:00"
+    },
+    {
+      "id": "DEN-EWR-2026-09-09-07:40-13:26-226-479-2",
+      "origin": "DEN",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-09-09",
+      "departure": "07:40",
+      "arrival": "13:26",
+      "duration": 226,
+      "price": 479,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDkoADICVUFqBRIDREVOcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-06T18:22:00.563711+00:00"
+    },
+    {
+      "id": "DEN-EWR-2026-09-09-09:45-15:40-235-479-3",
+      "origin": "DEN",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-09-09",
+      "departure": "09:45",
+      "arrival": "15:40",
+      "duration": 235,
+      "price": 479,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDkoADICVUFqBRIDREVOcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-06T18:22:00.563717+00:00"
     },
     {
       "id": "DEN-AUS-2026-09-09-17:30-20:44-134-479-0",
@@ -25093,7 +25153,7 @@
       "destination": "SFO",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-05T22:05:15.699743+00:00",
+      "updatedAt": "2026-09-06T18:21:59.706986+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-09|IAD|SGF": {
@@ -25677,10 +25737,10 @@
       "date": "2026-09-09",
       "origin": "DEN",
       "destination": "EWR",
-      "status": "parser_error",
-      "flightCount": 0,
-      "updatedAt": "2026-09-05T22:05:58.319178+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-09-06T18:22:00.564164+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDkoADICVUFqBRIDREVOcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-09-09|DEN|FAR": {
       "date": "2026-09-09",
