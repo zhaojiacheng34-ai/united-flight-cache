@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-09-07",
-  "generatedAt": "2026-09-06T22:10:36.845519+00:00",
+  "generatedAt": "2026-09-07T00:00:12.728037+00:00",
   "flights": [
     {
       "id": "SFO-ONT-2026-09-07-10:37-12:12-95-233-0",
@@ -11957,6 +11957,51 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDcoADICVUFqBRIDSUFEcgUSA1JTV0IBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-03T00:20:02.810856+00:00"
+    },
+    {
+      "id": "ORD-PHL-2026-09-07-11:22-14:40-138-469-0",
+      "origin": "ORD",
+      "destination": "PHL",
+      "destinationCity": "Philadelphia International Airport",
+      "date": "2026-09-07",
+      "departure": "11:22",
+      "arrival": "14:40",
+      "duration": 138,
+      "price": 469,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDcoADICVUFqBRIDT1JEcgUSA1BITEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-06T23:58:38.465316+00:00"
+    },
+    {
+      "id": "ORD-PHL-2026-09-07-14:30-17:54-144-469-1",
+      "origin": "ORD",
+      "destination": "PHL",
+      "destinationCity": "Philadelphia International Airport",
+      "date": "2026-09-07",
+      "departure": "14:30",
+      "arrival": "17:54",
+      "duration": 144,
+      "price": 469,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDcoADICVUFqBRIDT1JEcgUSA1BITEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-06T23:58:38.465335+00:00"
+    },
+    {
+      "id": "ORD-PHL-2026-09-07-18:29-21:43-134-469-2",
+      "origin": "ORD",
+      "destination": "PHL",
+      "destinationCity": "Philadelphia International Airport",
+      "date": "2026-09-07",
+      "departure": "18:29",
+      "arrival": "21:43",
+      "duration": 134,
+      "price": 469,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDcoADICVUFqBRIDT1JEcgUSA1BITEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-06T23:58:38.465343+00:00"
     },
     {
       "id": "IAH-MCI-2026-09-07-08:00-10:06-126-470-0",
@@ -25415,10 +25460,10 @@
       "date": "2026-09-07",
       "origin": "ORD",
       "destination": "PHL",
-      "status": "parser_error",
-      "flightCount": 0,
-      "updatedAt": "2026-09-06T11:02:42.737006+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-09-06T23:58:38.465762+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMDcoADICVUFqBRIDT1JEcgUSA1BITEIBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-09-07|ORD|PHX": {
       "date": "2026-09-07",
@@ -25444,7 +25489,7 @@
       "destination": "PIT",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-06T11:02:44.608650+00:00",
+      "updatedAt": "2026-09-06T23:58:40.305000+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-07|ORD|PNS": {
@@ -31489,7 +31534,7 @@
       "destination": "LAS",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-06T11:02:53.948469+00:00",
+      "updatedAt": "2026-09-06T23:58:49.749663+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-07|SFO|LAX": {
@@ -31498,7 +31543,7 @@
       "destination": "LAX",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-06T11:02:55.772923+00:00",
+      "updatedAt": "2026-09-06T23:58:51.741354+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-07|SFO|LBB": {
@@ -31726,7 +31771,7 @@
       "destination": "ORD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-06T11:02:57.706722+00:00",
+      "updatedAt": "2026-09-06T23:58:53.692864+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-07|SFO|ORF": {
@@ -31751,7 +31796,7 @@
       "destination": "PDX",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-06T11:02:59.406961+00:00",
+      "updatedAt": "2026-09-06T23:58:55.517528+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-07|SFO|PHL": {
