@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-09-10",
-  "generatedAt": "2026-09-08T04:46:08.406367+00:00",
+  "generatedAt": "2026-09-08T11:26:35.617037+00:00",
   "flights": [
     {
       "id": "SFO-SAN-2026-09-10-07:00-08:43-103-159-0",
@@ -11794,6 +11794,66 @@
       "updatedAt": "2026-09-06T18:22:58.504378+00:00"
     },
     {
+      "id": "LAX-EWR-2026-09-10-10:20-18:53-333-455-0",
+      "origin": "LAX",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-09-10",
+      "departure": "10:20",
+      "arrival": "18:53",
+      "duration": 333,
+      "price": 455,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMTAoADICVUFqBRIDTEFYcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-08T11:25:04.860071+00:00"
+    },
+    {
+      "id": "LAX-EWR-2026-09-10-12:15-20:48-333-455-1",
+      "origin": "LAX",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-09-10",
+      "departure": "12:15",
+      "arrival": "20:48",
+      "duration": 333,
+      "price": 455,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMTAoADICVUFqBRIDTEFYcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-08T11:25:04.860098+00:00"
+    },
+    {
+      "id": "LAX-EWR-2026-09-10-21:00-05:13-313-455-2",
+      "origin": "LAX",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-09-10",
+      "departure": "21:00",
+      "arrival": "05:13",
+      "duration": 313,
+      "price": 455,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMTAoADICVUFqBRIDTEFYcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-08T11:25:04.860106+00:00"
+    },
+    {
+      "id": "LAX-EWR-2026-09-10-23:15-07:26-311-455-3",
+      "origin": "LAX",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-09-10",
+      "departure": "23:15",
+      "arrival": "07:26",
+      "duration": 311,
+      "price": 455,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMTAoADICVUFqBRIDTEFYcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-08T11:25:04.860113+00:00"
+    },
+    {
       "id": "DEN-MSP-2026-09-10-13:46-16:48-122-458-2",
       "origin": "DEN",
       "destination": "MSP",
@@ -19369,6 +19429,36 @@
       "updatedAt": "2026-09-07T12:42:36.828675+00:00"
     },
     {
+      "id": "LAX-EWR-2026-09-10-06:00-14:29-329-639-4",
+      "origin": "LAX",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-09-10",
+      "departure": "06:00",
+      "arrival": "14:29",
+      "duration": 329,
+      "price": 639,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMTAoADICVUFqBRIDTEFYcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-08T11:25:04.860119+00:00"
+    },
+    {
+      "id": "LAX-EWR-2026-09-10-08:20-16:35-315-639-5",
+      "origin": "LAX",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-09-10",
+      "departure": "08:20",
+      "arrival": "16:35",
+      "duration": 315,
+      "price": 639,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMTAoADICVUFqBRIDTEFYcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-08T11:25:04.860126+00:00"
+    },
+    {
       "id": "LAX-BWI-2026-09-10-08:30-16:35-305-639-0",
       "origin": "LAX",
       "destination": "BWI",
@@ -21357,10 +21447,9 @@
       "date": "2026-09-10",
       "origin": "EWR",
       "destination": "ORD",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-09-07T18:45:23.652557+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "updatedAt": "2026-09-08T11:24:54.637776+00:00"
     },
     "2026-09-10|EWR|ORF": {
       "date": "2026-09-10",
@@ -21993,7 +22082,7 @@
       "destination": "CHA",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-07T18:45:33.873732+00:00",
+      "updatedAt": "2026-09-08T11:25:00.505194+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-10|ORD|CHS": {
@@ -22176,7 +22265,7 @@
       "destination": "EWR",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-07T18:45:35.870309+00:00",
+      "updatedAt": "2026-09-08T11:25:02.473314+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-10|ORD|FAR": {
@@ -22326,7 +22415,7 @@
       "destination": "IAD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-07T22:52:08.816054+00:00",
+      "updatedAt": "2026-09-08T11:25:10.652968+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-10|ORD|IAH": {
@@ -22335,7 +22424,7 @@
       "destination": "IAH",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-07T22:52:10.962264+00:00",
+      "updatedAt": "2026-09-08T11:25:12.550445+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-10|ORD|ICT": {
@@ -22710,7 +22799,7 @@
       "destination": "PIT",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-07T22:52:13.017839+00:00",
+      "updatedAt": "2026-09-08T11:25:14.460375+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-10|ORD|PNS": {
@@ -26707,10 +26796,9 @@
       "date": "2026-09-10",
       "origin": "IAH",
       "destination": "SFO",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-09-07T18:45:47.383911+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "updatedAt": "2026-09-08T11:25:04.309392+00:00"
     },
     "2026-09-10|IAH|SGF": {
       "date": "2026-09-10",
@@ -27271,10 +27359,10 @@
       "date": "2026-09-10",
       "origin": "LAX",
       "destination": "EWR",
-      "status": "parser_error",
-      "flightCount": 0,
-      "updatedAt": "2026-09-07T18:46:29.558818+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "status": "ok",
+      "flightCount": 6,
+      "updatedAt": "2026-09-08T11:25:04.860560+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMTAoADICVUFqBRIDTEFYcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en"
     },
     "2026-09-10|LAX|FAR": {
       "date": "2026-09-10",
@@ -27412,7 +27500,7 @@
       "destination": "IAD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-07T18:46:40.822406+00:00",
+      "updatedAt": "2026-09-08T11:25:06.802794+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-10|LAX|IAH": {
@@ -27421,7 +27509,7 @@
       "destination": "IAH",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-07T18:46:42.970249+00:00",
+      "updatedAt": "2026-09-08T11:25:08.671903+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-10|LAX|ICT": {
