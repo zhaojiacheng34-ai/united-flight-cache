@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-09-10",
-  "generatedAt": "2026-09-09T07:28:22.699501+00:00",
+  "generatedAt": "2026-09-09T13:01:27.767673+00:00",
   "flights": [
     {
       "id": "SFO-SAN-2026-09-10-07:00-08:43-103-159-0",
@@ -22200,10 +22200,9 @@
       "date": "2026-09-10",
       "origin": "ORD",
       "destination": "CHA",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-09-09T00:18:53.276261+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "updatedAt": "2026-09-09T13:00:02.639492+00:00"
     },
     "2026-09-10|ORD|CHS": {
       "date": "2026-09-10",
@@ -24929,10 +24928,9 @@
       "date": "2026-09-10",
       "origin": "DEN",
       "destination": "EWR",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-09-08T21:13:28.644721+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "updatedAt": "2026-09-09T12:59:53.056308+00:00"
     },
     "2026-09-10|DEN|FAR": {
       "date": "2026-09-10",
@@ -26225,10 +26223,9 @@
       "date": "2026-09-10",
       "origin": "IAH",
       "destination": "EWR",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-09-09T00:18:46.883837+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "updatedAt": "2026-09-09T12:59:58.025695+00:00"
     },
     "2026-09-10|IAH|FAR": {
       "date": "2026-09-10",
@@ -26686,7 +26683,7 @@
       "destination": "ORD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-09T00:18:49.253577+00:00",
+      "updatedAt": "2026-09-09T13:00:00.169937+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-10|IAH|ORF": {
@@ -27617,10 +27614,9 @@
       "date": "2026-09-10",
       "origin": "LAX",
       "destination": "IAD",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-09-09T00:18:56.483873+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "updatedAt": "2026-09-09T13:00:04.520803+00:00"
     },
     "2026-09-10|LAX|IAH": {
       "date": "2026-09-10",
@@ -28864,7 +28860,7 @@
       "destination": "IAH",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-08T21:13:18.301073+00:00",
+      "updatedAt": "2026-09-09T12:59:49.906393+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-10|SFO|ICT": {
@@ -28940,17 +28936,16 @@
       "destination": "LAS",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-08T21:13:20.304047+00:00",
+      "updatedAt": "2026-09-09T12:59:52.000400+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-10|SFO|LAX": {
       "date": "2026-09-10",
       "origin": "SFO",
       "destination": "LAX",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-09-08T21:13:22.285575+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "updatedAt": "2026-09-09T12:59:52.535027+00:00"
     },
     "2026-09-10|SFO|LBB": {
       "date": "2026-09-10",
@@ -29199,10 +29194,9 @@
       "date": "2026-09-10",
       "origin": "SFO",
       "destination": "PDX",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-09-09T00:18:51.082127+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "updatedAt": "2026-09-09T13:00:02.094007+00:00"
     },
     "2026-09-10|SFO|PHL": {
       "date": "2026-09-10",
