@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-09-11",
-  "generatedAt": "2026-09-09T21:01:02.137046+00:00",
+  "generatedAt": "2026-09-10T00:19:31.653475+00:00",
   "flights": [
     {
       "id": "SFO-SAN-2026-09-11-07:00-08:43-103-159-0",
@@ -27195,7 +27195,7 @@
       "destination": "ORD",
       "status": "parser_error",
       "flightCount": 0,
-      "updatedAt": "2026-09-09T07:27:49.283596+00:00",
+      "updatedAt": "2026-09-10T00:17:35.795334+00:00",
       "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
     },
     "2026-09-11|IAH|ORF": {
@@ -27424,10 +27424,9 @@
       "date": "2026-09-11",
       "origin": "IAH",
       "destination": "SFO",
-      "status": "parser_error",
+      "status": "no_results",
       "flightCount": 0,
-      "updatedAt": "2026-09-09T07:28:04.257502+00:00",
-      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+      "updatedAt": "2026-09-10T00:17:36.446869+00:00"
     },
     "2026-09-11|IAH|SGF": {
       "date": "2026-09-11",
