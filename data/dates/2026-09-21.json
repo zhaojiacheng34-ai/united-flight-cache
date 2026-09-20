@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-09-21",
-  "generatedAt": "2026-09-20T18:52:51.037301+00:00",
+  "generatedAt": "2026-09-20T22:31:39.855534+00:00",
   "flights": [
     {
       "id": "ORD-LGA-2026-09-21-07:00-10:17-137-213-0",
@@ -274,6 +274,111 @@
       "updatedAt": "2026-09-20T04:58:55.578744+00:00"
     },
     {
+      "id": "LAX-SFO-2026-09-21-06:00-07:24-84-262-0",
+      "origin": "LAX",
+      "destination": "SFO",
+      "destinationCity": "San Francisco International Airport",
+      "date": "2026-09-21",
+      "departure": "06:00",
+      "arrival": "07:24",
+      "duration": 84,
+      "price": 262,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NGT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:32.816886+00:00"
+    },
+    {
+      "id": "LAX-SFO-2026-09-21-09:37-11:10-93-262-1",
+      "origin": "LAX",
+      "destination": "SFO",
+      "destinationCity": "San Francisco International Airport",
+      "date": "2026-09-21",
+      "departure": "09:37",
+      "arrival": "11:10",
+      "duration": 93,
+      "price": 262,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NGT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:32.816916+00:00"
+    },
+    {
+      "id": "LAX-SFO-2026-09-21-16:10-17:42-92-262-2",
+      "origin": "LAX",
+      "destination": "SFO",
+      "destinationCity": "San Francisco International Airport",
+      "date": "2026-09-21",
+      "departure": "16:10",
+      "arrival": "17:42",
+      "duration": 92,
+      "price": 262,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NGT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:32.816921+00:00"
+    },
+    {
+      "id": "LAX-SFO-2026-09-21-17:37-19:09-92-262-3",
+      "origin": "LAX",
+      "destination": "SFO",
+      "destinationCity": "San Francisco International Airport",
+      "date": "2026-09-21",
+      "departure": "17:37",
+      "arrival": "19:09",
+      "duration": 92,
+      "price": 262,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NGT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:32.816925+00:00"
+    },
+    {
+      "id": "LAX-SFO-2026-09-21-18:45-20:17-92-262-4",
+      "origin": "LAX",
+      "destination": "SFO",
+      "destinationCity": "San Francisco International Airport",
+      "date": "2026-09-21",
+      "departure": "18:45",
+      "arrival": "20:17",
+      "duration": 92,
+      "price": 262,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NGT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:32.816929+00:00"
+    },
+    {
+      "id": "LAX-SFO-2026-09-21-20:21-21:47-86-262-5",
+      "origin": "LAX",
+      "destination": "SFO",
+      "destinationCity": "San Francisco International Airport",
+      "date": "2026-09-21",
+      "departure": "20:21",
+      "arrival": "21:47",
+      "duration": 86,
+      "price": 262,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NGT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:32.816933+00:00"
+    },
+    {
+      "id": "LAX-SFO-2026-09-21-21:29-22:55-86-262-6",
+      "origin": "LAX",
+      "destination": "SFO",
+      "destinationCity": "San Francisco International Airport",
+      "date": "2026-09-21",
+      "departure": "21:29",
+      "arrival": "22:55",
+      "duration": 86,
+      "price": 262,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NGT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:32.816937+00:00"
+    },
+    {
       "id": "IAD-FLL-2026-09-21-08:15-10:58-163-264-0",
       "origin": "IAD",
       "destination": "FLL",
@@ -512,6 +617,66 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDSUFEcgUSA1RQQUIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-20T11:32:33.640095+00:00"
+    },
+    {
+      "id": "LAX-SMF-2026-09-21-09:17-10:52-95-269-0",
+      "origin": "LAX",
+      "destination": "SMF",
+      "destinationCity": "Sacramento International Airport",
+      "date": "2026-09-21",
+      "departure": "09:17",
+      "arrival": "10:52",
+      "duration": 95,
+      "price": 269,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NNRkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:35.759231+00:00"
+    },
+    {
+      "id": "LAX-SMF-2026-09-21-13:25-15:01-96-269-1",
+      "origin": "LAX",
+      "destination": "SMF",
+      "destinationCity": "Sacramento International Airport",
+      "date": "2026-09-21",
+      "departure": "13:25",
+      "arrival": "15:01",
+      "duration": 96,
+      "price": 269,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NNRkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:35.759258+00:00"
+    },
+    {
+      "id": "LAX-SMF-2026-09-21-16:20-17:56-96-269-2",
+      "origin": "LAX",
+      "destination": "SMF",
+      "destinationCity": "Sacramento International Airport",
+      "date": "2026-09-21",
+      "departure": "16:20",
+      "arrival": "17:56",
+      "duration": 96,
+      "price": 269,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NNRkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:35.759263+00:00"
+    },
+    {
+      "id": "LAX-SMF-2026-09-21-21:24-22:59-95-269-3",
+      "origin": "LAX",
+      "destination": "SMF",
+      "destinationCity": "Sacramento International Airport",
+      "date": "2026-09-21",
+      "departure": "21:24",
+      "arrival": "22:59",
+      "duration": 95,
+      "price": 269,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NNRkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:35.759267+00:00"
     },
     {
       "id": "ORD-ATL-2026-09-21-07:00-10:12-132-269-0",
@@ -1054,6 +1219,51 @@
       "updatedAt": "2026-09-20T04:59:24.998999+00:00"
     },
     {
+      "id": "LAX-PHX-2026-09-21-08:07-09:45-98-283-0",
+      "origin": "LAX",
+      "destination": "PHX",
+      "destinationCity": "Phoenix Sky Harbor International Airport",
+      "date": "2026-09-21",
+      "departure": "08:07",
+      "arrival": "09:45",
+      "duration": 98,
+      "price": 283,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1BIWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:20.001681+00:00"
+    },
+    {
+      "id": "LAX-PHX-2026-09-21-13:15-14:55-100-283-1",
+      "origin": "LAX",
+      "destination": "PHX",
+      "destinationCity": "Phoenix Sky Harbor International Airport",
+      "date": "2026-09-21",
+      "departure": "13:15",
+      "arrival": "14:55",
+      "duration": 100,
+      "price": 283,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1BIWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:20.001709+00:00"
+    },
+    {
+      "id": "LAX-PHX-2026-09-21-16:20-18:00-100-283-2",
+      "origin": "LAX",
+      "destination": "PHX",
+      "destinationCity": "Phoenix Sky Harbor International Airport",
+      "date": "2026-09-21",
+      "departure": "16:20",
+      "arrival": "18:00",
+      "duration": 100,
+      "price": 283,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1BIWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:20.001715+00:00"
+    },
+    {
       "id": "ORD-CMH-2026-09-21-06:59-09:29-90-283-0",
       "origin": "ORD",
       "destination": "CMH",
@@ -1489,6 +1699,21 @@
       "updatedAt": "2026-09-20T04:59:00.372465+00:00"
     },
     {
+      "id": "LAX-JAC-2026-09-21-10:25-13:45-140-287-0",
+      "origin": "LAX",
+      "destination": "JAC",
+      "destinationCity": "Jackson Hole Airport",
+      "date": "2026-09-21",
+      "departure": "10:25",
+      "arrival": "13:45",
+      "duration": 140,
+      "price": 287,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0pBQ0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:57.471099+00:00"
+    },
+    {
       "id": "ORD-CLE-2026-09-21-07:15-09:41-86-287-0",
       "origin": "ORD",
       "destination": "CLE",
@@ -1772,6 +1997,36 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDSUFEcgUSA0JPU0IBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-20T11:31:11.091634+00:00"
+    },
+    {
+      "id": "LAX-ASE-2026-09-21-10:18-13:34-136-289-0",
+      "origin": "LAX",
+      "destination": "ASE",
+      "destinationCity": "Aspen/Pitkin County Airport",
+      "date": "2026-09-21",
+      "departure": "10:18",
+      "arrival": "13:34",
+      "duration": 136,
+      "price": 289,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0FTRUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:19.029903+00:00"
+    },
+    {
+      "id": "LAX-ASE-2026-09-21-17:12-20:26-134-289-1",
+      "origin": "LAX",
+      "destination": "ASE",
+      "destinationCity": "Aspen/Pitkin County Airport",
+      "date": "2026-09-21",
+      "departure": "17:12",
+      "arrival": "20:26",
+      "duration": 134,
+      "price": 289,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0FTRUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:19.029930+00:00"
     },
     {
       "id": "ORD-AUS-2026-09-21-07:00-09:58-178-289-0",
@@ -2599,6 +2854,21 @@
       "updatedAt": "2026-09-20T16:12:23.487427+00:00"
     },
     {
+      "id": "LAX-CMH-2026-09-21-10:45-18:14-269-304-0",
+      "origin": "LAX",
+      "destination": "CMH",
+      "destinationCity": "John Glenn Columbus International Airport",
+      "date": "2026-09-21",
+      "departure": "10:45",
+      "arrival": "18:14",
+      "duration": 269,
+      "price": 304,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0NNSEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:34.194214+00:00"
+    },
+    {
       "id": "ORD-BNA-2026-09-21-18:14-20:06-112-304-3",
       "origin": "ORD",
       "destination": "BNA",
@@ -2689,6 +2959,36 @@
       "updatedAt": "2026-09-20T11:32:02.487561+00:00"
     },
     {
+      "id": "LAX-AUS-2026-09-21-10:45-15:49-184-306-0",
+      "origin": "LAX",
+      "destination": "AUS",
+      "destinationCity": "Austin-Bergstrom International Airport",
+      "date": "2026-09-21",
+      "departure": "10:45",
+      "arrival": "15:49",
+      "duration": 184,
+      "price": 306,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0FVU0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:21.016019+00:00"
+    },
+    {
+      "id": "LAX-AUS-2026-09-21-16:55-21:58-183-306-1",
+      "origin": "LAX",
+      "destination": "AUS",
+      "destinationCity": "Austin-Bergstrom International Airport",
+      "date": "2026-09-21",
+      "departure": "16:55",
+      "arrival": "21:58",
+      "duration": 183,
+      "price": 306,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0FVU0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:21.016044+00:00"
+    },
+    {
       "id": "DEN-ORD-2026-09-21-05:30-09:12-162-307-0",
       "origin": "DEN",
       "destination": "ORD",
@@ -2762,6 +3062,66 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDT1JEcgUSA1NSUUIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-20T04:59:47.927489+00:00"
+    },
+    {
+      "id": "LAX-LAS-2026-09-21-08:15-09:34-79-311-0",
+      "origin": "LAX",
+      "destination": "LAS",
+      "destinationCity": "Harry Reid International Airport",
+      "date": "2026-09-21",
+      "departure": "08:15",
+      "arrival": "09:34",
+      "duration": 79,
+      "price": 311,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0xBU0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:59.942542+00:00"
+    },
+    {
+      "id": "LAX-LAS-2026-09-21-16:39-17:59-80-311-1",
+      "origin": "LAX",
+      "destination": "LAS",
+      "destinationCity": "Harry Reid International Airport",
+      "date": "2026-09-21",
+      "departure": "16:39",
+      "arrival": "17:59",
+      "duration": 80,
+      "price": 311,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0xBU0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:59.942566+00:00"
+    },
+    {
+      "id": "LAX-LAS-2026-09-21-18:45-20:04-79-311-2",
+      "origin": "LAX",
+      "destination": "LAS",
+      "destinationCity": "Harry Reid International Airport",
+      "date": "2026-09-21",
+      "departure": "18:45",
+      "arrival": "20:04",
+      "duration": 79,
+      "price": 311,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0xBU0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:59.942570+00:00"
+    },
+    {
+      "id": "LAX-LAS-2026-09-21-22:35-23:57-82-311-3",
+      "origin": "LAX",
+      "destination": "LAS",
+      "destinationCity": "Harry Reid International Airport",
+      "date": "2026-09-21",
+      "departure": "22:35",
+      "arrival": "23:57",
+      "duration": 82,
+      "price": 311,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0xBU0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:59.942575+00:00"
     },
     {
       "id": "EWR-ACK-2026-09-21-07:58-09:12-74-315-0",
@@ -3094,6 +3454,21 @@
       "updatedAt": "2026-09-20T11:31:29.792646+00:00"
     },
     {
+      "id": "LAX-KOA-2026-09-21-09:00-11:46-346-320-0",
+      "origin": "LAX",
+      "destination": "KOA",
+      "destinationCity": "Ellison Onizuka Kona International Airport",
+      "date": "2026-09-21",
+      "departure": "09:00",
+      "arrival": "11:46",
+      "duration": 346,
+      "price": 320,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0tPQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:59.306560+00:00"
+    },
+    {
       "id": "ORD-DFW-2026-09-21-09:00-11:40-160-320-2",
       "origin": "ORD",
       "destination": "DFW",
@@ -3212,6 +3587,36 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDSUFIcgUSA0xBWEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-20T18:52:07.657616+00:00"
+    },
+    {
+      "id": "LAX-MCO-2026-09-21-10:15-18:11-296-322-0",
+      "origin": "LAX",
+      "destination": "MCO",
+      "destinationCity": "Orlando International Airport",
+      "date": "2026-09-21",
+      "departure": "10:15",
+      "arrival": "18:11",
+      "duration": 296,
+      "price": 322,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA01DT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:04.677520+00:00"
+    },
+    {
+      "id": "LAX-MCO-2026-09-21-23:10-07:02-292-322-1",
+      "origin": "LAX",
+      "destination": "MCO",
+      "destinationCity": "Orlando International Airport",
+      "date": "2026-09-21",
+      "departure": "23:10",
+      "arrival": "07:02",
+      "duration": 292,
+      "price": 322,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA01DT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:04.677545+00:00"
     },
     {
       "id": "ORD-RSW-2026-09-21-07:15-11:21-186-322-0",
@@ -3574,6 +3979,36 @@
       "updatedAt": "2026-09-20T04:59:16.230253+00:00"
     },
     {
+      "id": "LAX-HNL-2026-09-21-13:25-16:21-356-329-0",
+      "origin": "LAX",
+      "destination": "HNL",
+      "destinationCity": "Daniel K. Inouye International Airport",
+      "date": "2026-09-21",
+      "departure": "13:25",
+      "arrival": "16:21",
+      "duration": 356,
+      "price": 329,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0hOTEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:52.952731+00:00"
+    },
+    {
+      "id": "LAX-HNL-2026-09-21-17:27-20:10-343-329-1",
+      "origin": "LAX",
+      "destination": "HNL",
+      "destinationCity": "Daniel K. Inouye International Airport",
+      "date": "2026-09-21",
+      "departure": "17:27",
+      "arrival": "20:10",
+      "duration": 343,
+      "price": 329,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0hOTEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:52.952758+00:00"
+    },
+    {
       "id": "ORD-SAT-2026-09-21-08:45-11:52-187-329-0",
       "origin": "ORD",
       "destination": "SAT",
@@ -3722,6 +4157,81 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDT1JEcgUSA0ZMTEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-20T04:58:57.181784+00:00"
+    },
+    {
+      "id": "LAX-LIH-2026-09-21-08:43-11:48-365-332-0",
+      "origin": "LAX",
+      "destination": "LIH",
+      "destinationCity": "Lihue Airport",
+      "date": "2026-09-21",
+      "departure": "08:43",
+      "arrival": "11:48",
+      "duration": 365,
+      "price": 332,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0xJSEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:01.663173+00:00"
+    },
+    {
+      "id": "LAX-SEA-2026-09-21-08:20-11:24-184-333-0",
+      "origin": "LAX",
+      "destination": "SEA",
+      "destinationCity": "Seattle-Tacoma International Airport",
+      "date": "2026-09-21",
+      "departure": "08:20",
+      "arrival": "11:24",
+      "duration": 184,
+      "price": 333,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NFQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:32.042119+00:00"
+    },
+    {
+      "id": "LAX-SEA-2026-09-21-12:50-15:45-175-333-1",
+      "origin": "LAX",
+      "destination": "SEA",
+      "destinationCity": "Seattle-Tacoma International Airport",
+      "date": "2026-09-21",
+      "departure": "12:50",
+      "arrival": "15:45",
+      "duration": 175,
+      "price": 333,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NFQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:32.042145+00:00"
+    },
+    {
+      "id": "LAX-SEA-2026-09-21-16:15-19:14-179-333-2",
+      "origin": "LAX",
+      "destination": "SEA",
+      "destinationCity": "Seattle-Tacoma International Airport",
+      "date": "2026-09-21",
+      "departure": "16:15",
+      "arrival": "19:14",
+      "duration": 179,
+      "price": 333,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NFQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:32.042150+00:00"
+    },
+    {
+      "id": "LAX-SEA-2026-09-21-19:00-21:51-171-333-3",
+      "origin": "LAX",
+      "destination": "SEA",
+      "destinationCity": "Seattle-Tacoma International Airport",
+      "date": "2026-09-21",
+      "departure": "19:00",
+      "arrival": "21:51",
+      "duration": 171,
+      "price": 333,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NFQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:32.042154+00:00"
     },
     {
       "id": "ORD-ABQ-2026-09-21-08:42-10:58-196-333-0",
@@ -4099,6 +4609,21 @@
       "updatedAt": "2026-09-20T04:59:22.873437+00:00"
     },
     {
+      "id": "LAX-MSO-2026-09-21-18:49-22:30-161-347-0",
+      "origin": "LAX",
+      "destination": "MSO",
+      "destinationCity": "Missoula Montana Airport",
+      "date": "2026-09-21",
+      "departure": "18:49",
+      "arrival": "22:30",
+      "duration": 161,
+      "price": 347,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA01TT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:10.628300+00:00"
+    },
+    {
       "id": "IAD-DFW-2026-09-21-18:00-20:24-204-348-0",
       "origin": "IAD",
       "destination": "DFW",
@@ -4382,6 +4907,36 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDREVOcgUSA1BITEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-20T16:13:04.788577+00:00"
+    },
+    {
+      "id": "LAX-MRY-2026-09-21-10:25-11:48-83-359-0",
+      "origin": "LAX",
+      "destination": "MRY",
+      "destinationCity": "Monterey Regional Airport",
+      "date": "2026-09-21",
+      "departure": "10:25",
+      "arrival": "11:48",
+      "duration": 83,
+      "price": 359,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA01SWUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:09.429918+00:00"
+    },
+    {
+      "id": "LAX-MRY-2026-09-21-16:45-17:58-73-359-1",
+      "origin": "LAX",
+      "destination": "MRY",
+      "destinationCity": "Monterey Regional Airport",
+      "date": "2026-09-21",
+      "departure": "16:45",
+      "arrival": "17:58",
+      "duration": 73,
+      "price": 359,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA01SWUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:09.429944+00:00"
     },
     {
       "id": "ORD-AUS-2026-09-21-09:22-12:20-178-359-2",
@@ -6904,6 +7459,66 @@
       "updatedAt": "2026-09-20T18:51:47.804899+00:00"
     },
     {
+      "id": "LAX-IAH-2026-09-21-08:15-13:40-205-403-0",
+      "origin": "LAX",
+      "destination": "IAH",
+      "destinationCity": "George Bush Intercontinental Airport",
+      "date": "2026-09-21",
+      "departure": "08:15",
+      "arrival": "13:40",
+      "duration": 205,
+      "price": 403,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0lBSEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:54.651136+00:00"
+    },
+    {
+      "id": "LAX-IAH-2026-09-21-10:10-15:36-206-403-1",
+      "origin": "LAX",
+      "destination": "IAH",
+      "destinationCity": "George Bush Intercontinental Airport",
+      "date": "2026-09-21",
+      "departure": "10:10",
+      "arrival": "15:36",
+      "duration": 206,
+      "price": 403,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0lBSEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:54.651163+00:00"
+    },
+    {
+      "id": "LAX-IAH-2026-09-21-11:40-17:06-206-403-2",
+      "origin": "LAX",
+      "destination": "IAH",
+      "destinationCity": "George Bush Intercontinental Airport",
+      "date": "2026-09-21",
+      "departure": "11:40",
+      "arrival": "17:06",
+      "duration": 206,
+      "price": 403,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0lBSEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:54.651167+00:00"
+    },
+    {
+      "id": "LAX-IAH-2026-09-21-13:15-18:41-206-403-3",
+      "origin": "LAX",
+      "destination": "IAH",
+      "destinationCity": "George Bush Intercontinental Airport",
+      "date": "2026-09-21",
+      "departure": "13:15",
+      "arrival": "18:41",
+      "duration": 206,
+      "price": 403,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0lBSEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:54.651171+00:00"
+    },
+    {
       "id": "ORD-ATL-2026-09-21-14:10-17:23-133-403-1",
       "origin": "ORD",
       "destination": "ATL",
@@ -8104,6 +8719,36 @@
       "updatedAt": "2026-09-20T16:12:52.024881+00:00"
     },
     {
+      "id": "IAH-TUL-2026-09-21-18:20-20:02-102-421-0",
+      "origin": "IAH",
+      "destination": "TUL",
+      "destinationCity": "Tulsa International Airport",
+      "date": "2026-09-21",
+      "departure": "18:20",
+      "arrival": "20:02",
+      "duration": 102,
+      "price": 421,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDSUFIcgUSA1RVTEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:12.203256+00:00"
+    },
+    {
+      "id": "IAH-TUL-2026-09-21-19:50-21:32-102-421-1",
+      "origin": "IAH",
+      "destination": "TUL",
+      "destinationCity": "Tulsa International Airport",
+      "date": "2026-09-21",
+      "departure": "19:50",
+      "arrival": "21:32",
+      "duration": 102,
+      "price": 421,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDSUFIcgUSA1RVTEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:12.203283+00:00"
+    },
+    {
       "id": "EWR-PHX-2026-09-21-06:30-08:37-307-422-0",
       "origin": "EWR",
       "destination": "PHX",
@@ -8479,6 +9124,36 @@
       "updatedAt": "2026-09-20T00:11:21.484443+00:00"
     },
     {
+      "id": "LAX-RNO-2026-09-21-09:17-10:56-99-427-0",
+      "origin": "LAX",
+      "destination": "RNO",
+      "destinationCity": "Reno-Tahoe International Airport",
+      "date": "2026-09-21",
+      "departure": "09:17",
+      "arrival": "10:56",
+      "duration": 99,
+      "price": 427,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1JOT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:26.211908+00:00"
+    },
+    {
+      "id": "LAX-RNO-2026-09-21-16:22-17:50-88-427-1",
+      "origin": "LAX",
+      "destination": "RNO",
+      "destinationCity": "Reno-Tahoe International Airport",
+      "date": "2026-09-21",
+      "departure": "16:22",
+      "arrival": "17:50",
+      "duration": 88,
+      "price": 427,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1JOT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:26.211936+00:00"
+    },
+    {
       "id": "ORD-BDL-2026-09-21-18:15-21:38-143-427-1",
       "origin": "ORD",
       "destination": "BDL",
@@ -8824,6 +9499,51 @@
       "updatedAt": "2026-09-20T11:32:13.578097+00:00"
     },
     {
+      "id": "LAX-BOS-2026-09-21-08:39-17:20-341-435-0",
+      "origin": "LAX",
+      "destination": "BOS",
+      "destinationCity": "Boston Logan International Airport",
+      "date": "2026-09-21",
+      "departure": "08:39",
+      "arrival": "17:20",
+      "duration": 341,
+      "price": 435,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0JPU0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:26.704182+00:00"
+    },
+    {
+      "id": "LAX-BOS-2026-09-21-12:50-21:29-339-435-1",
+      "origin": "LAX",
+      "destination": "BOS",
+      "destinationCity": "Boston Logan International Airport",
+      "date": "2026-09-21",
+      "departure": "12:50",
+      "arrival": "21:29",
+      "duration": 339,
+      "price": 435,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0JPU0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:26.704208+00:00"
+    },
+    {
+      "id": "LAX-BOS-2026-09-21-23:14-07:53-339-435-2",
+      "origin": "LAX",
+      "destination": "BOS",
+      "destinationCity": "Boston Logan International Airport",
+      "date": "2026-09-21",
+      "departure": "23:14",
+      "arrival": "07:53",
+      "duration": 339,
+      "price": 435,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0JPU0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:26.704212+00:00"
+    },
+    {
       "id": "ORD-FAR-2026-09-21-17:45-19:59-134-435-0",
       "origin": "ORD",
       "destination": "FAR",
@@ -9167,6 +9887,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDSUFIcgUSA1NUTEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-20T18:52:48.177449+00:00"
+    },
+    {
+      "id": "LAX-RDM-2026-09-21-19:08-21:13-125-444-0",
+      "origin": "LAX",
+      "destination": "RDM",
+      "destinationCity": "Redmond Municipal Airport",
+      "date": "2026-09-21",
+      "departure": "19:08",
+      "arrival": "21:13",
+      "duration": 125,
+      "price": 444,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1JETUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:24.408954+00:00"
     },
     {
       "id": "EWR-SAN-2026-09-21-07:00-09:49-349-445-0",
@@ -9814,6 +10549,21 @@
       "updatedAt": "2026-09-20T11:31:36.552941+00:00"
     },
     {
+      "id": "LAX-SLC-2026-09-21-16:23-19:18-115-468-0",
+      "origin": "LAX",
+      "destination": "SLC",
+      "destinationCity": "Salt Lake City International Airport",
+      "date": "2026-09-21",
+      "departure": "16:23",
+      "arrival": "19:18",
+      "duration": 115,
+      "price": 468,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NMQ0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:35.134712+00:00"
+    },
+    {
       "id": "ORD-DTW-2026-09-21-06:59-09:32-93-468-2",
       "origin": "ORD",
       "destination": "DTW",
@@ -10219,6 +10969,96 @@
       "updatedAt": "2026-09-20T11:31:35.895435+00:00"
     },
     {
+      "id": "IAH-TPA-2026-09-21-07:20-10:41-141-474-0",
+      "origin": "IAH",
+      "destination": "TPA",
+      "destinationCity": "Tampa International Airport",
+      "date": "2026-09-21",
+      "departure": "07:20",
+      "arrival": "10:41",
+      "duration": 141,
+      "price": 474,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDSUFIcgUSA1RQQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:11.623176+00:00"
+    },
+    {
+      "id": "IAH-TPA-2026-09-21-12:09-15:30-141-474-1",
+      "origin": "IAH",
+      "destination": "TPA",
+      "destinationCity": "Tampa International Airport",
+      "date": "2026-09-21",
+      "departure": "12:09",
+      "arrival": "15:30",
+      "duration": 141,
+      "price": 474,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDSUFIcgUSA1RQQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:11.623205+00:00"
+    },
+    {
+      "id": "IAH-TPA-2026-09-21-18:18-21:36-138-474-2",
+      "origin": "IAH",
+      "destination": "TPA",
+      "destinationCity": "Tampa International Airport",
+      "date": "2026-09-21",
+      "departure": "18:18",
+      "arrival": "21:36",
+      "duration": 138,
+      "price": 474,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDSUFIcgUSA1RQQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:11.623211+00:00"
+    },
+    {
+      "id": "LAX-SAN-2026-09-21-10:35-11:35-60-474-0",
+      "origin": "LAX",
+      "destination": "SAN",
+      "destinationCity": "San Diego International Airport",
+      "date": "2026-09-21",
+      "departure": "10:35",
+      "arrival": "11:35",
+      "duration": 60,
+      "price": 474,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NBTkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:28.550953+00:00"
+    },
+    {
+      "id": "LAX-SAN-2026-09-21-16:30-17:26-56-474-1",
+      "origin": "LAX",
+      "destination": "SAN",
+      "destinationCity": "San Diego International Airport",
+      "date": "2026-09-21",
+      "departure": "16:30",
+      "arrival": "17:26",
+      "duration": 56,
+      "price": 474,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NBTkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:28.550978+00:00"
+    },
+    {
+      "id": "LAX-SAN-2026-09-21-19:06-20:02-56-474-2",
+      "origin": "LAX",
+      "destination": "SAN",
+      "destinationCity": "San Diego International Airport",
+      "date": "2026-09-21",
+      "departure": "19:06",
+      "arrival": "20:02",
+      "duration": 56,
+      "price": 474,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NBTkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:28.550983+00:00"
+    },
+    {
       "id": "IAD-IND-2026-09-21-08:24-10:11-107-477-0",
       "origin": "IAD",
       "destination": "IND",
@@ -10502,6 +11342,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDSUFIcgUSA01TWUIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-20T18:52:20.154534+00:00"
+    },
+    {
+      "id": "LAX-SFO-2026-09-21-07:45-09:18-93-479-7",
+      "origin": "LAX",
+      "destination": "SFO",
+      "destinationCity": "San Francisco International Airport",
+      "date": "2026-09-21",
+      "departure": "07:45",
+      "arrival": "09:18",
+      "duration": 93,
+      "price": 479,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NGT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:32.816946+00:00"
     },
     {
       "id": "ORD-MSP-2026-09-21-12:40-14:19-99-479-3",
@@ -10802,6 +11657,36 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDREVOcgUSA0NQUkIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-20T16:12:20.769228+00:00"
+    },
+    {
+      "id": "LAX-BFL-2026-09-21-10:43-11:40-57-484-0",
+      "origin": "LAX",
+      "destination": "BFL",
+      "destinationCity": "Meadows Field Airport",
+      "date": "2026-09-21",
+      "departure": "10:43",
+      "arrival": "11:40",
+      "duration": 57,
+      "price": 484,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0JGTEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:22.748050+00:00"
+    },
+    {
+      "id": "LAX-PIT-2026-09-21-09:00-16:46-286-487-0",
+      "origin": "LAX",
+      "destination": "PIT",
+      "destinationCity": "Pittsburgh International Airport",
+      "date": "2026-09-21",
+      "departure": "09:00",
+      "arrival": "16:46",
+      "duration": 286,
+      "price": 487,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1BJVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:21.064355+00:00"
     },
     {
       "id": "ORD-TYS-2026-09-21-07:00-09:54-114-487-0",
@@ -11419,6 +12304,96 @@
       "updatedAt": "2026-09-20T18:51:32.593911+00:00"
     },
     {
+      "id": "LAX-FAT-2026-09-21-10:20-11:38-78-489-0",
+      "origin": "LAX",
+      "destination": "FAT",
+      "destinationCity": "Fresno Yosemite International Airport",
+      "date": "2026-09-21",
+      "departure": "10:20",
+      "arrival": "11:38",
+      "duration": 78,
+      "price": 489,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0ZBVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:45.583552+00:00"
+    },
+    {
+      "id": "LAX-SBA-2026-09-21-12:47-13:44-57-489-0",
+      "origin": "LAX",
+      "destination": "SBA",
+      "destinationCity": "Santa Barbara Airport",
+      "date": "2026-09-21",
+      "departure": "12:47",
+      "arrival": "13:44",
+      "duration": 57,
+      "price": 489,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NCQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:30.258605+00:00"
+    },
+    {
+      "id": "LAX-FAT-2026-09-21-16:40-17:47-67-489-1",
+      "origin": "LAX",
+      "destination": "FAT",
+      "destinationCity": "Fresno Yosemite International Airport",
+      "date": "2026-09-21",
+      "departure": "16:40",
+      "arrival": "17:47",
+      "duration": 67,
+      "price": 489,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0ZBVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:45.583579+00:00"
+    },
+    {
+      "id": "LAX-PSP-2026-09-21-18:57-20:00-63-489-0",
+      "origin": "LAX",
+      "destination": "PSP",
+      "destinationCity": "Palm Springs International Airport",
+      "date": "2026-09-21",
+      "departure": "18:57",
+      "arrival": "20:00",
+      "duration": 63,
+      "price": 489,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1BTUEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:22.672689+00:00"
+    },
+    {
+      "id": "LAX-FAT-2026-09-21-20:59-22:11-72-489-2",
+      "origin": "LAX",
+      "destination": "FAT",
+      "destinationCity": "Fresno Yosemite International Airport",
+      "date": "2026-09-21",
+      "departure": "20:59",
+      "arrival": "22:11",
+      "duration": 72,
+      "price": 489,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0ZBVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:45.583583+00:00"
+    },
+    {
+      "id": "LAX-SBA-2026-09-21-20:59-21:56-57-489-1",
+      "origin": "LAX",
+      "destination": "SBA",
+      "destinationCity": "Santa Barbara Airport",
+      "date": "2026-09-21",
+      "departure": "20:59",
+      "arrival": "21:56",
+      "duration": 57,
+      "price": 489,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NCQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:30.258634+00:00"
+    },
+    {
       "id": "ORD-XNA-2026-09-21-08:40-10:44-124-489-3",
       "origin": "ORD",
       "destination": "XNA",
@@ -11537,6 +12512,36 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDREVOcgUSA0RTTUIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-20T16:12:25.158369+00:00"
+    },
+    {
+      "id": "LAX-CLE-2026-09-21-09:00-16:35-275-492-0",
+      "origin": "LAX",
+      "destination": "CLE",
+      "destinationCity": "Cleveland Hopkins International Airport",
+      "date": "2026-09-21",
+      "departure": "09:00",
+      "arrival": "16:35",
+      "duration": 275,
+      "price": 492,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0NMRUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:32.922101+00:00"
+    },
+    {
+      "id": "LAX-CLE-2026-09-21-22:40-06:13-273-492-1",
+      "origin": "LAX",
+      "destination": "CLE",
+      "destinationCity": "Cleveland Hopkins International Airport",
+      "date": "2026-09-21",
+      "departure": "22:40",
+      "arrival": "06:13",
+      "duration": 273,
+      "price": 492,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0NMRUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:32.922127+00:00"
     },
     {
       "id": "IAD-PHX-2026-09-21-18:00-19:54-294-495-0",
@@ -12364,6 +13369,21 @@
       "updatedAt": "2026-09-20T11:31:57.488154+00:00"
     },
     {
+      "id": "IAH-XNA-2026-09-21-09:30-11:04-94-514-0",
+      "origin": "IAH",
+      "destination": "XNA",
+      "destinationCity": "Northwest Arkansas National Airport",
+      "date": "2026-09-21",
+      "departure": "09:30",
+      "arrival": "11:04",
+      "duration": 94,
+      "price": 514,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDSUFIcgUSA1hOQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:15.113159+00:00"
+    },
+    {
       "id": "IAH-LIT-2026-09-21-09:45-11:12-87-514-0",
       "origin": "IAH",
       "destination": "LIT",
@@ -12377,6 +13397,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDSUFIcgUSA0xJVEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-20T18:52:10.066442+00:00"
+    },
+    {
+      "id": "IAH-XNA-2026-09-21-14:32-16:10-98-514-1",
+      "origin": "IAH",
+      "destination": "XNA",
+      "destinationCity": "Northwest Arkansas National Airport",
+      "date": "2026-09-21",
+      "departure": "14:32",
+      "arrival": "16:10",
+      "duration": 98,
+      "price": 514,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDSUFIcgUSA1hOQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:15.113185+00:00"
     },
     {
       "id": "IAH-SAV-2026-09-21-14:55-18:21-146-514-0",
@@ -12409,6 +13444,21 @@
       "updatedAt": "2026-09-20T18:52:10.066465+00:00"
     },
     {
+      "id": "IAH-XNA-2026-09-21-18:20-20:01-101-514-2",
+      "origin": "IAH",
+      "destination": "XNA",
+      "destinationCity": "Northwest Arkansas National Airport",
+      "date": "2026-09-21",
+      "departure": "18:20",
+      "arrival": "20:01",
+      "duration": 101,
+      "price": 514,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDSUFIcgUSA1hOQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:15.113189+00:00"
+    },
+    {
       "id": "IAH-SAV-2026-09-21-18:35-21:59-144-514-1",
       "origin": "IAH",
       "destination": "SAV",
@@ -12437,6 +13487,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDSUFIcgUSA0xJVEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-20T18:52:10.066469+00:00"
+    },
+    {
+      "id": "IAH-XNA-2026-09-21-20:15-21:57-102-514-3",
+      "origin": "IAH",
+      "destination": "XNA",
+      "destinationCity": "Northwest Arkansas National Airport",
+      "date": "2026-09-21",
+      "departure": "20:15",
+      "arrival": "21:57",
+      "duration": 102,
+      "price": 514,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDSUFIcgUSA1hOQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:15.113194+00:00"
     },
     {
       "id": "ORD-SGF-2026-09-21-12:40-14:28-108-514-3",
@@ -13699,6 +14764,21 @@
       "updatedAt": "2026-09-20T18:52:12.025381+00:00"
     },
     {
+      "id": "IAH-TYS-2026-09-21-09:33-12:50-137-539-0",
+      "origin": "IAH",
+      "destination": "TYS",
+      "destinationCity": "McGhee Tyson Airport",
+      "date": "2026-09-21",
+      "departure": "09:33",
+      "arrival": "12:50",
+      "duration": 137,
+      "price": 539,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDSUFIcgUSA1RZU0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:14.038635+00:00"
+    },
+    {
       "id": "IAH-AMA-2026-09-21-09:35-11:24-109-539-0",
       "origin": "IAH",
       "destination": "AMA",
@@ -13909,6 +14989,21 @@
       "updatedAt": "2026-09-20T18:52:12.025419+00:00"
     },
     {
+      "id": "IAH-TYS-2026-09-21-14:55-18:15-140-539-1",
+      "origin": "IAH",
+      "destination": "TYS",
+      "destinationCity": "McGhee Tyson Airport",
+      "date": "2026-09-21",
+      "departure": "14:55",
+      "arrival": "18:15",
+      "duration": 140,
+      "price": 539,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDSUFIcgUSA1RZU0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:14.038662+00:00"
+    },
+    {
       "id": "IAH-HSV-2026-09-21-15:05-17:05-120-539-1",
       "origin": "IAH",
       "destination": "HSV",
@@ -13952,6 +15047,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDSUFIcgUSA1NHRkIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-20T18:52:44.260123+00:00"
+    },
+    {
+      "id": "IAH-TYS-2026-09-21-18:25-21:45-140-539-2",
+      "origin": "IAH",
+      "destination": "TYS",
+      "destinationCity": "McGhee Tyson Airport",
+      "date": "2026-09-21",
+      "departure": "18:25",
+      "arrival": "21:45",
+      "duration": 140,
+      "price": 539,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDSUFIcgUSA1RZU0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:14.038666+00:00"
     },
     {
       "id": "IAH-ICT-2026-09-21-18:30-20:27-117-539-3",
@@ -14899,6 +16009,51 @@
       "updatedAt": "2026-09-20T18:52:35.080380+00:00"
     },
     {
+      "id": "IAH-TUS-2026-09-21-20:28-21:14-166-564-0",
+      "origin": "IAH",
+      "destination": "TUS",
+      "destinationCity": "Tucson International Airport",
+      "date": "2026-09-21",
+      "departure": "20:28",
+      "arrival": "21:14",
+      "duration": 166,
+      "price": 564,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDSUFIcgUSA1RVU0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:12.771907+00:00"
+    },
+    {
+      "id": "LAX-MCI-2026-09-21-10:06-15:39-213-564-0",
+      "origin": "LAX",
+      "destination": "MCI",
+      "destinationCity": "Kansas City International Airport",
+      "date": "2026-09-21",
+      "departure": "10:06",
+      "arrival": "15:39",
+      "duration": 213,
+      "price": 564,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA01DSUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:04.062959+00:00"
+    },
+    {
+      "id": "LAX-BZN-2026-09-21-10:42-14:15-153-564-0",
+      "origin": "LAX",
+      "destination": "BZN",
+      "destinationCity": "Bozeman Yellowstone International Airport",
+      "date": "2026-09-21",
+      "departure": "10:42",
+      "arrival": "14:15",
+      "duration": 153,
+      "price": 564,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0JaTkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:30.160115+00:00"
+    },
+    {
       "id": "ORD-LIT-2026-09-21-13:00-15:01-121-569-2",
       "origin": "ORD",
       "destination": "LIT",
@@ -15077,6 +16232,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDREVOcgUSA0ZMTEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-20T16:12:30.177419+00:00"
+    },
+    {
+      "id": "LAX-IAD-2026-09-21-12:49-20:48-299-584-0",
+      "origin": "LAX",
+      "destination": "IAD",
+      "destinationCity": "Dulles International Airport",
+      "date": "2026-09-21",
+      "departure": "12:49",
+      "arrival": "20:48",
+      "duration": 299,
+      "price": 584,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0lBREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:54.012124+00:00"
     },
     {
       "id": "DEN-SYR-2026-09-21-09:40-15:07-207-589-0",
@@ -16969,6 +18139,21 @@
       "updatedAt": "2026-09-20T18:52:11.283724+00:00"
     },
     {
+      "id": "LAX-SUN-2026-09-21-10:38-13:54-136-649-0",
+      "origin": "LAX",
+      "destination": "SUN",
+      "destinationCity": "Friedman Memorial Airport (SUN)",
+      "date": "2026-09-21",
+      "departure": "10:38",
+      "arrival": "13:54",
+      "duration": 136,
+      "price": 649,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NVTkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:38.592552+00:00"
+    },
+    {
       "id": "IAH-ONT-2026-09-21-20:30-21:59-209-654-0",
       "origin": "IAH",
       "destination": "ONT",
@@ -17522,6 +18707,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDSUFIcgUSA01BRkIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-20T18:52:11.283728+00:00"
+    },
+    {
+      "id": "LAX-PHX-2026-09-21-18:50-20:30-100-699-3",
+      "origin": "LAX",
+      "destination": "PHX",
+      "destinationCity": "Phoenix Sky Harbor International Airport",
+      "date": "2026-09-21",
+      "departure": "18:50",
+      "arrival": "20:30",
+      "duration": 100,
+      "price": 699,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1BIWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:31:20.001720+00:00"
     },
     {
       "id": "ORD-FSD-2026-09-21-12:29-14:20-111-699-3",
@@ -18454,6 +19654,21 @@
       "updatedAt": "2026-09-20T16:12:28.425069+00:00"
     },
     {
+      "id": "IAH-TUS-2026-09-21-09:40-10:20-160-989-1",
+      "origin": "IAH",
+      "destination": "TUS",
+      "destinationCity": "Tucson International Airport",
+      "date": "2026-09-21",
+      "departure": "09:40",
+      "arrival": "10:20",
+      "duration": 160,
+      "price": 989,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDSUFIcgUSA1RVU0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:12.771935+00:00"
+    },
+    {
       "id": "IAH-ATL-2026-09-21-12:07-15:22-135-1000-2",
       "origin": "IAH",
       "destination": "ATL",
@@ -18497,6 +19712,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDSUFEcgUSA09SREIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-20T11:32:06.632933+00:00"
+    },
+    {
+      "id": "LAX-IAD-2026-09-21-08:17-16:23-306-1009-1",
+      "origin": "LAX",
+      "destination": "IAD",
+      "destinationCity": "Dulles International Airport",
+      "date": "2026-09-21",
+      "departure": "08:17",
+      "arrival": "16:23",
+      "duration": 306,
+      "price": 1009,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0lBREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:54.012149+00:00"
     },
     {
       "id": "EWR-SEA-2026-09-21-07:59-11:03-364-1019-3",
@@ -18842,6 +20072,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDREVOcgUSA0JPU0IBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-20T16:12:12.383378+00:00"
+    },
+    {
+      "id": "LAX-IAD-2026-09-21-10:47-18:50-303-1984-2",
+      "origin": "LAX",
+      "destination": "IAD",
+      "destinationCity": "Dulles International Airport",
+      "date": "2026-09-21",
+      "departure": "10:47",
+      "arrival": "18:50",
+      "duration": 303,
+      "price": 1984,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0lBREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-20T22:30:54.012154+00:00"
     },
     {
       "id": "DEN-ANC-2026-09-21-11:30-15:10-340-2103-1",
@@ -25206,6 +26451,1236 @@
       "status": "no_results",
       "flightCount": 0,
       "updatedAt": "2026-09-20T18:52:50.786842+00:00"
+    },
+    "2026-09-21|IAH|TPA": {
+      "date": "2026-09-21",
+      "origin": "IAH",
+      "destination": "TPA",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-09-20T22:30:11.623531+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDSUFIcgUSA1RQQUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|IAH|TUL": {
+      "date": "2026-09-21",
+      "origin": "IAH",
+      "destination": "TUL",
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-09-20T22:30:12.203571+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDSUFIcgUSA1RVTEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|IAH|TUS": {
+      "date": "2026-09-21",
+      "origin": "IAH",
+      "destination": "TUS",
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-09-20T22:30:12.772222+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDSUFIcgUSA1RVU0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|IAH|TVC": {
+      "date": "2026-09-21",
+      "origin": "IAH",
+      "destination": "TVC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:13.533894+00:00"
+    },
+    "2026-09-21|IAH|TYS": {
+      "date": "2026-09-21",
+      "origin": "IAH",
+      "destination": "TYS",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-09-20T22:30:14.038964+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDSUFIcgUSA1RZU0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|IAH|VPS": {
+      "date": "2026-09-21",
+      "origin": "IAH",
+      "destination": "VPS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:14.567126+00:00"
+    },
+    "2026-09-21|IAH|XNA": {
+      "date": "2026-09-21",
+      "origin": "IAH",
+      "destination": "XNA",
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-09-20T22:30:15.113475+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDSUFIcgUSA1hOQUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|ABE": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "ABE",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:15.692989+00:00"
+    },
+    "2026-09-21|LAX|ABQ": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "ABQ",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:16.222446+00:00"
+    },
+    "2026-09-21|LAX|ACK": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "ACK",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:16.888802+00:00"
+    },
+    "2026-09-21|LAX|ALB": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "ALB",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:17.421285+00:00"
+    },
+    "2026-09-21|LAX|AMA": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "AMA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:17.902843+00:00"
+    },
+    "2026-09-21|LAX|ANC": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "ANC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:18.438321+00:00"
+    },
+    "2026-09-21|LAX|ASE": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "ASE",
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-09-20T22:30:19.030208+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0FTRUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|ATL": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "ATL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:19.622979+00:00"
+    },
+    "2026-09-21|LAX|ATW": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "ATW",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:20.179712+00:00"
+    },
+    "2026-09-21|LAX|AUS": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "AUS",
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-09-20T22:30:21.016354+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0FVU0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|AVL": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "AVL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:21.609638+00:00"
+    },
+    "2026-09-21|LAX|BDL": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "BDL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:22.174151+00:00"
+    },
+    "2026-09-21|LAX|BFL": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "BFL",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-09-20T22:30:22.748347+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0JGTEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|BGR": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "BGR",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:23.277966+00:00"
+    },
+    "2026-09-21|LAX|BHM": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "BHM",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:23.813088+00:00"
+    },
+    "2026-09-21|LAX|BIL": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "BIL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:24.407170+00:00"
+    },
+    "2026-09-21|LAX|BIS": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "BIS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:24.975951+00:00"
+    },
+    "2026-09-21|LAX|BNA": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "BNA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:25.541589+00:00"
+    },
+    "2026-09-21|LAX|BOI": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "BOI",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:26.143073+00:00"
+    },
+    "2026-09-21|LAX|BOS": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "BOS",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-09-20T22:30:26.704497+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0JPU0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|BRO": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "BRO",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:27.190003+00:00"
+    },
+    "2026-09-21|LAX|BTR": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "BTR",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:27.799847+00:00"
+    },
+    "2026-09-21|LAX|BTV": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "BTV",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:28.336785+00:00"
+    },
+    "2026-09-21|LAX|BUF": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "BUF",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:28.902007+00:00"
+    },
+    "2026-09-21|LAX|BWI": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "BWI",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:29.546946+00:00"
+    },
+    "2026-09-21|LAX|BZN": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "BZN",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-09-20T22:30:30.160433+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0JaTkIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|CAE": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "CAE",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:30.685286+00:00"
+    },
+    "2026-09-21|LAX|CHA": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "CHA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:31.237797+00:00"
+    },
+    "2026-09-21|LAX|CHS": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "CHS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:31.811068+00:00"
+    },
+    "2026-09-21|LAX|CID": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "CID",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:32.350278+00:00"
+    },
+    "2026-09-21|LAX|CLE": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "CLE",
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-09-20T22:30:32.922411+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0NMRUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|CLT": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "CLT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:33.500628+00:00"
+    },
+    "2026-09-21|LAX|CMH": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "CMH",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-09-20T22:30:34.194559+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0NNSEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|COS": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "COS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:34.799565+00:00"
+    },
+    "2026-09-21|LAX|CPR": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "CPR",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:35.343669+00:00"
+    },
+    "2026-09-21|LAX|CRP": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "CRP",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:35.879055+00:00"
+    },
+    "2026-09-21|LAX|CVG": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "CVG",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:36.387444+00:00"
+    },
+    "2026-09-21|LAX|CWA": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "CWA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:36.916677+00:00"
+    },
+    "2026-09-21|LAX|DCA": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "DCA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:37.468827+00:00"
+    },
+    "2026-09-21|LAX|DFW": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "DFW",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:38.030358+00:00"
+    },
+    "2026-09-21|LAX|DLH": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "DLH",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:38.566377+00:00"
+    },
+    "2026-09-21|LAX|DRO": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "DRO",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:39.120978+00:00"
+    },
+    "2026-09-21|LAX|DSM": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "DSM",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:39.635621+00:00"
+    },
+    "2026-09-21|LAX|DTW": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "DTW",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:40.166833+00:00"
+    },
+    "2026-09-21|LAX|EGE": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "EGE",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:40.793236+00:00"
+    },
+    "2026-09-21|LAX|ELP": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "ELP",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:41.343272+00:00"
+    },
+    "2026-09-21|LAX|EUG": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "EUG",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:41.924955+00:00"
+    },
+    "2026-09-21|LAX|EVV": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "EVV",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:42.457029+00:00"
+    },
+    "2026-09-21|LAX|EWR": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "EWR",
+      "status": "parser_error",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:44.433938+00:00",
+      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+    },
+    "2026-09-21|LAX|FAR": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "FAR",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:44.992189+00:00"
+    },
+    "2026-09-21|LAX|FAT": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "FAT",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-09-20T22:30:45.583886+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0ZBVEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|FLL": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "FLL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:46.209176+00:00"
+    },
+    "2026-09-21|LAX|FSD": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "FSD",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:46.776258+00:00"
+    },
+    "2026-09-21|LAX|FWA": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "FWA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:47.318407+00:00"
+    },
+    "2026-09-21|LAX|GEG": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "GEG",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:47.845321+00:00"
+    },
+    "2026-09-21|LAX|GJT": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "GJT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:48.361928+00:00"
+    },
+    "2026-09-21|LAX|GRB": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "GRB",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:49.063894+00:00"
+    },
+    "2026-09-21|LAX|GRR": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "GRR",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:49.543245+00:00"
+    },
+    "2026-09-21|LAX|GSO": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "GSO",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:50.063528+00:00"
+    },
+    "2026-09-21|LAX|GSP": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "GSP",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:50.678681+00:00"
+    },
+    "2026-09-21|LAX|HDN": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "HDN",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:51.293174+00:00"
+    },
+    "2026-09-21|LAX|HHH": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "HHH",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:51.777698+00:00"
+    },
+    "2026-09-21|LAX|HLN": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "HLN",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:52.321202+00:00"
+    },
+    "2026-09-21|LAX|HNL": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "HNL",
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-09-20T22:30:52.953094+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0hOTEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|HSV": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "HSV",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:53.432967+00:00"
+    },
+    "2026-09-21|LAX|IAD": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "IAD",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-09-20T22:30:54.012445+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0lBREIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|IAH": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "IAH",
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-09-20T22:30:54.651466+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0lBSEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|ICT": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "ICT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:55.149344+00:00"
+    },
+    "2026-09-21|LAX|IDA": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "IDA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:55.773283+00:00"
+    },
+    "2026-09-21|LAX|ILM": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "ILM",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:56.312212+00:00"
+    },
+    "2026-09-21|LAX|IND": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "IND",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:56.845999+00:00"
+    },
+    "2026-09-21|LAX|JAC": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "JAC",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-09-20T22:30:57.471421+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0pBQ0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|JAN": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "JAN",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:58.013061+00:00"
+    },
+    "2026-09-21|LAX|JAX": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "JAX",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:30:58.703324+00:00"
+    },
+    "2026-09-21|LAX|KOA": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "KOA",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-09-20T22:30:59.306893+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0tPQUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|LAS": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "LAS",
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-09-20T22:30:59.942873+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0xBU0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|LBB": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "LBB",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:00.497808+00:00"
+    },
+    "2026-09-21|LAX|LGA": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "LGA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:01.026755+00:00"
+    },
+    "2026-09-21|LAX|LIH": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "LIH",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-09-20T22:31:01.663474+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA0xJSEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|LIT": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "LIT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:02.176180+00:00"
+    },
+    "2026-09-21|LAX|LNK": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "LNK",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:02.790110+00:00"
+    },
+    "2026-09-21|LAX|MAF": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "MAF",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:03.421754+00:00"
+    },
+    "2026-09-21|LAX|MCI": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "MCI",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-09-20T22:31:04.063280+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA01DSUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|MCO": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "MCO",
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-09-20T22:31:04.677842+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA01DT0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|MDT": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "MDT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:05.302984+00:00"
+    },
+    "2026-09-21|LAX|MEM": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "MEM",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:05.863173+00:00"
+    },
+    "2026-09-21|LAX|MFE": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "MFE",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:06.474157+00:00"
+    },
+    "2026-09-21|LAX|MHT": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "MHT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:07.136194+00:00"
+    },
+    "2026-09-21|LAX|MIA": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "MIA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:07.645155+00:00"
+    },
+    "2026-09-21|LAX|MKE": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "MKE",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:08.234609+00:00"
+    },
+    "2026-09-21|LAX|MLI": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "MLI",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:08.828049+00:00"
+    },
+    "2026-09-21|LAX|MRY": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "MRY",
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-09-20T22:31:09.430235+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA01SWUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|MSN": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "MSN",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:09.974385+00:00"
+    },
+    "2026-09-21|LAX|MSO": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "MSO",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-09-20T22:31:10.628609+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA01TT0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|MSP": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "MSP",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:11.181514+00:00"
+    },
+    "2026-09-21|LAX|MSY": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "MSY",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:11.780983+00:00"
+    },
+    "2026-09-21|LAX|MYR": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "MYR",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:12.283480+00:00"
+    },
+    "2026-09-21|LAX|OAK": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "OAK",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:12.814766+00:00"
+    },
+    "2026-09-21|LAX|OGG": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "OGG",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:13.392000+00:00"
+    },
+    "2026-09-21|LAX|OKC": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "OKC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:13.928145+00:00"
+    },
+    "2026-09-21|LAX|OMA": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "OMA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:14.503470+00:00"
+    },
+    "2026-09-21|LAX|ONT": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "ONT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:15.040313+00:00"
+    },
+    "2026-09-21|LAX|ORD": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "ORD",
+      "status": "parser_error",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:17.010615+00:00",
+      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+    },
+    "2026-09-21|LAX|ORF": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "ORF",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:17.652694+00:00"
+    },
+    "2026-09-21|LAX|PBI": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "PBI",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:18.181049+00:00"
+    },
+    "2026-09-21|LAX|PDX": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "PDX",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:18.754153+00:00"
+    },
+    "2026-09-21|LAX|PHL": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "PHL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:19.317703+00:00"
+    },
+    "2026-09-21|LAX|PHX": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "PHX",
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-09-20T22:31:20.002051+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1BIWEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|PIA": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "PIA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:20.557979+00:00"
+    },
+    "2026-09-21|LAX|PIT": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "PIT",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-09-20T22:31:21.064689+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1BJVEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|PNS": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "PNS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:21.639174+00:00"
+    },
+    "2026-09-21|LAX|PSC": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "PSC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:22.171646+00:00"
+    },
+    "2026-09-21|LAX|PSP": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "PSP",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-09-20T22:31:22.673044+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1BTUEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|PWM": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "PWM",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:23.274342+00:00"
+    },
+    "2026-09-21|LAX|RAP": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "RAP",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:23.809204+00:00"
+    },
+    "2026-09-21|LAX|RDM": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "RDM",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-09-20T22:31:24.409252+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1JETUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|RDU": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "RDU",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:24.948981+00:00"
+    },
+    "2026-09-21|LAX|RIC": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "RIC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:25.595377+00:00"
+    },
+    "2026-09-21|LAX|RNO": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "RNO",
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-09-20T22:31:26.212238+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1JOT0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|ROA": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "ROA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:26.739203+00:00"
+    },
+    "2026-09-21|LAX|ROC": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "ROC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:27.309251+00:00"
+    },
+    "2026-09-21|LAX|RSW": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "RSW",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:27.868921+00:00"
+    },
+    "2026-09-21|LAX|SAN": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "SAN",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-09-20T22:31:28.551304+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NBTkIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|SAT": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "SAT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:29.162542+00:00"
+    },
+    "2026-09-21|LAX|SAV": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "SAV",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:29.729993+00:00"
+    },
+    "2026-09-21|LAX|SBA": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "SBA",
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-09-20T22:31:30.258980+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NCQUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|SBN": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "SBN",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:30.781385+00:00"
+    },
+    "2026-09-21|LAX|SDF": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "SDF",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:31.302222+00:00"
+    },
+    "2026-09-21|LAX|SEA": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "SEA",
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-09-20T22:31:32.042446+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NFQUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|SFO": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "SFO",
+      "status": "ok",
+      "flightCount": 8,
+      "updatedAt": "2026-09-20T22:31:32.817279+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NGT0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|SGF": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "SGF",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:33.405712+00:00"
+    },
+    "2026-09-21|LAX|SHV": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "SHV",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:33.990454+00:00"
+    },
+    "2026-09-21|LAX|SJC": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "SJC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:34.575000+00:00"
+    },
+    "2026-09-21|LAX|SLC": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "SLC",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-09-20T22:31:35.135068+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NMQ0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|SMF": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "SMF",
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-09-20T22:31:35.759569+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NNRkIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|SNA": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "SNA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:36.381559+00:00"
+    },
+    "2026-09-21|LAX|SRQ": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "SRQ",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:36.918978+00:00"
+    },
+    "2026-09-21|LAX|STL": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "STL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:37.435634+00:00"
+    },
+    "2026-09-21|LAX|STS": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "STS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:37.990735+00:00"
+    },
+    "2026-09-21|LAX|SUN": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "SUN",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-09-20T22:31:38.592901+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjEoADICVUFqBRIDTEFYcgUSA1NVTkIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-21|LAX|SYR": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "SYR",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:39.119613+00:00"
+    },
+    "2026-09-21|LAX|TLH": {
+      "date": "2026-09-21",
+      "origin": "LAX",
+      "destination": "TLH",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-20T22:31:39.605018+00:00"
     }
   }
 }
