@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-09-28",
-  "generatedAt": "2026-09-27T08:18:09.955843+00:00",
+  "generatedAt": "2026-09-27T14:07:27.815183+00:00",
   "flights": [
     {
       "id": "ORD-LGA-2026-09-28-14:00-17:25-145-223-0",
@@ -109,6 +109,21 @@
       "updatedAt": "2026-09-27T08:17:28.250796+00:00"
     },
     {
+      "id": "IAD-LGA-2026-09-28-22:10-23:30-80-243-0",
+      "origin": "IAD",
+      "destination": "LGA",
+      "destinationCity": "LaGuardia Airport",
+      "date": "2026-09-28",
+      "departure": "22:10",
+      "arrival": "23:30",
+      "duration": 80,
+      "price": 243,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0xHQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:41.230832+00:00"
+    },
+    {
       "id": "ORD-LGA-2026-09-28-06:00-09:15-135-262-7",
       "origin": "ORD",
       "destination": "LGA",
@@ -152,6 +167,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDT1JEcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-27T08:17:09.788444+00:00"
+    },
+    {
+      "id": "IAD-FLL-2026-09-28-08:20-11:03-163-264-0",
+      "origin": "IAD",
+      "destination": "FLL",
+      "destinationCity": "Fort Lauderdale-Hollywood International Airport",
+      "date": "2026-09-28",
+      "departure": "08:20",
+      "arrival": "11:03",
+      "duration": 163,
+      "price": 264,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0ZMTEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:22.276636+00:00"
     },
     {
       "id": "ORD-DTW-2026-09-28-06:55-09:28-93-267-0",
@@ -229,6 +259,21 @@
       "updatedAt": "2026-09-27T08:17:06.848405+00:00"
     },
     {
+      "id": "IAD-BNA-2026-09-28-12:55-13:55-120-268-0",
+      "origin": "IAD",
+      "destination": "BNA",
+      "destinationCity": "Nashville International Airport",
+      "date": "2026-09-28",
+      "departure": "12:55",
+      "arrival": "13:55",
+      "duration": 120,
+      "price": 268,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0JOQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:05:57.894879+00:00"
+    },
+    {
       "id": "ORD-MSY-2026-09-28-20:12-22:45-153-268-0",
       "origin": "ORD",
       "destination": "MSY",
@@ -242,6 +287,51 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDT1JEcgUSA01TWUIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-27T08:17:38.725182+00:00"
+    },
+    {
+      "id": "IAD-TPA-2026-09-28-09:00-11:31-151-269-0",
+      "origin": "IAD",
+      "destination": "TPA",
+      "destinationCity": "Tampa International Airport",
+      "date": "2026-09-28",
+      "departure": "09:00",
+      "arrival": "11:31",
+      "duration": 151,
+      "price": 269,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1RQQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:23.922986+00:00"
+    },
+    {
+      "id": "IAD-TPA-2026-09-28-12:45-15:16-151-269-1",
+      "origin": "IAD",
+      "destination": "TPA",
+      "destinationCity": "Tampa International Airport",
+      "date": "2026-09-28",
+      "departure": "12:45",
+      "arrival": "15:16",
+      "duration": 151,
+      "price": 269,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1RQQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:23.923009+00:00"
+    },
+    {
+      "id": "IAD-TPA-2026-09-28-17:49-20:23-154-269-2",
+      "origin": "IAD",
+      "destination": "TPA",
+      "destinationCity": "Tampa International Airport",
+      "date": "2026-09-28",
+      "departure": "17:49",
+      "arrival": "20:23",
+      "duration": 154,
+      "price": 269,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1RQQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:23.923016+00:00"
     },
     {
       "id": "ORD-ATL-2026-09-28-07:00-10:12-132-269-0",
@@ -527,6 +617,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDT1JEcgUSA01FTUIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-27T08:17:32.904979+00:00"
+    },
+    {
+      "id": "IAD-BNA-2026-09-28-17:37-18:39-122-278-1",
+      "origin": "IAD",
+      "destination": "BNA",
+      "destinationCity": "Nashville International Airport",
+      "date": "2026-09-28",
+      "departure": "17:37",
+      "arrival": "18:39",
+      "duration": 122,
+      "price": 278,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0JOQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:05:57.894901+00:00"
     },
     {
       "id": "ORD-MSP-2026-09-28-07:01-08:41-100-279-0",
@@ -1279,6 +1384,81 @@
       "updatedAt": "2026-09-27T08:18:03.553851+00:00"
     },
     {
+      "id": "IAD-ORD-2026-09-28-06:10-07:25-135-291-0",
+      "origin": "IAD",
+      "destination": "ORD",
+      "destinationCity": "Chicago O'Hare International Airport",
+      "date": "2026-09-28",
+      "departure": "06:10",
+      "arrival": "07:25",
+      "duration": 135,
+      "price": 291,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA09SREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:57.630092+00:00"
+    },
+    {
+      "id": "IAD-ORD-2026-09-28-08:20-09:38-138-291-1",
+      "origin": "IAD",
+      "destination": "ORD",
+      "destinationCity": "Chicago O'Hare International Airport",
+      "date": "2026-09-28",
+      "departure": "08:20",
+      "arrival": "09:38",
+      "duration": 138,
+      "price": 291,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA09SREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:57.630114+00:00"
+    },
+    {
+      "id": "IAD-ORD-2026-09-28-15:47-17:05-138-291-2",
+      "origin": "IAD",
+      "destination": "ORD",
+      "destinationCity": "Chicago O'Hare International Airport",
+      "date": "2026-09-28",
+      "departure": "15:47",
+      "arrival": "17:05",
+      "duration": 138,
+      "price": 291,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA09SREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:57.630122+00:00"
+    },
+    {
+      "id": "IAD-ORD-2026-09-28-17:20-18:41-141-291-3",
+      "origin": "IAD",
+      "destination": "ORD",
+      "destinationCity": "Chicago O'Hare International Airport",
+      "date": "2026-09-28",
+      "departure": "17:20",
+      "arrival": "18:41",
+      "duration": 141,
+      "price": 291,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA09SREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:57.630128+00:00"
+    },
+    {
+      "id": "IAD-ORD-2026-09-28-22:18-23:32-134-291-4",
+      "origin": "IAD",
+      "destination": "ORD",
+      "destinationCity": "Chicago O'Hare International Airport",
+      "date": "2026-09-28",
+      "departure": "22:18",
+      "arrival": "23:32",
+      "duration": 134,
+      "price": 291,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA09SREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:57.630134+00:00"
+    },
+    {
       "id": "ORD-DCA-2026-09-28-05:59-08:54-115-291-0",
       "origin": "ORD",
       "destination": "DCA",
@@ -1472,6 +1652,51 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDT1JEcgUSA0RDQUIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-27T08:17:04.107960+00:00"
+    },
+    {
+      "id": "IAD-CMH-2026-09-28-08:20-09:44-84-292-0",
+      "origin": "IAD",
+      "destination": "CMH",
+      "destinationCity": "John Glenn Columbus International Airport",
+      "date": "2026-09-28",
+      "departure": "08:20",
+      "arrival": "09:44",
+      "duration": 84,
+      "price": 292,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0NNSEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:10.636714+00:00"
+    },
+    {
+      "id": "IAD-CMH-2026-09-28-12:45-14:08-83-292-1",
+      "origin": "IAD",
+      "destination": "CMH",
+      "destinationCity": "John Glenn Columbus International Airport",
+      "date": "2026-09-28",
+      "departure": "12:45",
+      "arrival": "14:08",
+      "duration": 83,
+      "price": 292,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0NNSEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:10.636737+00:00"
+    },
+    {
+      "id": "IAD-CMH-2026-09-28-22:30-23:59-89-292-2",
+      "origin": "IAD",
+      "destination": "CMH",
+      "destinationCity": "John Glenn Columbus International Airport",
+      "date": "2026-09-28",
+      "departure": "22:30",
+      "arrival": "23:59",
+      "duration": 89,
+      "price": 292,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0NNSEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:10.636744+00:00"
     },
     {
       "id": "ORD-TUL-2026-09-28-12:50-14:55-125-292-0",
@@ -2494,6 +2719,51 @@
       "updatedAt": "2026-09-27T00:41:32.145885+00:00"
     },
     {
+      "id": "IAD-EWR-2026-09-28-06:45-07:59-74-320-0",
+      "origin": "IAD",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-09-28",
+      "departure": "06:45",
+      "arrival": "07:59",
+      "duration": 74,
+      "price": 320,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:20.724512+00:00"
+    },
+    {
+      "id": "IAD-EWR-2026-09-28-08:33-09:57-84-320-1",
+      "origin": "IAD",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-09-28",
+      "departure": "08:33",
+      "arrival": "09:57",
+      "duration": 84,
+      "price": 320,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:20.724536+00:00"
+    },
+    {
+      "id": "IAD-EWR-2026-09-28-22:40-23:59-79-320-2",
+      "origin": "IAD",
+      "destination": "EWR",
+      "destinationCity": "Newark Liberty International Airport",
+      "date": "2026-09-28",
+      "departure": "22:40",
+      "arrival": "23:59",
+      "duration": 79,
+      "price": 320,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:20.724543+00:00"
+    },
+    {
       "id": "ORD-CLT-2026-09-28-10:55-14:20-145-320-2",
       "origin": "ORD",
       "destination": "CLT",
@@ -3334,6 +3604,21 @@
       "updatedAt": "2026-09-27T08:16:41.971028+00:00"
     },
     {
+      "id": "IAD-DFW-2026-09-28-08:20-10:38-198-348-0",
+      "origin": "IAD",
+      "destination": "DFW",
+      "destinationCity": "Dallas Fort Worth International Airport",
+      "date": "2026-09-28",
+      "departure": "08:20",
+      "arrival": "10:38",
+      "duration": 198,
+      "price": 348,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0RGV0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:15.181229+00:00"
+    },
+    {
       "id": "EWR-GSO-2026-09-28-12:05-13:53-108-349-0",
       "origin": "EWR",
       "destination": "GSO",
@@ -3724,6 +4009,36 @@
       "updatedAt": "2026-09-27T08:16:59.689300+00:00"
     },
     {
+      "id": "IAD-CVG-2026-09-28-08:15-09:51-96-362-0",
+      "origin": "IAD",
+      "destination": "CVG",
+      "destinationCity": "Cincinnati/Northern Kentucky International Airport",
+      "date": "2026-09-28",
+      "departure": "08:15",
+      "arrival": "09:51",
+      "duration": 96,
+      "price": 362,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0NWR0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:13.349867+00:00"
+    },
+    {
+      "id": "IAD-CVG-2026-09-28-12:35-14:10-95-362-1",
+      "origin": "IAD",
+      "destination": "CVG",
+      "destinationCity": "Cincinnati/Northern Kentucky International Airport",
+      "date": "2026-09-28",
+      "departure": "12:35",
+      "arrival": "14:10",
+      "duration": 95,
+      "price": 362,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0NWR0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:13.349890+00:00"
+    },
+    {
       "id": "ORD-EWR-2026-09-28-09:00-12:26-146-365-5",
       "origin": "ORD",
       "destination": "EWR",
@@ -3752,6 +4067,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDT1JEcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-27T08:17:09.788468+00:00"
+    },
+    {
+      "id": "IAD-MIA-2026-09-28-08:25-11:20-175-369-0",
+      "origin": "IAD",
+      "destination": "MIA",
+      "destinationCity": "Miami International Airport",
+      "date": "2026-09-28",
+      "departure": "08:25",
+      "arrival": "11:20",
+      "duration": 175,
+      "price": 369,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA01JQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:49.294075+00:00"
     },
     {
       "id": "EWR-JAX-2026-09-28-06:00-08:30-150-370-0",
@@ -4384,6 +4714,21 @@
       "updatedAt": "2026-09-27T08:17:56.770117+00:00"
     },
     {
+      "id": "IAD-MHT-2026-09-28-22:16-23:56-100-380-0",
+      "origin": "IAD",
+      "destination": "MHT",
+      "destinationCity": "Manchester-Boston Regional Airport",
+      "date": "2026-09-28",
+      "departure": "22:16",
+      "arrival": "23:56",
+      "duration": 100,
+      "price": 380,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA01IVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:48.628936+00:00"
+    },
+    {
       "id": "ORD-MSN-2026-09-28-15:55-17:08-73-380-0",
       "origin": "ORD",
       "destination": "MSN",
@@ -4757,6 +5102,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDRVdScgUSA1RQQUIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-27T00:41:47.754789+00:00"
+    },
+    {
+      "id": "IAD-ORD-2026-09-28-13:10-14:26-136-387-5",
+      "origin": "IAD",
+      "destination": "ORD",
+      "destinationCity": "Chicago O'Hare International Airport",
+      "date": "2026-09-28",
+      "departure": "13:10",
+      "arrival": "14:26",
+      "duration": 136,
+      "price": 387,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA09SREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:57.630140+00:00"
     },
     {
       "id": "ORD-PIA-2026-09-28-17:45-19:01-76-387-0",
@@ -5329,6 +5689,21 @@
       "updatedAt": "2026-09-27T08:17:04.685606+00:00"
     },
     {
+      "id": "IAD-BNA-2026-09-28-08:32-09:31-119-402-2",
+      "origin": "IAD",
+      "destination": "BNA",
+      "destinationCity": "Nashville International Airport",
+      "date": "2026-09-28",
+      "departure": "08:32",
+      "arrival": "09:31",
+      "duration": 119,
+      "price": 402,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0JOQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:05:57.894909+00:00"
+    },
+    {
       "id": "ORD-PHX-2026-09-28-10:06-12:03-237-403-2",
       "origin": "ORD",
       "destination": "PHX",
@@ -5357,6 +5732,51 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDT1JEcgUSA1BIWEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-27T08:17:44.922564+00:00"
+    },
+    {
+      "id": "IAD-RDU-2026-09-28-08:20-09:34-74-404-0",
+      "origin": "IAD",
+      "destination": "RDU",
+      "destinationCity": "Raleigh-Durham International Airport",
+      "date": "2026-09-28",
+      "departure": "08:20",
+      "arrival": "09:34",
+      "duration": 74,
+      "price": 404,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1JEVUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:06.249424+00:00"
+    },
+    {
+      "id": "IAD-RDU-2026-09-28-18:45-19:58-73-404-1",
+      "origin": "IAD",
+      "destination": "RDU",
+      "destinationCity": "Raleigh-Durham International Airport",
+      "date": "2026-09-28",
+      "departure": "18:45",
+      "arrival": "19:58",
+      "duration": 73,
+      "price": 404,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1JEVUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:06.249447+00:00"
+    },
+    {
+      "id": "IAD-RDU-2026-09-28-22:42-23:59-77-404-2",
+      "origin": "IAD",
+      "destination": "RDU",
+      "destinationCity": "Raleigh-Durham International Airport",
+      "date": "2026-09-28",
+      "departure": "22:42",
+      "arrival": "23:59",
+      "duration": 77,
+      "price": 404,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1JEVUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:06.249455+00:00"
     },
     {
       "id": "ORD-XNA-2026-09-28-08:40-10:39-119-404-0",
@@ -5434,6 +5854,66 @@
       "updatedAt": "2026-09-27T08:17:08.001582+00:00"
     },
     {
+      "id": "IAD-ALB-2026-09-28-09:00-10:27-87-407-0",
+      "origin": "IAD",
+      "destination": "ALB",
+      "destinationCity": "Albany International Airport",
+      "date": "2026-09-28",
+      "departure": "09:00",
+      "arrival": "10:27",
+      "duration": 87,
+      "price": 407,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0FMQkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:05:48.008038+00:00"
+    },
+    {
+      "id": "IAD-ALB-2026-09-28-12:45-14:14-89-407-1",
+      "origin": "IAD",
+      "destination": "ALB",
+      "destinationCity": "Albany International Airport",
+      "date": "2026-09-28",
+      "departure": "12:45",
+      "arrival": "14:14",
+      "duration": 89,
+      "price": 407,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0FMQkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:05:48.008061+00:00"
+    },
+    {
+      "id": "IAD-ALB-2026-09-28-17:15-18:46-91-407-2",
+      "origin": "IAD",
+      "destination": "ALB",
+      "destinationCity": "Albany International Airport",
+      "date": "2026-09-28",
+      "departure": "17:15",
+      "arrival": "18:46",
+      "duration": 91,
+      "price": 407,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0FMQkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:05:48.008073+00:00"
+    },
+    {
+      "id": "IAD-ALB-2026-09-28-22:11-23:44-93-407-3",
+      "origin": "IAD",
+      "destination": "ALB",
+      "destinationCity": "Albany International Airport",
+      "date": "2026-09-28",
+      "departure": "22:11",
+      "arrival": "23:44",
+      "duration": 93,
+      "price": 407,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0FMQkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:05:48.008079+00:00"
+    },
+    {
       "id": "ORD-JAX-2026-09-28-07:05-10:51-166-409-3",
       "origin": "ORD",
       "destination": "JAX",
@@ -5494,6 +5974,21 @@
       "updatedAt": "2026-09-27T00:41:34.324543+00:00"
     },
     {
+      "id": "IAD-CAE-2026-09-28-08:15-09:47-92-415-0",
+      "origin": "IAD",
+      "destination": "CAE",
+      "destinationCity": "Columbia Metropolitan Airport",
+      "date": "2026-09-28",
+      "departure": "08:15",
+      "arrival": "09:47",
+      "duration": 92,
+      "price": 415,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0NBRUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:05.175204+00:00"
+    },
+    {
       "id": "ORD-BHM-2026-09-28-15:35-17:40-125-416-2",
       "origin": "ORD",
       "destination": "BHM",
@@ -5509,6 +6004,156 @@
       "updatedAt": "2026-09-27T08:16:47.244835+00:00"
     },
     {
+      "id": "IAD-BDL-2026-09-28-08:15-09:37-82-417-0",
+      "origin": "IAD",
+      "destination": "BDL",
+      "destinationCity": "Bradley International Airport",
+      "date": "2026-09-28",
+      "departure": "08:15",
+      "arrival": "09:37",
+      "duration": 82,
+      "price": 417,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0JETEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:05:54.340497+00:00"
+    },
+    {
+      "id": "IAD-BDL-2026-09-28-22:27-23:59-92-417-1",
+      "origin": "IAD",
+      "destination": "BDL",
+      "destinationCity": "Bradley International Airport",
+      "date": "2026-09-28",
+      "departure": "22:27",
+      "arrival": "23:59",
+      "duration": 92,
+      "price": 417,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0JETEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:05:54.340520+00:00"
+    },
+    {
+      "id": "IAD-BUF-2026-09-28-08:15-09:35-80-418-0",
+      "origin": "IAD",
+      "destination": "BUF",
+      "destinationCity": "Buffalo Niagara International Airport",
+      "date": "2026-09-28",
+      "departure": "08:15",
+      "arrival": "09:35",
+      "duration": 80,
+      "price": 418,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0JVRkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:03.401599+00:00"
+    },
+    {
+      "id": "IAD-ROC-2026-09-28-08:20-09:42-82-418-0",
+      "origin": "IAD",
+      "destination": "ROC",
+      "destinationCity": "Frederick Douglass Greater Rochester International Airport",
+      "date": "2026-09-28",
+      "departure": "08:20",
+      "arrival": "09:42",
+      "duration": 82,
+      "price": 418,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1JPQ0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:08.826873+00:00"
+    },
+    {
+      "id": "IAD-BUF-2026-09-28-12:55-14:23-88-418-1",
+      "origin": "IAD",
+      "destination": "BUF",
+      "destinationCity": "Buffalo Niagara International Airport",
+      "date": "2026-09-28",
+      "departure": "12:55",
+      "arrival": "14:23",
+      "duration": 88,
+      "price": 418,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0JVRkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:03.401622+00:00"
+    },
+    {
+      "id": "IAD-ROC-2026-09-28-17:30-19:02-92-418-1",
+      "origin": "IAD",
+      "destination": "ROC",
+      "destinationCity": "Frederick Douglass Greater Rochester International Airport",
+      "date": "2026-09-28",
+      "departure": "17:30",
+      "arrival": "19:02",
+      "duration": 92,
+      "price": 418,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1JPQ0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:08.826897+00:00"
+    },
+    {
+      "id": "IAD-BUF-2026-09-28-17:40-19:07-87-418-2",
+      "origin": "IAD",
+      "destination": "BUF",
+      "destinationCity": "Buffalo Niagara International Airport",
+      "date": "2026-09-28",
+      "departure": "17:40",
+      "arrival": "19:07",
+      "duration": 87,
+      "price": 418,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0JVRkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:03.401630+00:00"
+    },
+    {
+      "id": "IAD-ROC-2026-09-28-22:20-23:43-83-418-2",
+      "origin": "IAD",
+      "destination": "ROC",
+      "destinationCity": "Frederick Douglass Greater Rochester International Airport",
+      "date": "2026-09-28",
+      "departure": "22:20",
+      "arrival": "23:43",
+      "duration": 83,
+      "price": 418,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1JPQ0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:08.826904+00:00"
+    },
+    {
+      "id": "IAD-BUF-2026-09-28-22:24-23:50-86-418-3",
+      "origin": "IAD",
+      "destination": "BUF",
+      "destinationCity": "Buffalo Niagara International Airport",
+      "date": "2026-09-28",
+      "departure": "22:24",
+      "arrival": "23:50",
+      "duration": 86,
+      "price": 418,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0JVRkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:03.401636+00:00"
+    },
+    {
+      "id": "IAD-DFW-2026-09-28-18:00-20:24-204-419-1",
+      "origin": "IAD",
+      "destination": "DFW",
+      "destinationCity": "Dallas Fort Worth International Airport",
+      "date": "2026-09-28",
+      "departure": "18:00",
+      "arrival": "20:24",
+      "duration": 204,
+      "price": 419,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0RGV0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:15.181253+00:00"
+    },
+    {
       "id": "ORD-DFW-2026-09-28-08:52-11:34-162-419-4",
       "origin": "ORD",
       "destination": "DFW",
@@ -5522,6 +6167,111 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDT1JEcgUSA0RGV0IBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-27T08:17:04.685611+00:00"
+    },
+    {
+      "id": "IAD-LAS-2026-09-28-12:55-14:54-299-420-0",
+      "origin": "IAD",
+      "destination": "LAS",
+      "destinationCity": "Harry Reid International Airport",
+      "date": "2026-09-28",
+      "departure": "12:55",
+      "arrival": "14:54",
+      "duration": 299,
+      "price": 420,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0xBU0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:37.861996+00:00"
+    },
+    {
+      "id": "IAD-LAS-2026-09-28-18:00-20:08-308-420-1",
+      "origin": "IAD",
+      "destination": "LAS",
+      "destinationCity": "Harry Reid International Airport",
+      "date": "2026-09-28",
+      "departure": "18:00",
+      "arrival": "20:08",
+      "duration": 308,
+      "price": 420,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0xBU0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:37.862022+00:00"
+    },
+    {
+      "id": "IAD-ORF-2026-09-28-08:35-09:41-66-422-0",
+      "origin": "IAD",
+      "destination": "ORF",
+      "destinationCity": "Norfolk International Airport",
+      "date": "2026-09-28",
+      "departure": "08:35",
+      "arrival": "09:41",
+      "duration": 66,
+      "price": 422,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA09SRkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:58.225993+00:00"
+    },
+    {
+      "id": "IAD-SDF-2026-09-28-08:35-10:18-103-422-0",
+      "origin": "IAD",
+      "destination": "SDF",
+      "destinationCity": "Louisville Muhammad Ali International Airport",
+      "date": "2026-09-28",
+      "departure": "08:35",
+      "arrival": "10:18",
+      "duration": 103,
+      "price": 422,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NERkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:13.370852+00:00"
+    },
+    {
+      "id": "IAD-SDF-2026-09-28-12:55-14:39-104-422-1",
+      "origin": "IAD",
+      "destination": "SDF",
+      "destinationCity": "Louisville Muhammad Ali International Airport",
+      "date": "2026-09-28",
+      "departure": "12:55",
+      "arrival": "14:39",
+      "duration": 104,
+      "price": 422,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NERkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:13.370875+00:00"
+    },
+    {
+      "id": "IAD-SDF-2026-09-28-17:34-19:24-110-422-2",
+      "origin": "IAD",
+      "destination": "SDF",
+      "destinationCity": "Louisville Muhammad Ali International Airport",
+      "date": "2026-09-28",
+      "departure": "17:34",
+      "arrival": "19:24",
+      "duration": 110,
+      "price": 422,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NERkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:13.370883+00:00"
+    },
+    {
+      "id": "IAD-ORF-2026-09-28-22:37-23:48-71-422-1",
+      "origin": "IAD",
+      "destination": "ORF",
+      "destinationCity": "Norfolk International Airport",
+      "date": "2026-09-28",
+      "departure": "22:37",
+      "arrival": "23:48",
+      "duration": 71,
+      "price": 422,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA09SRkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:58.226017+00:00"
     },
     {
       "id": "ORD-OKC-2026-09-28-09:16-11:54-158-424-2",
@@ -5569,6 +6319,66 @@
       "updatedAt": "2026-09-27T00:41:40.252989+00:00"
     },
     {
+      "id": "IAD-PIT-2026-09-28-08:31-09:37-66-428-0",
+      "origin": "IAD",
+      "destination": "PIT",
+      "destinationCity": "Pittsburgh International Airport",
+      "date": "2026-09-28",
+      "departure": "08:31",
+      "arrival": "09:37",
+      "duration": 66,
+      "price": 428,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1BJVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:01.851921+00:00"
+    },
+    {
+      "id": "IAD-PIT-2026-09-28-13:05-14:12-67-428-1",
+      "origin": "IAD",
+      "destination": "PIT",
+      "destinationCity": "Pittsburgh International Airport",
+      "date": "2026-09-28",
+      "departure": "13:05",
+      "arrival": "14:12",
+      "duration": 67,
+      "price": 428,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1BJVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:01.851943+00:00"
+    },
+    {
+      "id": "IAD-PIT-2026-09-28-17:23-18:37-74-428-2",
+      "origin": "IAD",
+      "destination": "PIT",
+      "destinationCity": "Pittsburgh International Airport",
+      "date": "2026-09-28",
+      "departure": "17:23",
+      "arrival": "18:37",
+      "duration": 74,
+      "price": 428,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1BJVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:01.851950+00:00"
+    },
+    {
+      "id": "IAD-PIT-2026-09-28-22:20-23:30-70-428-3",
+      "origin": "IAD",
+      "destination": "PIT",
+      "destinationCity": "Pittsburgh International Airport",
+      "date": "2026-09-28",
+      "departure": "22:20",
+      "arrival": "23:30",
+      "duration": 70,
+      "price": 428,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1BJVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:01.851957+00:00"
+    },
+    {
       "id": "EWR-MCO-2026-09-28-14:10-17:04-174-429-2",
       "origin": "EWR",
       "destination": "MCO",
@@ -5597,6 +6407,66 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDT1JEcgUSA0lBSEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-27T08:17:21.289130+00:00"
+    },
+    {
+      "id": "IAD-BTV-2026-09-28-08:30-10:07-97-430-0",
+      "origin": "IAD",
+      "destination": "BTV",
+      "destinationCity": "Burlington International Airport",
+      "date": "2026-09-28",
+      "departure": "08:30",
+      "arrival": "10:07",
+      "duration": 97,
+      "price": 430,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0JUVkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:02.634911+00:00"
+    },
+    {
+      "id": "IAD-BTV-2026-09-28-12:29-14:01-92-430-1",
+      "origin": "IAD",
+      "destination": "BTV",
+      "destinationCity": "Burlington International Airport",
+      "date": "2026-09-28",
+      "departure": "12:29",
+      "arrival": "14:01",
+      "duration": 92,
+      "price": 430,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0JUVkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:02.634936+00:00"
+    },
+    {
+      "id": "IAD-BTV-2026-09-28-17:20-19:04-104-430-2",
+      "origin": "IAD",
+      "destination": "BTV",
+      "destinationCity": "Burlington International Airport",
+      "date": "2026-09-28",
+      "departure": "17:20",
+      "arrival": "19:04",
+      "duration": 104,
+      "price": 430,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0JUVkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:02.634944+00:00"
+    },
+    {
+      "id": "IAD-BTV-2026-09-28-22:18-23:59-101-430-3",
+      "origin": "IAD",
+      "destination": "BTV",
+      "destinationCity": "Burlington International Airport",
+      "date": "2026-09-28",
+      "departure": "22:18",
+      "arrival": "23:59",
+      "duration": 101,
+      "price": 430,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0JUVkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:02.634950+00:00"
     },
     {
       "id": "ORD-MLI-2026-09-28-08:50-10:12-82-431-0",
@@ -5657,6 +6527,66 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDT1JEcgUSA01MSUIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-27T08:17:35.838001+00:00"
+    },
+    {
+      "id": "IAD-DTW-2026-09-28-08:25-10:00-95-432-0",
+      "origin": "IAD",
+      "destination": "DTW",
+      "destinationCity": "Detroit Metropolitan Wayne County Airport",
+      "date": "2026-09-28",
+      "departure": "08:25",
+      "arrival": "10:00",
+      "duration": 95,
+      "price": 432,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0RUV0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:17.665840+00:00"
+    },
+    {
+      "id": "IAD-DTW-2026-09-28-12:40-14:16-96-432-1",
+      "origin": "IAD",
+      "destination": "DTW",
+      "destinationCity": "Detroit Metropolitan Wayne County Airport",
+      "date": "2026-09-28",
+      "departure": "12:40",
+      "arrival": "14:16",
+      "duration": 96,
+      "price": 432,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0RUV0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:17.665861+00:00"
+    },
+    {
+      "id": "IAD-DTW-2026-09-28-17:27-19:00-93-432-2",
+      "origin": "IAD",
+      "destination": "DTW",
+      "destinationCity": "Detroit Metropolitan Wayne County Airport",
+      "date": "2026-09-28",
+      "departure": "17:27",
+      "arrival": "19:00",
+      "duration": 93,
+      "price": 432,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0RUV0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:17.665868+00:00"
+    },
+    {
+      "id": "IAD-DTW-2026-09-28-22:25-23:59-94-432-3",
+      "origin": "IAD",
+      "destination": "DTW",
+      "destinationCity": "Detroit Metropolitan Wayne County Airport",
+      "date": "2026-09-28",
+      "departure": "22:25",
+      "arrival": "23:59",
+      "duration": 94,
+      "price": 432,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0RUV0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:17.665875+00:00"
     },
     {
       "id": "ORD-LNK-2026-09-28-08:55-10:59-124-433-0",
@@ -5777,6 +6707,66 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDRVdScgUSA0dSUkIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-27T00:41:00.880102+00:00"
+    },
+    {
+      "id": "IAD-PWM-2026-09-28-08:18-10:02-104-435-0",
+      "origin": "IAD",
+      "destination": "PWM",
+      "destinationCity": "Portland International Jetport",
+      "date": "2026-09-28",
+      "departure": "08:18",
+      "arrival": "10:02",
+      "duration": 104,
+      "price": 435,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1BXTUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:04.520618+00:00"
+    },
+    {
+      "id": "IAD-PWM-2026-09-28-12:47-14:38-111-435-1",
+      "origin": "IAD",
+      "destination": "PWM",
+      "destinationCity": "Portland International Jetport",
+      "date": "2026-09-28",
+      "departure": "12:47",
+      "arrival": "14:38",
+      "duration": 111,
+      "price": 435,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1BXTUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:04.520645+00:00"
+    },
+    {
+      "id": "IAD-PWM-2026-09-28-17:30-19:24-114-435-2",
+      "origin": "IAD",
+      "destination": "PWM",
+      "destinationCity": "Portland International Jetport",
+      "date": "2026-09-28",
+      "departure": "17:30",
+      "arrival": "19:24",
+      "duration": 114,
+      "price": 435,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1BXTUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:04.520654+00:00"
+    },
+    {
+      "id": "IAD-PWM-2026-09-28-22:10-23:59-109-435-3",
+      "origin": "IAD",
+      "destination": "PWM",
+      "destinationCity": "Portland International Jetport",
+      "date": "2026-09-28",
+      "departure": "22:10",
+      "arrival": "23:59",
+      "duration": 109,
+      "price": 435,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1BXTUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:04.520661+00:00"
     },
     {
       "id": "ORD-FAR-2026-09-28-17:45-20:00-135-435-0",
@@ -6049,6 +7039,36 @@
       "updatedAt": "2026-09-27T08:17:41.980289+00:00"
     },
     {
+      "id": "IAD-HSV-2026-09-28-09:00-10:06-126-440-0",
+      "origin": "IAD",
+      "destination": "HSV",
+      "destinationCity": "Huntsville International Airport",
+      "date": "2026-09-28",
+      "departure": "09:00",
+      "arrival": "10:06",
+      "duration": 126,
+      "price": 440,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0hTVkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:30.320108+00:00"
+    },
+    {
+      "id": "IAD-HSV-2026-09-28-22:23-23:30-127-440-1",
+      "origin": "IAD",
+      "destination": "HSV",
+      "destinationCity": "Huntsville International Airport",
+      "date": "2026-09-28",
+      "departure": "22:23",
+      "arrival": "23:30",
+      "duration": 127,
+      "price": 440,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0hTVkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:30.320131+00:00"
+    },
+    {
       "id": "EWR-MIA-2026-09-28-07:00-10:12-192-444-0",
       "origin": "EWR",
       "destination": "MIA",
@@ -6137,6 +7157,171 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDRVdScgUSA0NNSEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-27T00:40:48.091984+00:00"
+    },
+    {
+      "id": "IAD-STL-2026-09-28-08:20-09:41-141-449-0",
+      "origin": "IAD",
+      "destination": "STL",
+      "destinationCity": "St. Louis Lambert International Airport",
+      "date": "2026-09-28",
+      "departure": "08:20",
+      "arrival": "09:41",
+      "duration": 141,
+      "price": 449,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NUTEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:20.978724+00:00"
+    },
+    {
+      "id": "IAD-SYR-2026-09-28-08:25-09:48-83-449-0",
+      "origin": "IAD",
+      "destination": "SYR",
+      "destinationCity": "Syracuse Hancock International Airport",
+      "date": "2026-09-28",
+      "departure": "08:25",
+      "arrival": "09:48",
+      "duration": 83,
+      "price": 449,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NZUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:22.762058+00:00"
+    },
+    {
+      "id": "IAD-ROA-2026-09-28-08:33-09:48-75-449-0",
+      "origin": "IAD",
+      "destination": "ROA",
+      "destinationCity": "Roanoke-Blacksburg Airport",
+      "date": "2026-09-28",
+      "departure": "08:33",
+      "arrival": "09:48",
+      "duration": 75,
+      "price": 449,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1JPQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:08.043012+00:00"
+    },
+    {
+      "id": "IAD-RDU-2026-09-28-12:50-14:07-77-449-3",
+      "origin": "IAD",
+      "destination": "RDU",
+      "destinationCity": "Raleigh-Durham International Airport",
+      "date": "2026-09-28",
+      "departure": "12:50",
+      "arrival": "14:07",
+      "duration": 77,
+      "price": 449,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1JEVUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:06.249461+00:00"
+    },
+    {
+      "id": "IAD-SYR-2026-09-28-12:50-14:18-88-449-1",
+      "origin": "IAD",
+      "destination": "SYR",
+      "destinationCity": "Syracuse Hancock International Airport",
+      "date": "2026-09-28",
+      "departure": "12:50",
+      "arrival": "14:18",
+      "duration": 88,
+      "price": 449,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NZUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:22.762081+00:00"
+    },
+    {
+      "id": "IAD-GSO-2026-09-28-12:55-14:14-79-449-0",
+      "origin": "IAD",
+      "destination": "GSO",
+      "destinationCity": "Piedmont Triad International Airport",
+      "date": "2026-09-28",
+      "departure": "12:55",
+      "arrival": "14:14",
+      "duration": 79,
+      "price": 449,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0dTT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:26.431309+00:00"
+    },
+    {
+      "id": "IAD-SYR-2026-09-28-17:35-19:08-93-449-2",
+      "origin": "IAD",
+      "destination": "SYR",
+      "destinationCity": "Syracuse Hancock International Airport",
+      "date": "2026-09-28",
+      "departure": "17:35",
+      "arrival": "19:08",
+      "duration": 93,
+      "price": 449,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NZUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:22.762088+00:00"
+    },
+    {
+      "id": "IAD-ROA-2026-09-28-17:50-19:07-77-449-1",
+      "origin": "IAD",
+      "destination": "ROA",
+      "destinationCity": "Roanoke-Blacksburg Airport",
+      "date": "2026-09-28",
+      "departure": "17:50",
+      "arrival": "19:07",
+      "duration": 77,
+      "price": 449,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1JPQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:08.043037+00:00"
+    },
+    {
+      "id": "IAD-SYR-2026-09-28-22:17-23:46-89-449-3",
+      "origin": "IAD",
+      "destination": "SYR",
+      "destinationCity": "Syracuse Hancock International Airport",
+      "date": "2026-09-28",
+      "departure": "22:17",
+      "arrival": "23:46",
+      "duration": 89,
+      "price": 449,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NZUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:22.762094+00:00"
+    },
+    {
+      "id": "IAD-GSO-2026-09-28-22:25-23:42-77-449-1",
+      "origin": "IAD",
+      "destination": "GSO",
+      "destinationCity": "Piedmont Triad International Airport",
+      "date": "2026-09-28",
+      "departure": "22:25",
+      "arrival": "23:42",
+      "duration": 77,
+      "price": 449,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0dTT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:26.431332+00:00"
+    },
+    {
+      "id": "IAD-ROA-2026-09-28-22:30-23:44-74-449-2",
+      "origin": "IAD",
+      "destination": "ROA",
+      "destinationCity": "Roanoke-Blacksburg Airport",
+      "date": "2026-09-28",
+      "departure": "22:30",
+      "arrival": "23:44",
+      "duration": 74,
+      "price": 449,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1JPQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:08.043044+00:00"
     },
     {
       "id": "ORD-ABE-2026-09-28-06:25-09:35-130-449-0",
@@ -6257,6 +7442,36 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDRVdScgUSA0NWR0IBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-27T00:40:50.151938+00:00"
+    },
+    {
+      "id": "IAD-MYR-2026-09-28-08:15-09:44-89-452-0",
+      "origin": "IAD",
+      "destination": "MYR",
+      "destinationCity": "Myrtle Beach International Airport",
+      "date": "2026-09-28",
+      "departure": "08:15",
+      "arrival": "09:44",
+      "duration": 89,
+      "price": 452,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA01ZUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:54.244838+00:00"
+    },
+    {
+      "id": "IAD-DFW-2026-09-28-12:35-14:55-200-453-2",
+      "origin": "IAD",
+      "destination": "DFW",
+      "destinationCity": "Dallas Fort Worth International Airport",
+      "date": "2026-09-28",
+      "departure": "12:35",
+      "arrival": "14:55",
+      "duration": 200,
+      "price": 453,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0RGV0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:15.181301+00:00"
     },
     {
       "id": "EWR-SAN-2026-09-28-07:00-09:49-349-455-0",
@@ -6469,6 +7684,36 @@
       "updatedAt": "2026-09-27T08:16:44.290671+00:00"
     },
     {
+      "id": "IAD-GSP-2026-09-28-12:40-14:16-96-465-0",
+      "origin": "IAD",
+      "destination": "GSP",
+      "destinationCity": "Greenville-Spartanburg International Airport",
+      "date": "2026-09-28",
+      "departure": "12:40",
+      "arrival": "14:16",
+      "duration": 96,
+      "price": 465,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0dTUEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:27.009804+00:00"
+    },
+    {
+      "id": "IAD-GSP-2026-09-28-17:20-19:00-100-465-1",
+      "origin": "IAD",
+      "destination": "GSP",
+      "destinationCity": "Greenville-Spartanburg International Airport",
+      "date": "2026-09-28",
+      "departure": "17:20",
+      "arrival": "19:00",
+      "duration": 100,
+      "price": 465,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0dTUEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:27.009827+00:00"
+    },
+    {
       "id": "EWR-DFW-2026-09-28-13:05-15:54-229-466-1",
       "origin": "EWR",
       "destination": "DFW",
@@ -6604,6 +7849,51 @@
       "updatedAt": "2026-09-27T00:40:42.860787+00:00"
     },
     {
+      "id": "IAD-CLT-2026-09-28-08:15-09:44-89-470-0",
+      "origin": "IAD",
+      "destination": "CLT",
+      "destinationCity": "Charlotte Douglas International Airport",
+      "date": "2026-09-28",
+      "departure": "08:15",
+      "arrival": "09:44",
+      "duration": 89,
+      "price": 470,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0NMVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:09.980449+00:00"
+    },
+    {
+      "id": "IAD-CLT-2026-09-28-12:48-14:20-92-470-1",
+      "origin": "IAD",
+      "destination": "CLT",
+      "destinationCity": "Charlotte Douglas International Airport",
+      "date": "2026-09-28",
+      "departure": "12:48",
+      "arrival": "14:20",
+      "duration": 92,
+      "price": 470,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0NMVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:09.980472+00:00"
+    },
+    {
+      "id": "IAD-CLT-2026-09-28-22:25-23:56-91-470-2",
+      "origin": "IAD",
+      "destination": "CLT",
+      "destinationCity": "Charlotte Douglas International Airport",
+      "date": "2026-09-28",
+      "departure": "22:25",
+      "arrival": "23:56",
+      "duration": 91,
+      "price": 470,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0NMVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:09.980479+00:00"
+    },
+    {
       "id": "EWR-PDX-2026-09-28-07:00-09:50-350-472-0",
       "origin": "EWR",
       "destination": "PDX",
@@ -6632,6 +7922,66 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDRVdScgUSA1BEWEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-27T00:41:27.738582+00:00"
+    },
+    {
+      "id": "IAD-TYS-2026-09-28-09:00-10:37-97-472-0",
+      "origin": "IAD",
+      "destination": "TYS",
+      "destinationCity": "McGhee Tyson Airport",
+      "date": "2026-09-28",
+      "departure": "09:00",
+      "arrival": "10:37",
+      "duration": 97,
+      "price": 472,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1RZU0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:26.376231+00:00"
+    },
+    {
+      "id": "IAD-TYS-2026-09-28-12:55-14:42-107-472-1",
+      "origin": "IAD",
+      "destination": "TYS",
+      "destinationCity": "McGhee Tyson Airport",
+      "date": "2026-09-28",
+      "departure": "12:55",
+      "arrival": "14:42",
+      "duration": 107,
+      "price": 472,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1RZU0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:26.376254+00:00"
+    },
+    {
+      "id": "IAD-TYS-2026-09-28-18:37-20:19-102-472-2",
+      "origin": "IAD",
+      "destination": "TYS",
+      "destinationCity": "McGhee Tyson Airport",
+      "date": "2026-09-28",
+      "departure": "18:37",
+      "arrival": "20:19",
+      "duration": 102,
+      "price": 472,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1RZU0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:26.376280+00:00"
+    },
+    {
+      "id": "IAD-TYS-2026-09-28-22:13-23:59-106-472-3",
+      "origin": "IAD",
+      "destination": "TYS",
+      "destinationCity": "McGhee Tyson Airport",
+      "date": "2026-09-28",
+      "departure": "22:13",
+      "arrival": "23:59",
+      "duration": 106,
+      "price": 472,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1RZU0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:26.376287+00:00"
     },
     {
       "id": "EWR-BOS-2026-09-28-10:10-11:24-74-474-1",
@@ -6679,6 +8029,66 @@
       "updatedAt": "2026-09-27T00:41:28.887711+00:00"
     },
     {
+      "id": "IAD-IND-2026-09-28-08:24-10:10-106-477-0",
+      "origin": "IAD",
+      "destination": "IND",
+      "destinationCity": "Indianapolis International Airport",
+      "date": "2026-09-28",
+      "departure": "08:24",
+      "arrival": "10:10",
+      "duration": 106,
+      "price": 477,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0lOREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:34.880456+00:00"
+    },
+    {
+      "id": "IAD-IND-2026-09-28-12:35-14:22-107-477-1",
+      "origin": "IAD",
+      "destination": "IND",
+      "destinationCity": "Indianapolis International Airport",
+      "date": "2026-09-28",
+      "departure": "12:35",
+      "arrival": "14:22",
+      "duration": 107,
+      "price": 477,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0lOREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:34.880479+00:00"
+    },
+    {
+      "id": "IAD-IND-2026-09-28-17:18-19:02-104-477-2",
+      "origin": "IAD",
+      "destination": "IND",
+      "destinationCity": "Indianapolis International Airport",
+      "date": "2026-09-28",
+      "departure": "17:18",
+      "arrival": "19:02",
+      "duration": 104,
+      "price": 477,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0lOREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:34.880486+00:00"
+    },
+    {
+      "id": "IAD-IND-2026-09-28-22:15-23:59-104-477-3",
+      "origin": "IAD",
+      "destination": "IND",
+      "destinationCity": "Indianapolis International Airport",
+      "date": "2026-09-28",
+      "departure": "22:15",
+      "arrival": "23:59",
+      "duration": 104,
+      "price": 477,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0lOREIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:34.880493+00:00"
+    },
+    {
       "id": "EWR-MKE-2026-09-28-09:15-10:48-153-479-0",
       "origin": "EWR",
       "destination": "MKE",
@@ -6722,6 +8132,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDRVdScgUSA01LRUIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-27T00:41:18.992119+00:00"
+    },
+    {
+      "id": "IAD-RSW-2026-09-28-08:28-11:10-162-479-0",
+      "origin": "IAD",
+      "destination": "RSW",
+      "destinationCity": "Southwest Florida International Airport",
+      "date": "2026-09-28",
+      "departure": "08:28",
+      "arrival": "11:10",
+      "duration": 162,
+      "price": 479,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1JTV0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:09.534545+00:00"
     },
     {
       "id": "ORD-STL-2026-09-28-09:15-10:48-93-479-4",
@@ -7024,6 +8449,36 @@
       "updatedAt": "2026-09-27T08:17:05.207316+00:00"
     },
     {
+      "id": "IAD-PHX-2026-09-28-08:51-10:42-291-495-0",
+      "origin": "IAD",
+      "destination": "PHX",
+      "destinationCity": "Phoenix Sky Harbor International Airport",
+      "date": "2026-09-28",
+      "departure": "08:51",
+      "arrival": "10:42",
+      "duration": 291,
+      "price": 495,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1BIWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:00.562886+00:00"
+    },
+    {
+      "id": "IAD-PHX-2026-09-28-18:00-19:54-294-495-1",
+      "origin": "IAD",
+      "destination": "PHX",
+      "destinationCity": "Phoenix Sky Harbor International Airport",
+      "date": "2026-09-28",
+      "departure": "18:00",
+      "arrival": "19:54",
+      "duration": 294,
+      "price": 495,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1BIWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:00.562916+00:00"
+    },
+    {
       "id": "EWR-SEA-2026-09-28-07:50-10:54-364-499-1",
       "origin": "EWR",
       "destination": "SEA",
@@ -7037,6 +8492,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDRVdScgUSA1NFQUIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-27T00:41:40.253008+00:00"
+    },
+    {
+      "id": "IAD-BDL-2026-09-28-17:23-18:56-93-499-2",
+      "origin": "IAD",
+      "destination": "BDL",
+      "destinationCity": "Bradley International Airport",
+      "date": "2026-09-28",
+      "departure": "17:23",
+      "arrival": "18:56",
+      "duration": 93,
+      "price": 499,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0JETEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:05:54.340528+00:00"
     },
     {
       "id": "ORD-BOS-2026-09-28-07:30-11:01-151-499-3",
@@ -7067,6 +8537,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDT1JEcgUSA0JPU0IBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-27T08:16:50.059503+00:00"
+    },
+    {
+      "id": "IAD-STL-2026-09-28-17:55-19:21-146-502-1",
+      "origin": "IAD",
+      "destination": "STL",
+      "destinationCity": "St. Louis Lambert International Airport",
+      "date": "2026-09-28",
+      "departure": "17:55",
+      "arrival": "19:21",
+      "duration": 146,
+      "price": 502,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NUTEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:20.978747+00:00"
     },
     {
       "id": "ORD-ABQ-2026-09-28-08:41-10:58-197-504-1",
@@ -7234,6 +8719,51 @@
       "updatedAt": "2026-09-27T08:16:49.420722+00:00"
     },
     {
+      "id": "IAD-SAV-2026-09-28-09:00-10:55-115-523-0",
+      "origin": "IAD",
+      "destination": "SAV",
+      "destinationCity": "Savannah/Hilton Head International Airport",
+      "date": "2026-09-28",
+      "departure": "09:00",
+      "arrival": "10:55",
+      "duration": 115,
+      "price": 523,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NBVkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:11.434817+00:00"
+    },
+    {
+      "id": "IAD-SAV-2026-09-28-12:45-14:38-113-523-1",
+      "origin": "IAD",
+      "destination": "SAV",
+      "destinationCity": "Savannah/Hilton Head International Airport",
+      "date": "2026-09-28",
+      "departure": "12:45",
+      "arrival": "14:38",
+      "duration": 113,
+      "price": 523,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NBVkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:11.434840+00:00"
+    },
+    {
+      "id": "IAD-SAV-2026-09-28-17:40-19:40-120-523-2",
+      "origin": "IAD",
+      "destination": "SAV",
+      "destinationCity": "Savannah/Hilton Head International Airport",
+      "date": "2026-09-28",
+      "departure": "17:40",
+      "arrival": "19:40",
+      "duration": 120,
+      "price": 523,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NBVkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:11.434847+00:00"
+    },
+    {
       "id": "ORD-TUS-2026-09-28-12:40-14:44-244-527-0",
       "origin": "ORD",
       "destination": "TUS",
@@ -7262,6 +8792,66 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDRVdScgUSA1BIWEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-27T00:41:28.887729+00:00"
+    },
+    {
+      "id": "IAD-SAT-2026-09-28-08:30-11:04-214-530-0",
+      "origin": "IAD",
+      "destination": "SAT",
+      "destinationCity": "San Antonio International Airport",
+      "date": "2026-09-28",
+      "departure": "08:30",
+      "arrival": "11:04",
+      "duration": 214,
+      "price": 530,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NBVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:10.892140+00:00"
+    },
+    {
+      "id": "IAD-SAT-2026-09-28-18:00-20:38-218-530-1",
+      "origin": "IAD",
+      "destination": "SAT",
+      "destinationCity": "San Antonio International Airport",
+      "date": "2026-09-28",
+      "departure": "18:00",
+      "arrival": "20:38",
+      "duration": 218,
+      "price": 530,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NBVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:10.892164+00:00"
+    },
+    {
+      "id": "IAD-JAX-2026-09-28-08:50-11:00-130-532-0",
+      "origin": "IAD",
+      "destination": "JAX",
+      "destinationCity": "Jacksonville International Airport",
+      "date": "2026-09-28",
+      "departure": "08:50",
+      "arrival": "11:00",
+      "duration": 130,
+      "price": 532,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0pBWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:36.762458+00:00"
+    },
+    {
+      "id": "IAD-JAX-2026-09-28-18:45-20:54-129-532-1",
+      "origin": "IAD",
+      "destination": "JAX",
+      "destinationCity": "Jacksonville International Airport",
+      "date": "2026-09-28",
+      "departure": "18:45",
+      "arrival": "20:54",
+      "duration": 129,
+      "price": 532,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0pBWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:36.762481+00:00"
     },
     {
       "id": "EWR-SAT-2026-09-28-08:30-11:41-251-539-0",
@@ -7384,6 +8974,21 @@
       "updatedAt": "2026-09-27T00:41:39.709561+00:00"
     },
     {
+      "id": "IAD-SBN-2026-09-28-18:50-20:36-106-539-0",
+      "origin": "IAD",
+      "destination": "SBN",
+      "destinationCity": "South Bend International Airport",
+      "date": "2026-09-28",
+      "departure": "18:50",
+      "arrival": "20:36",
+      "duration": 106,
+      "price": 539,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NCTkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:12.711313+00:00"
+    },
+    {
       "id": "ORD-ROA-2026-09-28-06:55-09:57-122-539-0",
       "origin": "ORD",
       "destination": "ROA",
@@ -7457,6 +9062,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDT1JEcgUSA1JPQUIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-27T08:17:51.607749+00:00"
+    },
+    {
+      "id": "IAD-MSP-2026-09-28-08:45-10:23-158-540-0",
+      "origin": "IAD",
+      "destination": "MSP",
+      "destinationCity": "Minneapolis-Saint Paul International Airport",
+      "date": "2026-09-28",
+      "departure": "08:45",
+      "arrival": "10:23",
+      "duration": 158,
+      "price": 540,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA01TUEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:53.060964+00:00"
     },
     {
       "id": "EWR-BOS-2026-09-28-07:30-08:47-77-544-3",
@@ -7564,6 +9184,51 @@
       "updatedAt": "2026-09-27T00:40:39.566757+00:00"
     },
     {
+      "id": "IAD-SAN-2026-09-28-09:00-11:25-325-559-0",
+      "origin": "IAD",
+      "destination": "SAN",
+      "destinationCity": "San Diego International Airport",
+      "date": "2026-09-28",
+      "departure": "09:00",
+      "arrival": "11:25",
+      "duration": 325,
+      "price": 559,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NBTkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:10.136962+00:00"
+    },
+    {
+      "id": "IAD-SAN-2026-09-28-12:35-14:57-322-559-1",
+      "origin": "IAD",
+      "destination": "SAN",
+      "destinationCity": "San Diego International Airport",
+      "date": "2026-09-28",
+      "departure": "12:35",
+      "arrival": "14:57",
+      "duration": 322,
+      "price": 559,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NBTkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:10.136984+00:00"
+    },
+    {
+      "id": "IAD-SAN-2026-09-28-18:00-20:29-329-559-2",
+      "origin": "IAD",
+      "destination": "SAN",
+      "destinationCity": "San Diego International Airport",
+      "date": "2026-09-28",
+      "departure": "18:00",
+      "arrival": "20:29",
+      "duration": 329,
+      "price": 559,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NBTkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:10.136992+00:00"
+    },
+    {
       "id": "ORD-EWR-2026-09-28-13:55-17:18-143-559-7",
       "origin": "ORD",
       "destination": "EWR",
@@ -7609,6 +9274,21 @@
       "updatedAt": "2026-09-27T00:41:21.686231+00:00"
     },
     {
+      "id": "IAD-LGA-2026-09-28-08:20-09:44-84-564-1",
+      "origin": "IAD",
+      "destination": "LGA",
+      "destinationCity": "LaGuardia Airport",
+      "date": "2026-09-28",
+      "departure": "08:20",
+      "arrival": "09:44",
+      "duration": 84,
+      "price": 564,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0xHQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:41.230853+00:00"
+    },
+    {
       "id": "EWR-DFW-2026-09-28-17:58-20:49-231-566-2",
       "origin": "EWR",
       "destination": "DFW",
@@ -7652,6 +9332,36 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDT1JEcgUSA0ZTREIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-27T08:17:12.046086+00:00"
+    },
+    {
+      "id": "IAD-SEA-2026-09-28-13:05-15:51-346-594-0",
+      "origin": "IAD",
+      "destination": "SEA",
+      "destinationCity": "Seattle-Tacoma International Airport",
+      "date": "2026-09-28",
+      "departure": "13:05",
+      "arrival": "15:51",
+      "duration": 346,
+      "price": 594,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NFQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:13.982366+00:00"
+    },
+    {
+      "id": "IAD-SEA-2026-09-28-17:45-20:37-352-594-1",
+      "origin": "IAD",
+      "destination": "SEA",
+      "destinationCity": "Seattle-Tacoma International Airport",
+      "date": "2026-09-28",
+      "departure": "17:45",
+      "arrival": "20:37",
+      "duration": 352,
+      "price": 594,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NFQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:13.982389+00:00"
     },
     {
       "id": "EWR-BUF-2026-09-28-13:46-15:10-84-599-3",
@@ -7804,6 +9514,21 @@
       "updatedAt": "2026-09-27T00:41:45.054119+00:00"
     },
     {
+      "id": "IAD-PDX-2026-09-28-17:30-20:10-340-609-0",
+      "origin": "IAD",
+      "destination": "PDX",
+      "destinationCity": "Portland International Airport",
+      "date": "2026-09-28",
+      "departure": "17:30",
+      "arrival": "20:10",
+      "duration": 340,
+      "price": 609,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1BEWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:59.435228+00:00"
+    },
+    {
       "id": "ORD-MSN-2026-09-28-08:45-09:54-69-609-4",
       "origin": "ORD",
       "destination": "MSN",
@@ -7924,6 +9649,21 @@
       "updatedAt": "2026-09-27T00:40:35.263633+00:00"
     },
     {
+      "id": "IAD-SLC-2026-09-28-18:00-20:58-298-619-0",
+      "origin": "IAD",
+      "destination": "SLC",
+      "destinationCity": "Salt Lake City International Airport",
+      "date": "2026-09-28",
+      "departure": "18:00",
+      "arrival": "20:58",
+      "duration": 298,
+      "price": 619,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NMQ0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:18.528244+00:00"
+    },
+    {
       "id": "EWR-BZN-2026-09-28-07:45-10:25-280-624-0",
       "origin": "EWR",
       "destination": "BZN",
@@ -7937,6 +9677,51 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDRVdScgUSA0JaTkIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-27T00:40:44.036973+00:00"
+    },
+    {
+      "id": "IAD-ABQ-2026-09-28-17:40-20:02-262-624-0",
+      "origin": "IAD",
+      "destination": "ABQ",
+      "destinationCity": "Albuquerque International Sunport",
+      "date": "2026-09-28",
+      "departure": "17:40",
+      "arrival": "20:02",
+      "duration": 262,
+      "price": 624,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0FCUUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:05:46.772597+00:00"
+    },
+    {
+      "id": "IAD-SNA-2026-09-28-17:45-20:34-349-624-0",
+      "origin": "IAD",
+      "destination": "SNA",
+      "destinationCity": "John Wayne Airport",
+      "date": "2026-09-28",
+      "departure": "17:45",
+      "arrival": "20:34",
+      "duration": 349,
+      "price": 624,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NOQUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:19.775720+00:00"
+    },
+    {
+      "id": "IAD-SMF-2026-09-28-18:00-20:45-345-624-0",
+      "origin": "IAD",
+      "destination": "SMF",
+      "destinationCity": "Sacramento International Airport",
+      "date": "2026-09-28",
+      "departure": "18:00",
+      "arrival": "20:45",
+      "duration": 345,
+      "price": 624,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NNRkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:19.144622+00:00"
     },
     {
       "id": "ORD-EUG-2026-09-28-09:05-11:50-285-624-0",
@@ -8012,6 +9797,51 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDRVdScgUSA0NIQUIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-27T00:40:45.084004+00:00"
+    },
+    {
+      "id": "IAD-AUS-2026-09-28-08:30-11:01-211-629-0",
+      "origin": "IAD",
+      "destination": "AUS",
+      "destinationCity": "Austin-Bergstrom International Airport",
+      "date": "2026-09-28",
+      "departure": "08:30",
+      "arrival": "11:01",
+      "duration": 211,
+      "price": 629,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0FVU0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:05:53.142475+00:00"
+    },
+    {
+      "id": "IAD-AUS-2026-09-28-12:35-15:05-210-629-1",
+      "origin": "IAD",
+      "destination": "AUS",
+      "destinationCity": "Austin-Bergstrom International Airport",
+      "date": "2026-09-28",
+      "departure": "12:35",
+      "arrival": "15:05",
+      "duration": 210,
+      "price": 629,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0FVU0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:05:53.142499+00:00"
+    },
+    {
+      "id": "IAD-AUS-2026-09-28-17:33-20:07-214-629-2",
+      "origin": "IAD",
+      "destination": "AUS",
+      "destinationCity": "Austin-Bergstrom International Airport",
+      "date": "2026-09-28",
+      "departure": "17:33",
+      "arrival": "20:07",
+      "duration": 214,
+      "price": 629,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0FVU0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:05:53.142506+00:00"
     },
     {
       "id": "EWR-MEM-2026-09-28-13:30-15:16-166-639-1",
@@ -8164,6 +9994,36 @@
       "updatedAt": "2026-09-27T00:41:08.171354+00:00"
     },
     {
+      "id": "IAD-ROC-2026-09-28-12:45-14:05-80-679-3",
+      "origin": "IAD",
+      "destination": "ROC",
+      "destinationCity": "Frederick Douglass Greater Rochester International Airport",
+      "date": "2026-09-28",
+      "departure": "12:45",
+      "arrival": "14:05",
+      "duration": 80,
+      "price": 679,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1JPQ0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:07:08.826910+00:00"
+    },
+    {
+      "id": "IAD-MDT-2026-09-28-12:55-13:59-64-679-0",
+      "origin": "IAD",
+      "destination": "MDT",
+      "destinationCity": "Harrisburg International Airport",
+      "date": "2026-09-28",
+      "departure": "12:55",
+      "arrival": "13:59",
+      "duration": 64,
+      "price": 679,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA01EVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:46.757469+00:00"
+    },
+    {
       "id": "ORD-CID-2026-09-28-13:30-14:50-80-679-0",
       "origin": "ORD",
       "destination": "CID",
@@ -8254,6 +10114,36 @@
       "updatedAt": "2026-09-27T00:41:29.967469+00:00"
     },
     {
+      "id": "IAD-CVG-2026-09-28-17:25-19:00-95-689-2",
+      "origin": "IAD",
+      "destination": "CVG",
+      "destinationCity": "Cincinnati/Northern Kentucky International Airport",
+      "date": "2026-09-28",
+      "departure": "17:25",
+      "arrival": "19:00",
+      "duration": 95,
+      "price": 689,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0NWR0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:13.349897+00:00"
+    },
+    {
+      "id": "IAD-ORF-2026-09-28-17:40-18:53-73-689-2",
+      "origin": "IAD",
+      "destination": "ORF",
+      "destinationCity": "Norfolk International Airport",
+      "date": "2026-09-28",
+      "departure": "17:40",
+      "arrival": "18:53",
+      "duration": 73,
+      "price": 689,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA09SRkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:58.226024+00:00"
+    },
+    {
       "id": "ORD-CMH-2026-09-28-09:16-11:55-99-689-4",
       "origin": "ORD",
       "destination": "CMH",
@@ -8297,6 +10187,36 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDT1JEcgUSA1BITEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-27T08:17:44.287390+00:00"
+    },
+    {
+      "id": "IAD-BDL-2026-09-28-12:40-14:07-87-699-3",
+      "origin": "IAD",
+      "destination": "BDL",
+      "destinationCity": "Bradley International Airport",
+      "date": "2026-09-28",
+      "departure": "12:40",
+      "arrival": "14:07",
+      "duration": 87,
+      "price": 699,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0JETEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:05:54.340533+00:00"
+    },
+    {
+      "id": "IAD-MHT-2026-09-28-17:18-19:01-103-699-1",
+      "origin": "IAD",
+      "destination": "MHT",
+      "destinationCity": "Manchester-Boston Regional Airport",
+      "date": "2026-09-28",
+      "departure": "17:18",
+      "arrival": "19:01",
+      "duration": 103,
+      "price": 699,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA01IVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:48.628959+00:00"
     },
     {
       "id": "ORD-FSD-2026-09-28-12:40-14:28-108-699-2",
@@ -8539,6 +10459,21 @@
       "updatedAt": "2026-09-27T00:41:28.887736+00:00"
     },
     {
+      "id": "IAD-CLT-2026-09-28-17:25-19:00-95-800-3",
+      "origin": "IAD",
+      "destination": "CLT",
+      "destinationCity": "Charlotte Douglas International Airport",
+      "date": "2026-09-28",
+      "departure": "17:25",
+      "arrival": "19:00",
+      "duration": 95,
+      "price": 800,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0NMVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:09.980485+00:00"
+    },
+    {
       "id": "EWR-MCO-2026-09-28-06:30-09:21-171-809-7",
       "origin": "EWR",
       "destination": "MCO",
@@ -8552,6 +10487,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDRVdScgUSA01DT0IBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-27T00:41:15.676270+00:00"
+    },
+    {
+      "id": "IAD-JAX-2026-09-28-12:48-15:02-134-809-2",
+      "origin": "IAD",
+      "destination": "JAX",
+      "destinationCity": "Jacksonville International Airport",
+      "date": "2026-09-28",
+      "departure": "12:48",
+      "arrival": "15:02",
+      "duration": 134,
+      "price": 809,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0pBWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:36.762488+00:00"
     },
     {
       "id": "EWR-SFO-2026-09-28-11:40-14:54-374-829-0",
@@ -8822,6 +10772,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDT1JEcgUSA0xBU0IBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-09-27T08:17:26.503050+00:00"
+    },
+    {
+      "id": "IAD-LAS-2026-09-28-09:00-11:04-304-1979-2",
+      "origin": "IAD",
+      "destination": "LAS",
+      "destinationCity": "Harry Reid International Airport",
+      "date": "2026-09-28",
+      "departure": "09:00",
+      "arrival": "11:04",
+      "duration": 304,
+      "price": 1979,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0xBU0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-09-27T14:06:37.862030+00:00"
     },
     {
       "id": "EWR-LAS-2026-09-28-09:30-12:03-333-1994-1",
@@ -11430,6 +13395,1255 @@
       "flightCount": 4,
       "updatedAt": "2026-09-27T08:18:09.705719+00:00",
       "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDT1JEcgUSA1hOQUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|ABE": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "ABE",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:05:46.170455+00:00"
+    },
+    "2026-09-28|IAD|ABQ": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "ABQ",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-09-27T14:05:46.772781+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0FCUUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|ACK": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "ACK",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:05:47.330639+00:00"
+    },
+    "2026-09-28|IAD|ALB": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "ALB",
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-09-27T14:05:48.008234+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0FMQkIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|AMA": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "AMA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:05:48.645636+00:00"
+    },
+    "2026-09-28|IAD|ANC": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "ANC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:05:49.217053+00:00"
+    },
+    "2026-09-28|IAD|ASE": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "ASE",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:05:49.844813+00:00"
+    },
+    "2026-09-28|IAD|ATL": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "ATL",
+      "status": "parser_error",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:05:51.933221+00:00",
+      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+    },
+    "2026-09-28|IAD|ATW": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "ATW",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:05:52.556863+00:00"
+    },
+    "2026-09-28|IAD|AUS": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "AUS",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-09-27T14:05:53.142662+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0FVU0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|AVL": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "AVL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:05:53.732420+00:00"
+    },
+    "2026-09-28|IAD|BDL": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "BDL",
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-09-27T14:05:54.340698+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0JETEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|BFL": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "BFL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:05:54.932869+00:00"
+    },
+    "2026-09-28|IAD|BGR": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "BGR",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:05:55.464184+00:00"
+    },
+    "2026-09-28|IAD|BHM": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "BHM",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:05:56.015903+00:00"
+    },
+    "2026-09-28|IAD|BIL": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "BIL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:05:56.697381+00:00"
+    },
+    "2026-09-28|IAD|BIS": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "BIS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:05:57.272302+00:00"
+    },
+    "2026-09-28|IAD|BNA": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "BNA",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-09-27T14:05:57.895067+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0JOQUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|BOI": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "BOI",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:05:58.484441+00:00"
+    },
+    "2026-09-28|IAD|BOS": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "BOS",
+      "status": "parser_error",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:00.618073+00:00",
+      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+    },
+    "2026-09-28|IAD|BRO": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "BRO",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:01.219192+00:00"
+    },
+    "2026-09-28|IAD|BTR": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "BTR",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:01.666079+00:00"
+    },
+    "2026-09-28|IAD|BTV": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "BTV",
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-09-27T14:06:02.635117+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0JUVkIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|BUF": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "BUF",
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-09-27T14:06:03.401795+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0JVRkIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|BWI": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "BWI",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:04.008911+00:00"
+    },
+    "2026-09-28|IAD|BZN": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "BZN",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:04.616877+00:00"
+    },
+    "2026-09-28|IAD|CAE": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "CAE",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-09-27T14:06:05.175396+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0NBRUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|CHA": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "CHA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:05.844936+00:00"
+    },
+    "2026-09-28|IAD|CHS": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "CHS",
+      "status": "parser_error",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:07.847873+00:00",
+      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+    },
+    "2026-09-28|IAD|CID": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "CID",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:08.566313+00:00"
+    },
+    "2026-09-28|IAD|CLE": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "CLE",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:09.266892+00:00"
+    },
+    "2026-09-28|IAD|CLT": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "CLT",
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-09-27T14:06:09.980648+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0NMVEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|CMH": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "CMH",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-09-27T14:06:10.636905+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0NNSEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|COS": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "COS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:11.516752+00:00"
+    },
+    "2026-09-28|IAD|CPR": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "CPR",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:12.143637+00:00"
+    },
+    "2026-09-28|IAD|CRP": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "CRP",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:12.772006+00:00"
+    },
+    "2026-09-28|IAD|CVG": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "CVG",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-09-27T14:06:13.350067+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0NWR0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|CWA": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "CWA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:13.995590+00:00"
+    },
+    "2026-09-28|IAD|DCA": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "DCA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:14.546849+00:00"
+    },
+    "2026-09-28|IAD|DFW": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "DFW",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-09-27T14:06:15.181507+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0RGV0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|DLH": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "DLH",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:15.740922+00:00"
+    },
+    "2026-09-28|IAD|DRO": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "DRO",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:16.392730+00:00"
+    },
+    "2026-09-28|IAD|DSM": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "DSM",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:16.986225+00:00"
+    },
+    "2026-09-28|IAD|DTW": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "DTW",
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-09-27T14:06:17.666041+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0RUV0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|EGE": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "EGE",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:18.375384+00:00"
+    },
+    "2026-09-28|IAD|ELP": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "ELP",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:18.863446+00:00"
+    },
+    "2026-09-28|IAD|EUG": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "EUG",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:19.421344+00:00"
+    },
+    "2026-09-28|IAD|EVV": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "EVV",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:20.031250+00:00"
+    },
+    "2026-09-28|IAD|EWR": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "EWR",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-09-27T14:06:20.724718+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0VXUkIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|FAR": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "FAR",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:21.221770+00:00"
+    },
+    "2026-09-28|IAD|FAT": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "FAT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:21.750181+00:00"
+    },
+    "2026-09-28|IAD|FLL": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "FLL",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-09-27T14:06:22.276816+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0ZMTEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|FSD": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "FSD",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:22.797347+00:00"
+    },
+    "2026-09-28|IAD|FWA": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "FWA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:23.477630+00:00"
+    },
+    "2026-09-28|IAD|GEG": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "GEG",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:24.013941+00:00"
+    },
+    "2026-09-28|IAD|GJT": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "GJT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:24.596650+00:00"
+    },
+    "2026-09-28|IAD|GRB": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "GRB",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:25.175533+00:00"
+    },
+    "2026-09-28|IAD|GRR": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "GRR",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:25.850629+00:00"
+    },
+    "2026-09-28|IAD|GSO": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "GSO",
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-09-27T14:06:26.431511+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0dTT0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|GSP": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "GSP",
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-09-27T14:06:27.009994+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0dTUEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|HDN": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "HDN",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:27.580066+00:00"
+    },
+    "2026-09-28|IAD|HHH": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "HHH",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:28.236722+00:00"
+    },
+    "2026-09-28|IAD|HLN": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "HLN",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:28.959791+00:00"
+    },
+    "2026-09-28|IAD|HNL": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "HNL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:29.686640+00:00"
+    },
+    "2026-09-28|IAD|HSV": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "HSV",
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-09-27T14:06:30.320321+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0hTVkIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|IAH": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "IAH",
+      "status": "parser_error",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:32.345523+00:00",
+      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+    },
+    "2026-09-28|IAD|ICT": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "ICT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:33.023190+00:00"
+    },
+    "2026-09-28|IAD|IDA": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "IDA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:33.681649+00:00"
+    },
+    "2026-09-28|IAD|ILM": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "ILM",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:34.293969+00:00"
+    },
+    "2026-09-28|IAD|IND": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "IND",
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-09-27T14:06:34.880667+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0lOREIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|JAC": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "JAC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:35.399138+00:00"
+    },
+    "2026-09-28|IAD|JAN": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "JAN",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:35.978037+00:00"
+    },
+    "2026-09-28|IAD|JAX": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "JAX",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-09-27T14:06:36.762657+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0pBWEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|KOA": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "KOA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:37.330698+00:00"
+    },
+    "2026-09-28|IAD|LAS": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "LAS",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-09-27T14:06:37.862208+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0xBU0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|LAX": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "LAX",
+      "status": "parser_error",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:40.069958+00:00",
+      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+    },
+    "2026-09-28|IAD|LBB": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "LBB",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:40.613425+00:00"
+    },
+    "2026-09-28|IAD|LGA": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "LGA",
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-09-27T14:06:41.231022+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA0xHQUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|LIH": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "LIH",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:41.907984+00:00"
+    },
+    "2026-09-28|IAD|LIT": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "LIT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:42.482078+00:00"
+    },
+    "2026-09-28|IAD|LNK": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "LNK",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:43.142998+00:00"
+    },
+    "2026-09-28|IAD|MAF": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "MAF",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:43.704507+00:00"
+    },
+    "2026-09-28|IAD|MCI": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "MCI",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:44.231498+00:00"
+    },
+    "2026-09-28|IAD|MCO": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "MCO",
+      "status": "parser_error",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:46.164085+00:00",
+      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+    },
+    "2026-09-28|IAD|MDT": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "MDT",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-09-27T14:06:46.757664+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA01EVEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|MEM": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "MEM",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:47.456942+00:00"
+    },
+    "2026-09-28|IAD|MFE": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "MFE",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:48.001209+00:00"
+    },
+    "2026-09-28|IAD|MHT": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "MHT",
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-09-27T14:06:48.629139+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA01IVEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|MIA": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "MIA",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-09-27T14:06:49.294277+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA01JQUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|MKE": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "MKE",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:49.804929+00:00"
+    },
+    "2026-09-28|IAD|MLI": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "MLI",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:50.469095+00:00"
+    },
+    "2026-09-28|IAD|MRY": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "MRY",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:51.144220+00:00"
+    },
+    "2026-09-28|IAD|MSN": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "MSN",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:51.707524+00:00"
+    },
+    "2026-09-28|IAD|MSO": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "MSO",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:52.377044+00:00"
+    },
+    "2026-09-28|IAD|MSP": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "MSP",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-09-27T14:06:53.061156+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA01TUEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|MSY": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "MSY",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:53.574132+00:00"
+    },
+    "2026-09-28|IAD|MYR": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "MYR",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-09-27T14:06:54.245023+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA01ZUkIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|OAK": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "OAK",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:54.803927+00:00"
+    },
+    "2026-09-28|IAD|OGG": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "OGG",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:55.313664+00:00"
+    },
+    "2026-09-28|IAD|OKC": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "OKC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:55.916961+00:00"
+    },
+    "2026-09-28|IAD|OMA": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "OMA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:56.500303+00:00"
+    },
+    "2026-09-28|IAD|ONT": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "ONT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:56.982251+00:00"
+    },
+    "2026-09-28|IAD|ORD": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "ORD",
+      "status": "ok",
+      "flightCount": 6,
+      "updatedAt": "2026-09-27T14:06:57.630349+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA09SREIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|ORF": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "ORF",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-09-27T14:06:58.226202+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA09SRkIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|PBI": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "PBI",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:58.800551+00:00"
+    },
+    "2026-09-28|IAD|PDX": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "PDX",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-09-27T14:06:59.435454+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1BEWEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|PHL": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "PHL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:06:59.948763+00:00"
+    },
+    "2026-09-28|IAD|PHX": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "PHX",
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-09-27T14:07:00.563193+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1BIWEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|PIA": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "PIA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:07:01.174341+00:00"
+    },
+    "2026-09-28|IAD|PIT": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "PIT",
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-09-27T14:07:01.852131+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1BJVEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|PNS": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "PNS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:07:02.557151+00:00"
+    },
+    "2026-09-28|IAD|PSC": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "PSC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:07:03.141358+00:00"
+    },
+    "2026-09-28|IAD|PSP": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "PSP",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:07:03.802511+00:00"
+    },
+    "2026-09-28|IAD|PWM": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "PWM",
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-09-27T14:07:04.520867+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1BXTUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|RAP": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "RAP",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:07:05.085657+00:00"
+    },
+    "2026-09-28|IAD|RDM": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "RDM",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:07:05.615151+00:00"
+    },
+    "2026-09-28|IAD|RDU": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "RDU",
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-09-27T14:07:06.249642+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1JEVUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|RIC": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "RIC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:07:06.725783+00:00"
+    },
+    "2026-09-28|IAD|RNO": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "RNO",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:07:07.412501+00:00"
+    },
+    "2026-09-28|IAD|ROA": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "ROA",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-09-27T14:07:08.043238+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1JPQUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|ROC": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "ROC",
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-09-27T14:07:08.827097+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1JPQ0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|RSW": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "RSW",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-09-27T14:07:09.534752+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1JTV0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|SAN": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "SAN",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-09-27T14:07:10.137183+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NBTkIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|SAT": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "SAT",
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-09-27T14:07:10.892376+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NBVEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|SAV": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "SAV",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-09-27T14:07:11.435047+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NBVkIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|SBA": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "SBA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:07:12.040401+00:00"
+    },
+    "2026-09-28|IAD|SBN": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "SBN",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-09-27T14:07:12.711523+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NCTkIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|SDF": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "SDF",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-09-27T14:07:13.371073+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NERkIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|SEA": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "SEA",
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-09-27T14:07:13.982581+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NFQUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|SFO": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "SFO",
+      "status": "parser_error",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:07:16.173160+00:00",
+      "error": "TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'"
+    },
+    "2026-09-28|IAD|SGF": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "SGF",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:07:16.727707+00:00"
+    },
+    "2026-09-28|IAD|SHV": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "SHV",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:07:17.345509+00:00"
+    },
+    "2026-09-28|IAD|SJC": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "SJC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:07:17.963609+00:00"
+    },
+    "2026-09-28|IAD|SLC": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "SLC",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-09-27T14:07:18.528484+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NMQ0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|SMF": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "SMF",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-09-27T14:07:19.144827+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NNRkIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|SNA": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "SNA",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-09-27T14:07:19.775927+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NOQUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|SRQ": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "SRQ",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:07:20.363555+00:00"
+    },
+    "2026-09-28|IAD|STL": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "STL",
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-09-27T14:07:20.978945+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NUTEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|STS": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "STS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:07:21.607858+00:00"
+    },
+    "2026-09-28|IAD|SUN": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "SUN",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:07:22.192932+00:00"
+    },
+    "2026-09-28|IAD|SYR": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "SYR",
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-09-27T14:07:22.762330+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1NZUkIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|TLH": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "TLH",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:07:23.291778+00:00"
+    },
+    "2026-09-28|IAD|TPA": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "TPA",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-09-27T14:07:23.923209+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1RQQUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|TUL": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "TUL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:07:24.562116+00:00"
+    },
+    "2026-09-28|IAD|TUS": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "TUS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:07:25.113748+00:00"
+    },
+    "2026-09-28|IAD|TVC": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "TVC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:07:25.690504+00:00"
+    },
+    "2026-09-28|IAD|TYS": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "TYS",
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-09-27T14:07:26.376481+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMDktMjgoADICVUFqBRIDSUFEcgUSA1RZU0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-09-28|IAD|VPS": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "VPS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:07:26.964500+00:00"
+    },
+    "2026-09-28|IAD|XNA": {
+      "date": "2026-09-28",
+      "origin": "IAD",
+      "destination": "XNA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-09-27T14:07:27.564852+00:00"
     }
   }
 }
