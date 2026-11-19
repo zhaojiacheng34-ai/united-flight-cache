@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-11-20",
-  "generatedAt": "2026-11-19T00:29:28.194649+00:00",
+  "generatedAt": "2026-11-19T10:28:17.198138+00:00",
   "flights": [
     {
       "id": "EWR-CLE-2026-11-20-07:45-09:33-108-181-0",
@@ -439,6 +439,81 @@
       "updatedAt": "2026-11-19T00:29:06.263466+00:00"
     },
     {
+      "id": "ORD-SDF-2026-11-20-06:59-09:38-99-313-0",
+      "origin": "ORD",
+      "destination": "SDF",
+      "destinationCity": "Louisville Muhammad Ali International Airport",
+      "date": "2026-11-20",
+      "departure": "06:59",
+      "arrival": "09:38",
+      "duration": 99,
+      "price": 313,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA1NERkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:28:04.370669+00:00"
+    },
+    {
+      "id": "ORD-SDF-2026-11-20-18:10-20:52-102-313-1",
+      "origin": "ORD",
+      "destination": "SDF",
+      "destinationCity": "Louisville Muhammad Ali International Airport",
+      "date": "2026-11-20",
+      "departure": "18:10",
+      "arrival": "20:52",
+      "duration": 102,
+      "price": 313,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA1NERkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:28:04.370692+00:00"
+    },
+    {
+      "id": "ORD-SDF-2026-11-20-19:55-22:30-95-313-2",
+      "origin": "ORD",
+      "destination": "SDF",
+      "destinationCity": "Louisville Muhammad Ali International Airport",
+      "date": "2026-11-20",
+      "departure": "19:55",
+      "arrival": "22:30",
+      "duration": 95,
+      "price": 313,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA1NERkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:28:04.370700+00:00"
+    },
+    {
+      "id": "ORD-MCO-2026-11-20-16:20-20:12-172-314-0",
+      "origin": "ORD",
+      "destination": "MCO",
+      "destinationCity": "Orlando International Airport",
+      "date": "2026-11-20",
+      "departure": "16:20",
+      "arrival": "20:12",
+      "duration": 172,
+      "price": 314,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA01DT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:36.804769+00:00"
+    },
+    {
+      "id": "ORD-MCO-2026-11-20-19:45-23:39-174-314-1",
+      "origin": "ORD",
+      "destination": "MCO",
+      "destinationCity": "Orlando International Airport",
+      "date": "2026-11-20",
+      "departure": "19:45",
+      "arrival": "23:39",
+      "duration": 174,
+      "price": 314,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA01DT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:36.804792+00:00"
+    },
+    {
       "id": "EWR-MSY-2026-11-20-09:00-11:31-211-319-0",
       "origin": "EWR",
       "destination": "MSY",
@@ -497,6 +572,291 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDRVdScgUSA01TWUIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-11-19T00:28:50.645630+00:00"
+    },
+    {
+      "id": "ORD-LAX-2026-11-20-05:59-08:35-276-319-0",
+      "origin": "ORD",
+      "destination": "LAX",
+      "destinationCity": "Los Angeles International Airport",
+      "date": "2026-11-20",
+      "departure": "05:59",
+      "arrival": "08:35",
+      "duration": 276,
+      "price": 319,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA0xBWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:31.692294+00:00"
+    },
+    {
+      "id": "ORD-LAX-2026-11-20-07:00-09:35-275-319-1",
+      "origin": "ORD",
+      "destination": "LAX",
+      "destinationCity": "Los Angeles International Airport",
+      "date": "2026-11-20",
+      "departure": "07:00",
+      "arrival": "09:35",
+      "duration": 275,
+      "price": 319,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA0xBWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:31.692316+00:00"
+    },
+    {
+      "id": "ORD-LAX-2026-11-20-14:00-16:40-280-319-2",
+      "origin": "ORD",
+      "destination": "LAX",
+      "destinationCity": "Los Angeles International Airport",
+      "date": "2026-11-20",
+      "departure": "14:00",
+      "arrival": "16:40",
+      "duration": 280,
+      "price": 319,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA0xBWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:31.692324+00:00"
+    },
+    {
+      "id": "ORD-LAX-2026-11-20-15:00-17:35-275-319-3",
+      "origin": "ORD",
+      "destination": "LAX",
+      "destinationCity": "Los Angeles International Airport",
+      "date": "2026-11-20",
+      "departure": "15:00",
+      "arrival": "17:35",
+      "duration": 275,
+      "price": 319,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA0xBWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:31.692331+00:00"
+    },
+    {
+      "id": "ORD-LAX-2026-11-20-15:47-18:27-280-319-4",
+      "origin": "ORD",
+      "destination": "LAX",
+      "destinationCity": "Los Angeles International Airport",
+      "date": "2026-11-20",
+      "departure": "15:47",
+      "arrival": "18:27",
+      "duration": 280,
+      "price": 319,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA0xBWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:31.692337+00:00"
+    },
+    {
+      "id": "ORD-LAX-2026-11-20-16:39-19:17-278-319-5",
+      "origin": "ORD",
+      "destination": "LAX",
+      "destinationCity": "Los Angeles International Airport",
+      "date": "2026-11-20",
+      "departure": "16:39",
+      "arrival": "19:17",
+      "duration": 278,
+      "price": 319,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA0xBWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:31.692343+00:00"
+    },
+    {
+      "id": "ORD-LAX-2026-11-20-17:52-20:29-277-319-6",
+      "origin": "ORD",
+      "destination": "LAX",
+      "destinationCity": "Los Angeles International Airport",
+      "date": "2026-11-20",
+      "departure": "17:52",
+      "arrival": "20:29",
+      "duration": 277,
+      "price": 319,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA0xBWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:31.692348+00:00"
+    },
+    {
+      "id": "ORD-LAX-2026-11-20-20:12-22:56-284-319-7",
+      "origin": "ORD",
+      "destination": "LAX",
+      "destinationCity": "Los Angeles International Airport",
+      "date": "2026-11-20",
+      "departure": "20:12",
+      "arrival": "22:56",
+      "duration": 284,
+      "price": 319,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA0xBWEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:31.692354+00:00"
+    },
+    {
+      "id": "ORD-MKE-2026-11-20-07:29-08:35-66-325-0",
+      "origin": "ORD",
+      "destination": "MKE",
+      "destinationCity": "Milwaukee Mitchell International Airport",
+      "date": "2026-11-20",
+      "departure": "07:29",
+      "arrival": "08:35",
+      "duration": 66,
+      "price": 325,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA01LRUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:40.824670+00:00"
+    },
+    {
+      "id": "ORD-MEM-2026-11-20-08:43-10:50-127-325-0",
+      "origin": "ORD",
+      "destination": "MEM",
+      "destinationCity": "Frederick W. Smith International Airport",
+      "date": "2026-11-20",
+      "departure": "08:43",
+      "arrival": "10:50",
+      "duration": 127,
+      "price": 325,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA01FTUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:38.325594+00:00"
+    },
+    {
+      "id": "ORD-MKE-2026-11-20-09:02-10:13-71-325-1",
+      "origin": "ORD",
+      "destination": "MKE",
+      "destinationCity": "Milwaukee Mitchell International Airport",
+      "date": "2026-11-20",
+      "departure": "09:02",
+      "arrival": "10:13",
+      "duration": 71,
+      "price": 325,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA01LRUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:40.824694+00:00"
+    },
+    {
+      "id": "ORD-MEM-2026-11-20-12:40-14:44-124-325-1",
+      "origin": "ORD",
+      "destination": "MEM",
+      "destinationCity": "Frederick W. Smith International Airport",
+      "date": "2026-11-20",
+      "departure": "12:40",
+      "arrival": "14:44",
+      "duration": 124,
+      "price": 325,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA01FTUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:38.325618+00:00"
+    },
+    {
+      "id": "ORD-MEM-2026-11-20-15:35-17:39-124-325-2",
+      "origin": "ORD",
+      "destination": "MEM",
+      "destinationCity": "Frederick W. Smith International Airport",
+      "date": "2026-11-20",
+      "departure": "15:35",
+      "arrival": "17:39",
+      "duration": 124,
+      "price": 325,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA01FTUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:38.325625+00:00"
+    },
+    {
+      "id": "ORD-MKE-2026-11-20-16:00-17:03-63-325-2",
+      "origin": "ORD",
+      "destination": "MKE",
+      "destinationCity": "Milwaukee Mitchell International Airport",
+      "date": "2026-11-20",
+      "departure": "16:00",
+      "arrival": "17:03",
+      "duration": 63,
+      "price": 325,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA01LRUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:40.824701+00:00"
+    },
+    {
+      "id": "ORD-MKE-2026-11-20-16:40-17:43-63-325-3",
+      "origin": "ORD",
+      "destination": "MKE",
+      "destinationCity": "Milwaukee Mitchell International Airport",
+      "date": "2026-11-20",
+      "departure": "16:40",
+      "arrival": "17:43",
+      "duration": 63,
+      "price": 325,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA01LRUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:40.824707+00:00"
+    },
+    {
+      "id": "ORD-MKE-2026-11-20-17:55-18:58-63-325-4",
+      "origin": "ORD",
+      "destination": "MKE",
+      "destinationCity": "Milwaukee Mitchell International Airport",
+      "date": "2026-11-20",
+      "departure": "17:55",
+      "arrival": "18:58",
+      "duration": 63,
+      "price": 325,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA01LRUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:40.824713+00:00"
+    },
+    {
+      "id": "ORD-MKE-2026-11-20-19:45-20:50-65-325-5",
+      "origin": "ORD",
+      "destination": "MKE",
+      "destinationCity": "Milwaukee Mitchell International Airport",
+      "date": "2026-11-20",
+      "departure": "19:45",
+      "arrival": "20:50",
+      "duration": 65,
+      "price": 325,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA01LRUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:40.824719+00:00"
+    },
+    {
+      "id": "ORD-MKE-2026-11-20-21:20-22:15-55-325-6",
+      "origin": "ORD",
+      "destination": "MKE",
+      "destinationCity": "Milwaukee Mitchell International Airport",
+      "date": "2026-11-20",
+      "departure": "21:20",
+      "arrival": "22:15",
+      "duration": 55,
+      "price": 325,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA01LRUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:40.824725+00:00"
+    },
+    {
+      "id": "ORD-MEM-2026-11-20-21:44-23:44-120-325-3",
+      "origin": "ORD",
+      "destination": "MEM",
+      "destinationCity": "Frederick W. Smith International Airport",
+      "date": "2026-11-20",
+      "departure": "21:44",
+      "arrival": "23:44",
+      "duration": 120,
+      "price": 325,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA01FTUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:38.325631+00:00"
     },
     {
       "id": "EWR-DCA-2026-11-20-17:15-18:43-88-329-4",
@@ -572,6 +932,66 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDRVdScgUSA1JPQ0IBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-11-19T00:29:08.990987+00:00"
+    },
+    {
+      "id": "ORD-SLC-2026-11-20-08:50-11:48-238-333-0",
+      "origin": "ORD",
+      "destination": "SLC",
+      "destinationCity": "Salt Lake City International Airport",
+      "date": "2026-11-20",
+      "departure": "08:50",
+      "arrival": "11:48",
+      "duration": 238,
+      "price": 333,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA1NMQ0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:28:08.218741+00:00"
+    },
+    {
+      "id": "ORD-SLC-2026-11-20-12:40-15:21-221-333-1",
+      "origin": "ORD",
+      "destination": "SLC",
+      "destinationCity": "Salt Lake City International Airport",
+      "date": "2026-11-20",
+      "departure": "12:40",
+      "arrival": "15:21",
+      "duration": 221,
+      "price": 333,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA1NMQ0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:28:08.218763+00:00"
+    },
+    {
+      "id": "ORD-SLC-2026-11-20-19:57-22:39-222-333-2",
+      "origin": "ORD",
+      "destination": "SLC",
+      "destinationCity": "Salt Lake City International Airport",
+      "date": "2026-11-20",
+      "departure": "19:57",
+      "arrival": "22:39",
+      "duration": 222,
+      "price": 333,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA1NMQ0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:28:08.218770+00:00"
+    },
+    {
+      "id": "ORD-BOI-2026-11-20-08:40-11:31-231-340-0",
+      "origin": "ORD",
+      "destination": "BOI",
+      "destinationCity": "Boise Airport",
+      "date": "2026-11-20",
+      "departure": "08:40",
+      "arrival": "11:31",
+      "duration": 231,
+      "price": 340,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA0JPSUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:26:55.619035+00:00"
     },
     {
       "id": "EWR-STL-2026-11-20-07:00-08:53-173-342-0",
@@ -844,6 +1264,36 @@
       "updatedAt": "2026-11-19T00:28:43.090778+00:00"
     },
     {
+      "id": "ORD-OKC-2026-11-20-16:40-19:20-160-347-0",
+      "origin": "ORD",
+      "destination": "OKC",
+      "destinationCity": "Will Rogers International Airport",
+      "date": "2026-11-20",
+      "departure": "16:40",
+      "arrival": "19:20",
+      "duration": 160,
+      "price": 347,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA09LQ0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:47.162466+00:00"
+    },
+    {
+      "id": "ORD-OKC-2026-11-20-21:25-23:54-149-347-1",
+      "origin": "ORD",
+      "destination": "OKC",
+      "destinationCity": "Will Rogers International Airport",
+      "date": "2026-11-20",
+      "departure": "21:25",
+      "arrival": "23:54",
+      "duration": 149,
+      "price": 347,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA09LQ0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:47.162489+00:00"
+    },
+    {
       "id": "EWR-PIT-2026-11-20-14:09-15:42-93-349-5",
       "origin": "EWR",
       "destination": "PIT",
@@ -857,6 +1307,186 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDRVdScgUSA1BJVEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-11-19T00:29:01.419341+00:00"
+    },
+    {
+      "id": "ORD-ICT-2026-11-20-08:56-11:24-148-349-0",
+      "origin": "ORD",
+      "destination": "ICT",
+      "destinationCity": "Wichita Dwight D. Eisenhower National Airport",
+      "date": "2026-11-20",
+      "departure": "08:56",
+      "arrival": "11:24",
+      "duration": 148,
+      "price": 349,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA0lDVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:26.103243+00:00"
+    },
+    {
+      "id": "ORD-ICT-2026-11-20-12:29-14:46-137-349-1",
+      "origin": "ORD",
+      "destination": "ICT",
+      "destinationCity": "Wichita Dwight D. Eisenhower National Airport",
+      "date": "2026-11-20",
+      "departure": "12:29",
+      "arrival": "14:46",
+      "duration": 137,
+      "price": 349,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA0lDVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:26.103266+00:00"
+    },
+    {
+      "id": "ORD-ICT-2026-11-20-21:20-23:25-125-349-2",
+      "origin": "ORD",
+      "destination": "ICT",
+      "destinationCity": "Wichita Dwight D. Eisenhower National Airport",
+      "date": "2026-11-20",
+      "departure": "21:20",
+      "arrival": "23:25",
+      "duration": 125,
+      "price": 349,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA0lDVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:26.103273+00:00"
+    },
+    {
+      "id": "ORD-GRR-2026-11-20-06:59-09:12-73-351-0",
+      "origin": "ORD",
+      "destination": "GRR",
+      "destinationCity": "Gerald R. Ford International Airport",
+      "date": "2026-11-20",
+      "departure": "06:59",
+      "arrival": "09:12",
+      "duration": 73,
+      "price": 351,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA0dSUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:19.522801+00:00"
+    },
+    {
+      "id": "ORD-GRR-2026-11-20-09:00-11:20-80-351-1",
+      "origin": "ORD",
+      "destination": "GRR",
+      "destinationCity": "Gerald R. Ford International Airport",
+      "date": "2026-11-20",
+      "departure": "09:00",
+      "arrival": "11:20",
+      "duration": 80,
+      "price": 351,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA0dSUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:19.522824+00:00"
+    },
+    {
+      "id": "ORD-GRR-2026-11-20-10:42-12:59-77-351-2",
+      "origin": "ORD",
+      "destination": "GRR",
+      "destinationCity": "Gerald R. Ford International Airport",
+      "date": "2026-11-20",
+      "departure": "10:42",
+      "arrival": "12:59",
+      "duration": 77,
+      "price": 351,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA0dSUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:19.522832+00:00"
+    },
+    {
+      "id": "ORD-GRR-2026-11-20-17:57-20:11-74-351-3",
+      "origin": "ORD",
+      "destination": "GRR",
+      "destinationCity": "Gerald R. Ford International Airport",
+      "date": "2026-11-20",
+      "departure": "17:57",
+      "arrival": "20:11",
+      "duration": 74,
+      "price": 351,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA0dSUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:19.522838+00:00"
+    },
+    {
+      "id": "ORD-GRR-2026-11-20-19:50-21:57-67-351-4",
+      "origin": "ORD",
+      "destination": "GRR",
+      "destinationCity": "Gerald R. Ford International Airport",
+      "date": "2026-11-20",
+      "departure": "19:50",
+      "arrival": "21:57",
+      "duration": 67,
+      "price": 351,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA0dSUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:19.522844+00:00"
+    },
+    {
+      "id": "ORD-GRR-2026-11-20-21:50-23:58-68-351-5",
+      "origin": "ORD",
+      "destination": "GRR",
+      "destinationCity": "Gerald R. Ford International Airport",
+      "date": "2026-11-20",
+      "departure": "21:50",
+      "arrival": "23:58",
+      "duration": 68,
+      "price": 351,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA0dSUkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:19.522855+00:00"
+    },
+    {
+      "id": "ORD-MCO-2026-11-20-09:05-13:01-176-364-2",
+      "origin": "ORD",
+      "destination": "MCO",
+      "destinationCity": "Orlando International Airport",
+      "date": "2026-11-20",
+      "departure": "09:05",
+      "arrival": "13:01",
+      "duration": 176,
+      "price": 364,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA01DT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:36.804800+00:00"
+    },
+    {
+      "id": "ORD-MCO-2026-11-20-11:23-15:19-176-364-3",
+      "origin": "ORD",
+      "destination": "MCO",
+      "destinationCity": "Orlando International Airport",
+      "date": "2026-11-20",
+      "departure": "11:23",
+      "arrival": "15:19",
+      "duration": 176,
+      "price": 364,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA01DT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:36.804806+00:00"
+    },
+    {
+      "id": "ORD-MCO-2026-11-20-17:45-21:37-172-364-4",
+      "origin": "ORD",
+      "destination": "MCO",
+      "destinationCity": "Orlando International Airport",
+      "date": "2026-11-20",
+      "departure": "17:45",
+      "arrival": "21:37",
+      "duration": 172,
+      "price": 364,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA01DT0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:36.804813+00:00"
     },
     {
       "id": "EWR-GSO-2026-11-20-10:57-12:59-122-369-0",
@@ -1669,6 +2299,66 @@
       "updatedAt": "2026-11-19T00:28:51.272290+00:00"
     },
     {
+      "id": "ORD-OKC-2026-11-20-08:50-11:40-170-419-2",
+      "origin": "ORD",
+      "destination": "OKC",
+      "destinationCity": "Will Rogers International Airport",
+      "date": "2026-11-20",
+      "departure": "08:50",
+      "arrival": "11:40",
+      "duration": 170,
+      "price": 419,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA09LQ0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:47.162496+00:00"
+    },
+    {
+      "id": "ORD-OKC-2026-11-20-13:30-16:10-160-419-3",
+      "origin": "ORD",
+      "destination": "OKC",
+      "destinationCity": "Will Rogers International Airport",
+      "date": "2026-11-20",
+      "departure": "13:30",
+      "arrival": "16:10",
+      "duration": 160,
+      "price": 419,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA09LQ0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:47.162502+00:00"
+    },
+    {
+      "id": "ORD-BOI-2026-11-20-19:45-22:51-246-419-1",
+      "origin": "ORD",
+      "destination": "BOI",
+      "destinationCity": "Boise Airport",
+      "date": "2026-11-20",
+      "departure": "19:45",
+      "arrival": "22:51",
+      "duration": 246,
+      "price": 419,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA0JPSUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:26:55.619060+00:00"
+    },
+    {
+      "id": "ORD-PHL-2026-11-20-08:50-12:05-135-423-0",
+      "origin": "ORD",
+      "destination": "PHL",
+      "destinationCity": "Philadelphia International Airport",
+      "date": "2026-11-20",
+      "departure": "08:50",
+      "arrival": "12:05",
+      "duration": 135,
+      "price": 423,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA1BITEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:51.047883+00:00"
+    },
+    {
       "id": "EWR-PHX-2026-11-20-17:29-21:10-341-426-0",
       "origin": "EWR",
       "destination": "PHX",
@@ -1892,6 +2582,81 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDRVdScgUSA0ZMTEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-11-19T00:28:22.115910+00:00"
+    },
+    {
+      "id": "ORD-MDT-2026-11-20-06:55-09:53-118-459-0",
+      "origin": "ORD",
+      "destination": "MDT",
+      "destinationCity": "Harrisburg International Airport",
+      "date": "2026-11-20",
+      "departure": "06:55",
+      "arrival": "09:53",
+      "duration": 118,
+      "price": 459,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA01EVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:37.549503+00:00"
+    },
+    {
+      "id": "ORD-RSW-2026-11-20-09:00-13:08-188-459-0",
+      "origin": "ORD",
+      "destination": "RSW",
+      "destinationCity": "Southwest Florida International Airport",
+      "date": "2026-11-20",
+      "departure": "09:00",
+      "arrival": "13:08",
+      "duration": 188,
+      "price": 459,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA1JTV0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:28:00.411455+00:00"
+    },
+    {
+      "id": "ORD-MDT-2026-11-20-13:55-16:54-119-459-1",
+      "origin": "ORD",
+      "destination": "MDT",
+      "destinationCity": "Harrisburg International Airport",
+      "date": "2026-11-20",
+      "departure": "13:55",
+      "arrival": "16:54",
+      "duration": 119,
+      "price": 459,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA01EVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:37.549525+00:00"
+    },
+    {
+      "id": "ORD-MDT-2026-11-20-15:55-18:57-122-459-2",
+      "origin": "ORD",
+      "destination": "MDT",
+      "destinationCity": "Harrisburg International Airport",
+      "date": "2026-11-20",
+      "departure": "15:55",
+      "arrival": "18:57",
+      "duration": 122,
+      "price": 459,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA01EVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:37.549532+00:00"
+    },
+    {
+      "id": "ORD-MDT-2026-11-20-18:20-21:33-133-459-3",
+      "origin": "ORD",
+      "destination": "MDT",
+      "destinationCity": "Harrisburg International Airport",
+      "date": "2026-11-20",
+      "departure": "18:20",
+      "arrival": "21:33",
+      "duration": 133,
+      "price": 459,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA01EVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:37.549538+00:00"
     },
     {
       "id": "EWR-SFO-2026-11-20-06:00-09:30-390-462-3",
@@ -2209,6 +2974,66 @@
       "updatedAt": "2026-11-19T00:29:10.126830+00:00"
     },
     {
+      "id": "ORD-HSV-2026-11-20-15:50-17:44-114-499-0",
+      "origin": "ORD",
+      "destination": "HSV",
+      "destinationCity": "Huntsville International Airport",
+      "date": "2026-11-20",
+      "departure": "15:50",
+      "arrival": "17:44",
+      "duration": 114,
+      "price": 499,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA0hTVkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:24.190037+00:00"
+    },
+    {
+      "id": "ORD-PHL-2026-11-20-11:03-14:17-134-506-1",
+      "origin": "ORD",
+      "destination": "PHL",
+      "destinationCity": "Philadelphia International Airport",
+      "date": "2026-11-20",
+      "departure": "11:03",
+      "arrival": "14:17",
+      "duration": 134,
+      "price": 506,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA1BITEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:51.047907+00:00"
+    },
+    {
+      "id": "ORD-PHL-2026-11-20-18:24-21:38-134-506-2",
+      "origin": "ORD",
+      "destination": "PHL",
+      "destinationCity": "Philadelphia International Airport",
+      "date": "2026-11-20",
+      "departure": "18:24",
+      "arrival": "21:38",
+      "duration": 134,
+      "price": 506,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA1BITEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:51.047914+00:00"
+    },
+    {
+      "id": "ORD-PHL-2026-11-20-19:57-23:10-133-506-3",
+      "origin": "ORD",
+      "destination": "PHL",
+      "destinationCity": "Philadelphia International Airport",
+      "date": "2026-11-20",
+      "departure": "19:57",
+      "arrival": "23:10",
+      "duration": 133,
+      "price": 506,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA1BITEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:51.047920+00:00"
+    },
+    {
       "id": "EWR-MEM-2026-11-20-13:49-15:47-178-510-0",
       "origin": "EWR",
       "destination": "MEM",
@@ -2267,6 +3092,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDRVdScgUSA0dSUkIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-11-19T00:28:25.794845+00:00"
+    },
+    {
+      "id": "ORD-ICT-2026-11-20-15:35-17:50-135-529-3",
+      "origin": "ORD",
+      "destination": "ICT",
+      "destinationCity": "Wichita Dwight D. Eisenhower National Airport",
+      "date": "2026-11-20",
+      "departure": "15:35",
+      "arrival": "17:50",
+      "duration": 135,
+      "price": 529,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA0lDVEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:26.103279+00:00"
     },
     {
       "id": "EWR-SNA-2026-11-20-06:30-09:44-374-530-0",
@@ -2479,6 +3319,21 @@
       "updatedAt": "2026-11-19T00:28:49.988519+00:00"
     },
     {
+      "id": "ORD-SHV-2026-11-20-20:17-22:57-160-559-0",
+      "origin": "ORD",
+      "destination": "SHV",
+      "destinationCity": "Shreveport Regional Airport",
+      "date": "2026-11-20",
+      "departure": "20:17",
+      "arrival": "22:57",
+      "duration": 160,
+      "price": 559,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA1NIVkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:28:06.905301+00:00"
+    },
+    {
       "id": "EWR-SAT-2026-11-20-08:10-11:39-269-569-0",
       "origin": "EWR",
       "destination": "SAT",
@@ -2612,6 +3467,21 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDRVdScgUSA0FUTEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-11-19T00:27:55.478499+00:00"
+    },
+    {
+      "id": "ORD-HSV-2026-11-20-19:50-21:52-122-599-1",
+      "origin": "ORD",
+      "destination": "HSV",
+      "destinationCity": "Huntsville International Airport",
+      "date": "2026-11-20",
+      "departure": "19:50",
+      "arrival": "21:52",
+      "duration": 122,
+      "price": 599,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA0hTVkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:24.190060+00:00"
     },
     {
       "id": "EWR-IAH-2026-11-20-05:19-08:24-245-619-0",
@@ -2749,6 +3619,36 @@
       "updatedAt": "2026-11-19T00:28:57.356410+00:00"
     },
     {
+      "id": "ORD-MLI-2026-11-20-12:40-13:55-75-628-0",
+      "origin": "ORD",
+      "destination": "MLI",
+      "destinationCity": "Quad Cities International Airport",
+      "date": "2026-11-20",
+      "departure": "12:40",
+      "arrival": "13:55",
+      "duration": 75,
+      "price": 628,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA01MSUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:41.396874+00:00"
+    },
+    {
+      "id": "ORD-MLI-2026-11-20-16:30-17:43-73-628-1",
+      "origin": "ORD",
+      "destination": "MLI",
+      "destinationCity": "Quad Cities International Airport",
+      "date": "2026-11-20",
+      "departure": "16:30",
+      "arrival": "17:43",
+      "duration": 73,
+      "price": 628,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA01MSUIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:41.396897+00:00"
+    },
+    {
       "id": "EWR-SMF-2026-11-20-18:33-21:58-385-644-0",
       "origin": "EWR",
       "destination": "SMF",
@@ -2792,6 +3692,51 @@
       "priceSignal": "standard economy",
       "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDRVdScgUSA0hOTEIBAUgBmAECyAEB&curr=USD&hl=en",
       "updatedAt": "2026-11-19T00:28:29.678491+00:00"
+    },
+    {
+      "id": "ORD-RSW-2026-11-20-17:45-21:48-183-709-1",
+      "origin": "ORD",
+      "destination": "RSW",
+      "destinationCity": "Southwest Florida International Airport",
+      "date": "2026-11-20",
+      "departure": "17:45",
+      "arrival": "21:48",
+      "duration": 183,
+      "price": 709,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA1JTV0IBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:28:00.411479+00:00"
+    },
+    {
+      "id": "ORD-PHL-2026-11-20-14:35-17:47-132-729-4",
+      "origin": "ORD",
+      "destination": "PHL",
+      "destinationCity": "Philadelphia International Airport",
+      "date": "2026-11-20",
+      "departure": "14:35",
+      "arrival": "17:47",
+      "duration": 132,
+      "price": 729,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA1BITEIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:51.047926+00:00"
+    },
+    {
+      "id": "ORD-HSV-2026-11-20-10:35-12:36-121-759-2",
+      "origin": "ORD",
+      "destination": "HSV",
+      "destinationCity": "Huntsville International Airport",
+      "date": "2026-11-20",
+      "departure": "10:35",
+      "arrival": "12:36",
+      "duration": 121,
+      "price": 759,
+      "airline": "United",
+      "priceSignal": "standard economy",
+      "buyLink": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA0hTVkIBAUgBmAECyAEB&curr=USD&hl=en",
+      "updatedAt": "2026-11-19T10:27:24.190067+00:00"
     },
     {
       "id": "EWR-BUF-2026-11-20-18:35-20:09-94-784-2",
@@ -4093,6 +5038,1217 @@
       "flightCount": 1,
       "updatedAt": "2026-11-19T00:29:27.944550+00:00",
       "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDRVdScgUSA1hOQUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-11-20|ORD|ABE": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "ABE",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:26:44.676699+00:00"
+    },
+    "2026-11-20|ORD|ABQ": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "ABQ",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:26:45.058432+00:00",
+      "error": "ValueError: Google Flights response did not contain the expected data script"
+    },
+    "2026-11-20|ORD|ACK": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "ACK",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:26:45.540236+00:00"
+    },
+    "2026-11-20|ORD|ALB": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "ALB",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:26:46.255895+00:00"
+    },
+    "2026-11-20|ORD|AMA": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "AMA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:26:46.725231+00:00"
+    },
+    "2026-11-20|ORD|ANC": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "ANC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:26:47.248051+00:00"
+    },
+    "2026-11-20|ORD|ASE": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "ASE",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:26:47.759493+00:00"
+    },
+    "2026-11-20|ORD|ATL": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "ATL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:26:48.390472+00:00"
+    },
+    "2026-11-20|ORD|ATW": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "ATW",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:26:49.076063+00:00"
+    },
+    "2026-11-20|ORD|AUS": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "AUS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:26:49.777284+00:00"
+    },
+    "2026-11-20|ORD|AVL": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "AVL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:26:50.450892+00:00"
+    },
+    "2026-11-20|ORD|BDL": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "BDL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:26:51.090887+00:00"
+    },
+    "2026-11-20|ORD|BFL": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "BFL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:26:51.677316+00:00"
+    },
+    "2026-11-20|ORD|BGR": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "BGR",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:26:52.328918+00:00"
+    },
+    "2026-11-20|ORD|BHM": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "BHM",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:26:52.820667+00:00"
+    },
+    "2026-11-20|ORD|BIL": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "BIL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:26:53.550073+00:00"
+    },
+    "2026-11-20|ORD|BIS": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "BIS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:26:54.124453+00:00"
+    },
+    "2026-11-20|ORD|BNA": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "BNA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:26:54.845045+00:00"
+    },
+    "2026-11-20|ORD|BOI": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "BOI",
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-11-19T10:26:55.619134+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA0JPSUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-11-20|ORD|BOS": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "BOS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:26:56.146903+00:00"
+    },
+    "2026-11-20|ORD|BRO": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "BRO",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:26:56.643065+00:00"
+    },
+    "2026-11-20|ORD|BTR": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "BTR",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:26:57.294230+00:00"
+    },
+    "2026-11-20|ORD|BTV": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "BTV",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:26:57.979766+00:00"
+    },
+    "2026-11-20|ORD|BUF": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "BUF",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:26:58.469044+00:00"
+    },
+    "2026-11-20|ORD|BWI": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "BWI",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:26:58.984535+00:00"
+    },
+    "2026-11-20|ORD|BZN": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "BZN",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:26:59.658028+00:00"
+    },
+    "2026-11-20|ORD|CAE": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "CAE",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:00.301144+00:00"
+    },
+    "2026-11-20|ORD|CHA": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "CHA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:01.026107+00:00"
+    },
+    "2026-11-20|ORD|CHS": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "CHS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:01.533916+00:00"
+    },
+    "2026-11-20|ORD|CID": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "CID",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:02.234681+00:00"
+    },
+    "2026-11-20|ORD|CLE": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "CLE",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:02.967770+00:00"
+    },
+    "2026-11-20|ORD|CLT": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "CLT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:03.612169+00:00"
+    },
+    "2026-11-20|ORD|CMH": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "CMH",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:04.267823+00:00"
+    },
+    "2026-11-20|ORD|COS": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "COS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:04.909942+00:00"
+    },
+    "2026-11-20|ORD|CPR": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "CPR",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:05.605365+00:00"
+    },
+    "2026-11-20|ORD|CRP": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "CRP",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:06.095385+00:00"
+    },
+    "2026-11-20|ORD|CVG": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "CVG",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:06.762696+00:00"
+    },
+    "2026-11-20|ORD|CWA": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "CWA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:07.450005+00:00"
+    },
+    "2026-11-20|ORD|DCA": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "DCA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:07.988294+00:00"
+    },
+    "2026-11-20|ORD|DFW": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "DFW",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:08.608440+00:00"
+    },
+    "2026-11-20|ORD|DLH": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "DLH",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:09.292715+00:00"
+    },
+    "2026-11-20|ORD|DRO": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "DRO",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:09.810061+00:00"
+    },
+    "2026-11-20|ORD|DSM": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "DSM",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:10.449454+00:00"
+    },
+    "2026-11-20|ORD|DTW": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "DTW",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:11.164132+00:00"
+    },
+    "2026-11-20|ORD|EGE": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "EGE",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:11.862057+00:00"
+    },
+    "2026-11-20|ORD|ELP": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "ELP",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:12.364335+00:00"
+    },
+    "2026-11-20|ORD|EUG": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "EUG",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:13.073304+00:00"
+    },
+    "2026-11-20|ORD|EVV": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "EVV",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:13.598159+00:00"
+    },
+    "2026-11-20|ORD|EWR": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "EWR",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:14.137337+00:00"
+    },
+    "2026-11-20|ORD|FAR": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "FAR",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:14.618275+00:00"
+    },
+    "2026-11-20|ORD|FAT": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "FAT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:15.148858+00:00"
+    },
+    "2026-11-20|ORD|FLL": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "FLL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:15.830631+00:00"
+    },
+    "2026-11-20|ORD|FSD": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "FSD",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:16.506688+00:00"
+    },
+    "2026-11-20|ORD|FWA": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "FWA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:17.017826+00:00"
+    },
+    "2026-11-20|ORD|GEG": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "GEG",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:17.591468+00:00"
+    },
+    "2026-11-20|ORD|GJT": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "GJT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:18.138757+00:00"
+    },
+    "2026-11-20|ORD|GRB": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "GRB",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:18.796595+00:00"
+    },
+    "2026-11-20|ORD|GRR": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "GRR",
+      "status": "ok",
+      "flightCount": 6,
+      "updatedAt": "2026-11-19T10:27:19.522931+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA0dSUkIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-11-20|ORD|GSO": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "GSO",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:20.160524+00:00"
+    },
+    "2026-11-20|ORD|GSP": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "GSP",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:20.848316+00:00"
+    },
+    "2026-11-20|ORD|HDN": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "HDN",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:21.603292+00:00"
+    },
+    "2026-11-20|ORD|HHH": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "HHH",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:22.179392+00:00"
+    },
+    "2026-11-20|ORD|HLN": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "HLN",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:22.822437+00:00"
+    },
+    "2026-11-20|ORD|HNL": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "HNL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:23.527586+00:00"
+    },
+    "2026-11-20|ORD|HSV": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "HSV",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-11-19T10:27:24.190139+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA0hTVkIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-11-20|ORD|IAD": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "IAD",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:24.818688+00:00"
+    },
+    "2026-11-20|ORD|IAH": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "IAH",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:25.354833+00:00"
+    },
+    "2026-11-20|ORD|ICT": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "ICT",
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-11-19T10:27:26.103351+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA0lDVEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-11-20|ORD|IDA": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "IDA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:26.838940+00:00"
+    },
+    "2026-11-20|ORD|ILM": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "ILM",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:27.523667+00:00"
+    },
+    "2026-11-20|ORD|IND": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "IND",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:28.070067+00:00"
+    },
+    "2026-11-20|ORD|JAC": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "JAC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:28.637454+00:00"
+    },
+    "2026-11-20|ORD|JAN": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "JAN",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:29.187890+00:00"
+    },
+    "2026-11-20|ORD|JAX": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "JAX",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:29.673879+00:00"
+    },
+    "2026-11-20|ORD|KOA": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "KOA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:30.328700+00:00"
+    },
+    "2026-11-20|ORD|LAS": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "LAS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:30.959569+00:00"
+    },
+    "2026-11-20|ORD|LAX": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "LAX",
+      "status": "ok",
+      "flightCount": 8,
+      "updatedAt": "2026-11-19T10:27:31.692430+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA0xBWEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-11-20|ORD|LBB": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "LBB",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:32.364836+00:00"
+    },
+    "2026-11-20|ORD|LGA": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "LGA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:32.997744+00:00"
+    },
+    "2026-11-20|ORD|LIH": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "LIH",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:33.675586+00:00"
+    },
+    "2026-11-20|ORD|LIT": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "LIT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:34.301884+00:00"
+    },
+    "2026-11-20|ORD|LNK": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "LNK",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:34.946821+00:00"
+    },
+    "2026-11-20|ORD|MAF": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "MAF",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:35.519928+00:00"
+    },
+    "2026-11-20|ORD|MCI": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "MCI",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:36.158688+00:00"
+    },
+    "2026-11-20|ORD|MCO": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "MCO",
+      "status": "ok",
+      "flightCount": 5,
+      "updatedAt": "2026-11-19T10:27:36.804889+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA01DT0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-11-20|ORD|MDT": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "MDT",
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-11-19T10:27:37.549613+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA01EVEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-11-20|ORD|MEM": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "MEM",
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-11-19T10:27:38.325710+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA01FTUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-11-20|ORD|MFE": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "MFE",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:38.989720+00:00"
+    },
+    "2026-11-20|ORD|MHT": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "MHT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:39.518320+00:00"
+    },
+    "2026-11-20|ORD|MIA": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "MIA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:40.010464+00:00"
+    },
+    "2026-11-20|ORD|MKE": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "MKE",
+      "status": "ok",
+      "flightCount": 7,
+      "updatedAt": "2026-11-19T10:27:40.824812+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA01LRUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-11-20|ORD|MLI": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "MLI",
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-11-19T10:27:41.396981+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA01MSUIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-11-20|ORD|MRY": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "MRY",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:42.108642+00:00"
+    },
+    "2026-11-20|ORD|MSN": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "MSN",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:42.745918+00:00"
+    },
+    "2026-11-20|ORD|MSO": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "MSO",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:43.268662+00:00"
+    },
+    "2026-11-20|ORD|MSP": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "MSP",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:43.829216+00:00"
+    },
+    "2026-11-20|ORD|MSY": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "MSY",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:44.501296+00:00"
+    },
+    "2026-11-20|ORD|MYR": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "MYR",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:45.155551+00:00"
+    },
+    "2026-11-20|ORD|OAK": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "OAK",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:45.890374+00:00"
+    },
+    "2026-11-20|ORD|OGG": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "OGG",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:46.563576+00:00"
+    },
+    "2026-11-20|ORD|OKC": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "OKC",
+      "status": "ok",
+      "flightCount": 4,
+      "updatedAt": "2026-11-19T10:27:47.162586+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA09LQ0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-11-20|ORD|OMA": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "OMA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:47.859121+00:00"
+    },
+    "2026-11-20|ORD|ONT": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "ONT",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:48.243256+00:00",
+      "error": "ValueError: Google Flights response did not contain the expected data script"
+    },
+    "2026-11-20|ORD|ORF": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "ORF",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:48.734260+00:00"
+    },
+    "2026-11-20|ORD|PBI": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "PBI",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:49.607117+00:00"
+    },
+    "2026-11-20|ORD|PDX": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "PDX",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:50.304994+00:00"
+    },
+    "2026-11-20|ORD|PHL": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "PHL",
+      "status": "ok",
+      "flightCount": 5,
+      "updatedAt": "2026-11-19T10:27:51.048014+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA1BITEIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-11-20|ORD|PHX": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "PHX",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:51.767761+00:00"
+    },
+    "2026-11-20|ORD|PIA": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "PIA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:52.446676+00:00"
+    },
+    "2026-11-20|ORD|PIT": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "PIT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:53.036285+00:00"
+    },
+    "2026-11-20|ORD|PNS": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "PNS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:53.676471+00:00"
+    },
+    "2026-11-20|ORD|PSC": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "PSC",
+      "status": "error",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:54.198990+00:00",
+      "error": "ValueError: Google Flights response did not contain the expected data script"
+    },
+    "2026-11-20|ORD|PSP": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "PSP",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:54.898311+00:00"
+    },
+    "2026-11-20|ORD|PWM": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "PWM",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:55.470410+00:00"
+    },
+    "2026-11-20|ORD|RAP": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "RAP",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:55.990663+00:00"
+    },
+    "2026-11-20|ORD|RDM": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "RDM",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:56.500395+00:00"
+    },
+    "2026-11-20|ORD|RDU": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "RDU",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:57.269401+00:00"
+    },
+    "2026-11-20|ORD|RIC": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "RIC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:57.973490+00:00"
+    },
+    "2026-11-20|ORD|RNO": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "RNO",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:58.453676+00:00"
+    },
+    "2026-11-20|ORD|ROA": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "ROA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:59.041005+00:00"
+    },
+    "2026-11-20|ORD|ROC": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "ROC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:27:59.697067+00:00"
+    },
+    "2026-11-20|ORD|RSW": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "RSW",
+      "status": "ok",
+      "flightCount": 2,
+      "updatedAt": "2026-11-19T10:28:00.411558+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA1JTV0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-11-20|ORD|SAN": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "SAN",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:28:01.044727+00:00"
+    },
+    "2026-11-20|ORD|SAT": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "SAT",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:28:01.705902+00:00"
+    },
+    "2026-11-20|ORD|SAV": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "SAV",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:28:02.267163+00:00"
+    },
+    "2026-11-20|ORD|SBA": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "SBA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:28:02.909377+00:00"
+    },
+    "2026-11-20|ORD|SBN": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "SBN",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:28:03.585603+00:00"
+    },
+    "2026-11-20|ORD|SDF": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "SDF",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-11-19T10:28:04.370789+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA1NERkIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-11-20|ORD|SEA": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "SEA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:28:04.951734+00:00"
+    },
+    "2026-11-20|ORD|SFO": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "SFO",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:28:05.651436+00:00"
+    },
+    "2026-11-20|ORD|SGF": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "SGF",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:28:06.160599+00:00"
+    },
+    "2026-11-20|ORD|SHV": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "SHV",
+      "status": "ok",
+      "flightCount": 1,
+      "updatedAt": "2026-11-19T10:28:06.905398+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA1NIVkIBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-11-20|ORD|SJC": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "SJC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:28:07.539972+00:00"
+    },
+    "2026-11-20|ORD|SLC": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "SLC",
+      "status": "ok",
+      "flightCount": 3,
+      "updatedAt": "2026-11-19T10:28:08.218850+00:00",
+      "searchUrl": "https://www.google.com/travel/flights/search?tfs=GiASCjIwMjYtMTEtMjAoADICVUFqBRIDT1JEcgUSA1NMQ0IBAUgBmAECyAEB&curr=USD&hl=en"
+    },
+    "2026-11-20|ORD|SMF": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "SMF",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:28:08.738964+00:00"
+    },
+    "2026-11-20|ORD|SNA": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "SNA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:28:09.305103+00:00"
+    },
+    "2026-11-20|ORD|SRQ": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "SRQ",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:28:09.953669+00:00"
+    },
+    "2026-11-20|ORD|STL": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "STL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:28:10.452108+00:00"
+    },
+    "2026-11-20|ORD|STS": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "STS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:28:10.991039+00:00"
+    },
+    "2026-11-20|ORD|SUN": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "SUN",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:28:11.631561+00:00"
+    },
+    "2026-11-20|ORD|SYR": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "SYR",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:28:12.173639+00:00"
+    },
+    "2026-11-20|ORD|TLH": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "TLH",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:28:12.698669+00:00"
+    },
+    "2026-11-20|ORD|TPA": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "TPA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:28:13.229744+00:00"
+    },
+    "2026-11-20|ORD|TUL": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "TUL",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:28:13.833005+00:00"
+    },
+    "2026-11-20|ORD|TUS": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "TUS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:28:14.346513+00:00"
+    },
+    "2026-11-20|ORD|TVC": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "TVC",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:28:14.858353+00:00"
+    },
+    "2026-11-20|ORD|TYS": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "TYS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:28:15.489603+00:00"
+    },
+    "2026-11-20|ORD|VPS": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "VPS",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:28:16.211364+00:00"
+    },
+    "2026-11-20|ORD|XNA": {
+      "date": "2026-11-20",
+      "origin": "ORD",
+      "destination": "XNA",
+      "status": "no_results",
+      "flightCount": 0,
+      "updatedAt": "2026-11-19T10:28:16.947790+00:00"
     }
   }
 }
